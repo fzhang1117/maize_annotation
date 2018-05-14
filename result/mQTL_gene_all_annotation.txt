@@ -1,0 +1,515 @@
+GeneSymbol	altName	NCBI_Accession	Chr	Start	End	Zma_alias	Zma_fullname	Zma_description	Ara_ortholog	Ara_alias	Annotation	TF	EC	KO	GO
+GRMZM2G060886	AtPMEAMT,PMEAMT(Ara)	NP_001148925	-	-	-	-	-	LOC100282545 	AT1G48600	AtPMEAMT,PMEAMT	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	-	2.1.1.103		GO:GO:0008168,GO:GO:0008152
+GRMZM2G131152	TBL26(Ara)	NP_001131156	-	-	-	-	-	hypothetical protein LOC100192464 	AT4G01080	TBL26	TRICHOME BIREFRINGENCE-LIKE 26	-			
+GRMZM2G144028	GRMZM2G144028	NP_001141425	-	-	-	-	-	hypothetical protein LOC100273535 	AT1G18390		Protein kinase superfamily protein	-	2.7.11.1		GO:GO:0006468,GO:GO:0005524,GO:GO:0004672
+GRMZM2G144021	GRMZM2G144021	NP_001151953	-	-	-	-	-	esterase/lipase/thioesterase 	AT5G38220		alpha/beta-Hydrolases superfamily protein	-			
+GRMZM2G050270	GRMZM2G050270	NP_001150503	-	-	-	-	-	3-N-debenzoyl-2-deoxytaxol N-benzoyltransferase 	AT3G62160		HXXXD-type acyl-transferase family protein	-			GO:GO:0016747
+GRMZM2G151195	GRMZM2G151195	-	-	-	-	-	-	-	AT3G58050			-			
+GRMZM2G166837	GRMZM2G166837	-	-	-	-	-	-	-	AT1G76470		NAD(P)-binding Rossmann-fold superfamily protein	-			
+GRMZM2G153378	GRMZM2G153378	NP_001142493	-	-	-	-	-	hypothetical protein LOC100274721 				-			
+GRMZM2G130773	mterf9	NM_001158832	Chr2	208,493,066	208,496,996	mterf9	mTERF-domain protein9	mTERF family protein (LOC100285943), mRNA	AT5G55580		Mitochondrial transcription termination factor family protein	-		K15032	GO:GO:0006355,GO:GO:0005739,GO:GO:0003690
+GRMZM2G319781	GRMZM2G319781	-	-	-	-	-	-	-				-			GO:GO:0006810,GO:GO:0005622
+GRMZM2G166297	prh4	-	Chr8	168,030,486	168,032,471	prh4	protein phosphatase homolog4	-	AT1G07430	HAI2	highly ABA-induced PP2C gene 2	-	3.1.3.16	K14497	GO:GO:0003824,GO:GO:0006470,GO:GO:0004722
+GRMZM2G166719	GRMZM2G166719	-	-	-	-	-	-	-	AT1G33260		Protein kinase superfamily protein	-	2.7.11.1,2.7.10.1		GO:GO:0006468,GO:GO:0005524,GO:GO:0004672
+GRMZM2G428391	ATHSP70,HSP70(Ara)	NP_001148198	-	-	-	-	-	heat shock cognate 70 kDa protein 2 	AT3G12580	ATHSP70,HSP70	heat shock protein 70	-		K03283	
+GRMZM2G168917	GRMZM2G168917	B6TE49	-	-	-	-	-	Leucine-rich repeat receptor protein kinase EXS 	AT1G33260		Protein kinase superfamily protein	-	2.7.11.1,2.7.10.1		GO:GO:0006468,GO:GO:0005524,GO:GO:0004672
+GRMZM2G033007	GRMZM2G033007	-	-	-	-	-	-	-	AT5G61310		Cytochrome c oxidase subunit Vc family protein	-			
+GRMZM2G360219	GRMZM2G360219	-	-	-	-	-	-	-	AT3G47570		Leucine-rich repeat protein kinase family protein	-	2.7.11.1		GO:GO:0005515
+GRMZM2G018251	FEY,FEY3(Ara)	NP_001150950	-	-	-	-	-	WW domain-containing oxidoreductase 	AT4G27760	FEY,FEY3	NAD(P)-binding Rossmann-fold superfamily protein	-	1.1.1.300		
+GRMZM2G032145	burp3	NP_001142627	Chr7	6,575,550	6,579,920	burp3	BURP domain-containing protein-RD22-like3	hypothetical protein LOC100274899 	AT5G25610	ATRD22,RD22	BURP domain-containing protein	-			
+GRMZM2G474726	ATTERC,PDE149(Ara)	-	-	-	-	-	-	-	AT5G12130	ATTERC,PDE149	integral membrane TerC family protein	-			GO:GO:0016021
+GRMZM2G097349	hb49	NP_001151416	Chr1	243,185,151	243,187,447	hb49	Homeobox-transcription factor 49	homeobox-leucine zipper protein HAT7 	AT1G69780	ATHB13	Homeobox-leucine zipper protein family	HD-ZIP		K09338	GO:GO:0043565,GO:GO:0006355,GO:GO:0003700,GO:GO:0003677
+GRMZM2G044989	GRMZM2G044989	NP_001131742	-	-	-	-	-	hypothetical protein LOC100193108 	AT4G24790		AAA-type ATPase family protein	-	2.7.7.7		
+GRMZM5G862882	GRMZM5G862882	NP_001141097	-	-	-	-	-	hypothetical protein LOC100273180 	AT3G58060		Cation efflux family protein	-			GO:GO:0055085,GO:GO:0016021,GO:GO:0008324,GO:GO:0006812
+GRMZM2G118515	tcp1	NP_001132898	Chr8	159,216,940	159,224,411	tcp1	thiamine diphosphate carrier protein1	hypothetical protein LOC100194395 	AT5G48970		Mitochondrial substrate carrier family protein	-		K15108	
+GRMZM2G335657	mtLPD1(Ara)	C4J5G3	-	-	-	-	-	Putative uncharacterized protein 	AT1G48030	mtLPD1	mitochondrial lipoamide dehydrogenase 1	-	1.8.1.4,1.6.2.6	K00382	GO:GO:0055114,GO:GO:0016491,GO:GO:0045454
+GRMZM2G120839	ATCRR3,CCR3(Ara)	-	-	-	-	-	-	-	AT3G55950	ATCRR3,CCR3	CRINKLY4 related 3	-	2.7.11.1		GO:GO:0006468,GO:GO:0005524,GO:GO:0004672
+GRMZM2G137849	ATBT1,EMB104,EMB42,SHS1(Ara)	NP_001123588	-	-	-	-	-	LOC100170234 	AT4G32400	ATBT1,EMB104,EMB42,SHS1	Mitochondrial substrate carrier family protein	-			
+GRMZM2G039588	GRMZM2G039588	NP_001146695	-	-	-	-	-	hypothetical protein LOC100280296 	AT5G57330		Galactose mutarotase-like superfamily protein	-	5.1.3.15		GO:GO:0016853,GO:GO:0005975
+AC198923.4_FG002	AC198923.4_FG002	B6SSB4	-	-	-	-	-	Putative uncharacterized protein 				-			
+GRMZM5G889321	GRMZM5G889321	-	-	-	-	-	-	-	AT5G04500		glycosyltransferase family protein 47	-	2.4.1.225,2.4.1.224		GO:GO:0016021,GO:GO:0015012,GO:GO:0006024
+GRMZM2G121612	ATSS3,SS3(Ara)	NP_001106015	-	-	-	-	-	starch synthase IIIb-1 precursor 	AT1G11720	ATSS3,SS3	starch synthase 3	-	2.4.1.21		
+GRMZM2G112908	GRMZM2G112908	-	-	-	-	-	-	-	AT5G58560		Phosphatidate cytidylyltransferase family protein	-			
+GRMZM2G320920	emb1345(Ara)	-	-	-	-	-	-	-	AT2G26060	emb1345	Transducin/WD40 repeat-like superfamily protein	-			GO:GO:0005515
+GRMZM2G456132	GRMZM2G456132	NM_001154938	-	-	-	-	-	nucleic acid binding protein (LOC100282025), mRNA	AT1G31600		RNA-binding (RRM/RBD/RNP motifs) family protein	-	2.1.1.229	K10770	
+GRMZM2G156206	GRMZM2G156206	NP_001141557	-	-	-	-	-	hypothetical protein LOC100273673 	AT5G64090			-			
+GRMZM2G143599	GRMZM2G143599	NP_001149189	-	-	-	-	-	mps one binder kinase activator-like 1A 	AT5G45550		Mob1/phocein family protein	-		K06685	
+GRMZM2G035156	bhlh74	-	Chr1	15,133,264	15,135,363	bhlh74	bHLH-transcription factor 74	-	AT3G47710	BHLH161,BNQ3	BANQUO 3	bHLH			GO:GO:0046983
+GRMZM2G003417	ABC1,ATABC1,ATATH10(Ara)	-	-	-	-	-	-	-	AT4G01660	ABC1,ATABC1,ATATH10	ABC transporter 1	-			
+GRMZM2G374385	GRMZM2G374385	NP_001131687	-	-	-	-	-	hypothetical protein LOC100193047 	AT2G18220		Noc2p family	-			
+GRMZM5G867798	GRMZM5G867798	NP_001146903	-	-	-	-	-	BRASSINOSTEROID INSENSITIVE 1-associated receptor kinase 1 	AT5G10290		leucine-rich repeat transmembrane protein kinase family protein	-	2.7.11.1		GO:GO:0005515,GO:GO:0006468,GO:GO:0004672
+GRMZM2G141925	GRMZM2G141925	NP_001150766	-	-	-	-	-	LOC100284399 	AT3G19460		Reticulon family protein	-			
+GRMZM2G112836	GRMZM2G112836	-	-	-	-	-	-	-	AT2G28150		Domain of unknown function (DUF966)	-			
+GRMZM2G008748	GRMZM2G008748	NP_001130513	-	-	-	-	-	hypothetical protein LOC100191612 	AT1G74050		Ribosomal protein L6 family protein	-			GO:GO:0006412,GO:GO:0005840,GO:GO:0005622,GO:GO:0003735
+GRMZM2G139199	GRMZM2G139199	-	-	-	-	-	-	-	AT5G63370		Protein kinase superfamily protein	-	2.7.11.22	K08818	GO:GO:0006468,GO:GO:0004672
+GRMZM2G063394	GRMZM2G063394	-	-	-	-	-	-	-	AT1G76390		ARM repeat superfamily protein	-	6.3.2.19		GO:GO:0016567,GO:GO:0004842
+GRMZM2G014180	ATRAP74,RAP74(Ara)	NP_001148823	-	-	-	-	-	LOC100282440 	AT4G12610	ATRAP74,RAP74	transcription activators;DNA binding;RNA polymerase II transcription factors;catalytics;transcription initiation factors	-			GO:GO:0032968,GO:GO:0006367,GO:GO:0005634,GO:GO:0003677
+GRMZM2G141818	ago104	NP_001169445	Chr6	168,642,369	168,650,358	ago104	argonaute104	hypothetical protein LOC100383316 	AT2G27040	AGO4,OCP11	Argonaute family protein	-		K11593	GO:GO:0005515
+GRMZM2G018193	GRMZM2G018193	-	-	-	-	-	-	-				-			GO:GO:0045735
+GRMZM2G018586	GRMZM2G018586	NP_001148900	-	-	-	-	-	ER6 protein 	AT1G09740		Adenine nucleotide alpha hydrolases-like superfamily protein	-			GO:GO:0006950
+GRMZM2G005290	GRMZM2G005290	-	-	-	-	-	-	-	AT1G03230		Eukaryotic aspartyl protease family protein	-	3.4.23.12		GO:GO:0006508,GO:GO:0004190
+GRMZM2G087212	AtTMN1,TMN1(Ara)	NP_001140443	-	-	-	-	-	hypothetical protein LOC100272502 	AT1G10950	AtTMN1,TMN1	transmembrane nine 1	-		K17087	GO:GO:0016021
+GRMZM2G376743	LTI65,RD29B(Ara)	-	-	-	-	-	-	-	AT5G52300	LTI65,RD29B	CAP160 protein	-			
+GRMZM2G163227	GRMZM2G163227	NP_001144763	-	-	-	-	-	hypothetical protein LOC100277822 	AT2G45060		Uncharacterised conserved protein UCP022280	-			
+AC233945.1_FG003	AC233945.1_FG003	NP_001151913	-	-	-	-	-	LOC100285550 	AT1G71140		MATE efflux family protein	-		K03327	GO:GO:0055085,GO:GO:0016020,GO:GO:0015297,GO:GO:0015238,GO:GO:0006855
+GRMZM2G154628	pip2d	Q9ATM6	Chr5	195,239,679	195,242,694	pip2d	plasma membrane intrinsic protein2	Aquaporin PIP2-4 (Plasma membrane intrinsic protein 2-4)(ZmPIP2-4)(ZmPIP2;4)	AT3G53420	PIP2,PIP2;1,PIP2A	plasma membrane intrinsic protein 2A	-		K09872	GO:GO:0016020,GO:GO:0006810,GO:GO:0005215
+GRMZM2G146948	GRMZM2G146948	NP_001151127	-	-	-	-	-	calcineurin subunit B 	AT3G18430		Calcium-binding EF-hand family protein	-		K06268	
+GRMZM2G037485	csu147	NP_001168583	Chr9	101,747,048	101,748,531	csu147		hypothetical protein LOC100382367 				-			
+GRMZM5G897988	GRMZM5G897988	NP_001149895	-	-	-	-	-	LOC100283523 	AT3G54130		Josephin family protein	-	3.4.19.12	K11863	GO:GO:0008242
+GRMZM2G309970	WPP2(Ara)	NP_001159027	-	-	-	-	-	hypothetical protein LOC100304042 	AT1G47200	WPP2	WPP domain protein 2	-			
+GRMZM2G396402	GRMZM2G396402	NP_001145615	-	-	-	-	-	hypothetical protein LOC100279098 	AT1G27461			-			
+GRMZM2G071223	GRMZM2G071223	B6SIQ4	-	-	-	-	-	Putative uncharacterized protein 	AT2G43780			-			
+GRMZM2G366402	GRMZM2G366402	NP_001141076	-	-	-	-	-	hypothetical protein LOC100273158 	AT1G20110		RING/FYVE/PHD zinc finger superfamily protein	-			GO:GO:0046872
+GRMZM2G098557	sbp7	-	Chr4	200,132,272	200,137,588	sbp7	SBP-transcription factor 7	-	AT1G20980	ATSPL14,FBR6,SPL14,SPL1R2	squamosa promoter binding protein-like 14	SBP			GO:GO:0005634,GO:GO:0003677
+GRMZM2G035370	glk16	-	Chr2	3,109,831	3,112,898	glk16	G2-like-transcription factor 16	-	AT5G06800		myb-like HTH transcriptional regulator family protein	G2-like			
+GRMZM2G485559	AtENODL17,ENODL17(Ara)	NP_001149513	-	-	-	-	-	blue copper protein 	AT5G15350	AtENODL17,ENODL17	early nodulin-like protein 17	-			GO:GO:0009055
+GRMZM2G152466	tua4	P33626	Chr5	9,481,738	9,485,476	tua4	alpha tubulin4	Tubulin alpha-4 chain Fragments (Alpha-4-tubulin)	AT4G14960	TUA6	Tubulin/FtsZ family protein	-		K07374	GO:GO:0003924,GO:GO:0007017,GO:GO:0005874
+GRMZM2G067707	GRMZM2G067707	B4FET5	-	-	-	-	-	Putative uncharacterized proteinUbiquinol-cytochrome c reductase complex ubiquinone-binding protein QP-C ;	AT3G10860		Cytochrome b-c1 complex, subunit 8 protein	-			GO:GO:0008121
+GRMZM2G012933	GRMZM2G012933	-	-	-	-	-	-	-	AT3G14470		NB-ARC domain-containing disease resistance protein	-			GO:GO:0043531
+GRMZM2G053458	fdx3	P27788	Chr1	296,097,227	296,102,118	fdx3	ferredoxin3	Ferredoxin-3, chloroplastic Precursor (Ferredoxin III)(Fd III)	AT2G27510	ATFD3,FD3	ferredoxin 3	-		K02639	GO:GO:0051536,GO:GO:0009055
+GRMZM2G416386	ADCS,emb1997(Ara)	-	-	-	-	-	-	-	AT2G28880	ADCS,emb1997	para-aminobenzoate (PABA) synthase family protein	-	2.6.1.85	K13950	GO:GO:0016833,GO:GO:0009058
+GRMZM2G073591	mmp66	NP_001169539	Chr1	37,319,479	37,323,563	mmp66		hypothetical protein LOC100383415 	AT1G77740	PIP5K2	phosphatidylinositol-4-phosphate 5-kinase 2	-	2.7.1.68		GO:GO:0046488,GO:GO:0016307
+GRMZM2G119941	incw4	NM_001111429	Chr2	3,190,291	3,193,646	incw4	invertase cell wall4	invertase cell wall4 (incw4), mRNA	AT1G55120	AtcwINV3,ATFRUCT5,FRUCT5	beta-fructofuranosidase 5	-	3.2.1.26	K01193	
+GRMZM2G487359	GRMZM2G487359	-	-	-	-	-	-	-	AT4G02030		Vps51/Vps67 family (components of vesicular transport) protein	-			
+GRMZM2G371944	GRMZM2G371944	NP_001143388	-	-	-	-	-	hypothetical protein LOC100276026 	AT2G42130		Plastid-lipid associated protein PAP / fibrillin family protein	-			
+GRMZM2G008468	GRMZM2G008468	NP_001148539	-	-	-	-	-	golgi transport 1 protein B 	AT3G03180		Got1/Sft2-like vescicle transport protein family	-			GO:GO:0016192
+GRMZM2G143535	GRMZM2G143535	NP_001151800	-	-	-	-	-	DNA-3-methyladenine glycosylase 	AT3G12040		DNA-3-methyladenine glycosylase (MAG)	-	3.2.2.21	K03652	GO:GO:0006284,GO:GO:0003905,GO:GO:0003677
+GRMZM2G429057	GRMZM2G429057	-	-	-	-	-	-	-	AT1G80360		Pyridoxal phosphate (PLP)-dependent transferases superfamily protein	-			GO:GO:0030170,GO:GO:0009058
+GRMZM5G843237	GRMZM5G843237	-	-	-	-	-	-	-				-			
+GRMZM2G534113	GRMZM2G534113	-	-	-	-	-	-	-				-			
+GRMZM2G470862	GRMZM2G470862	NP_001130982	-	-	-	-	-	hypothetical protein LOC100192087 	AT3G08000		RNA-binding (RRM/RBD/RNP motifs) family protein	-			GO:GO:0003676
+GRMZM2G018148	YSL7(Ara)	-	-	-	-	-	-	-	AT1G65730	YSL7	YELLOW STRIPE like 7	-			GO:GO:0055085
+GRMZM2G422259	GRMZM2G422259	NP_001142887	-	-	-	-	-	hypothetical protein LOC100275300 				-			
+GRMZM2G367834	GRMZM2G367834	-	Chr2	196,361,823	196,383,651	GRMZM2G367834		-	AT2G46790	APRR9,PRR9,TL1	pseudo-response regulator 9	-		K12130	GO:GO:0005515,GO:GO:0000160
+GRMZM5G863146	GRMZM5G863146	NP_001168944	-	-	-	-	-	hypothetical protein LOC100382758 	AT3G18215		Protein of unknown function, DUF599	-			
+GRMZM2G120657	mmp195d	B7ZX26	Chr1	286,920,861	286,924,957	mmp195d		Putative uncharacterized protein 	AT3G03770		Leucine-rich repeat protein kinase family protein	-	2.7.11.1		GO:GO:0005515,GO:GO:0006468,GO:GO:0004672
+GRMZM2G145204	GRMZM2G145204	C4J932	-	-	-	-	-	Putative uncharacterized protein 	AT2G42490		Copper amine oxidase family protein	-	1.4.3.21		GO:GO:0055114,GO:GO:0048038,GO:GO:0009308,GO:GO:0008131,GO:GO:0005507
+GRMZM2G043489	GRMZM2G043489	NP_001146572	-	-	-	-	-	hypothetical protein LOC100280168 	AT1G74160			-			
+GRMZM2G163081	rpl5b	NP_001151284	Chr8	163,737,203	163,740,608	rpl5b	60S ribosomal protein L5-1 homolog b	60S ribosomal protein L5-1 	AT3G25520	ATL5,OLI5,PGY3,RPL5A	ribosomal protein L5	-		K02932	GO:GO:0006412,GO:GO:0005840,GO:GO:0005622,GO:GO:0003735,GO:GO:0008097
+GRMZM2G120008	GRMZM2G120008	NP_001143230	-	-	-	-	-	hypothetical protein LOC100275747 				-			
+GRMZM2G163304	GRMZM2G163304	NP_001140806	-	-	-	-	-	hypothetical protein LOC100272881 	AT5G47610		RING/U-box superfamily protein	-			
+GRMZM2G082894	GRMZM2G082894	-	-	-	-	-	-	-	AT4G27390			-			
+GRMZM2G070273	kcbp1	Q9FQL7	Chr2	3,067,260	3,076,483	kcbp1	kinesin-like calmodulin binding protein1	Kinesin-like calmodulin binding protein 	AT5G65930	KCBP,PKCBP,ZWI	kinesin-like calmodulin-binding protein (ZWICHEL)	-	3.6.4.5		GO:GO:0005856,GO:GO:0008017,GO:GO:0007018,GO:GO:0005524,GO:GO:0003777,GO:GO:0005871
+GRMZM2G352415	GRMZM2G352415	NP_001130539	-	-	-	-	-	hypothetical protein LOC100191638 	AT2G44060		Late embryogenesis abundant protein, group 2	-			
+GRMZM2G018241	cesa9	NP_001104959	Chr2	161,757,546	161,763,704	cesa9	cellulose synthase9	cellulose synthase-9 	AT5G05170	ATCESA3,ATH-B,CESA3,CEV1,IXR1	Cellulose synthase family protein	-	2.4.1.12	K10999	
+GRMZM5G814549	GRMZM5G814549	NP_001146017	-	-	-	-	-	hypothetical protein LOC100279548 	AT4G22760		Tetratricopeptide repeat (TPR)-like superfamily protein	-			
+GRMZM2G438895	GRMZM2G438895	-	-	-	-	-	-	-	AT4G36520		Chaperone DnaJ-domain superfamily protein	-			
+GRMZM2G107696	ATUBP14,PER1,TTN6,UBP14(Ara)	NP_001169228	-	-	-	-	-	hypothetical protein LOC100383086 	AT3G20630	ATUBP14,PER1,TTN6,UBP14	ubiquitin-specific protease 14	-	3.4.19.12	K11836	GO:GO:0008270
+GRMZM2G164265	GRMZM2G164265	NP_001152463	-	-	-	-	-	ATP binding protein 	AT3G03940		Protein kinase family protein	-	2.7.11.1		GO:GO:0006468,GO:GO:0005524,GO:GO:0004672
+GRMZM2G053299	umc2243	NP_001141313	Chr1	296,102,632	296,106,489	umc2243		hypothetical protein LOC100273404 	AT5G09810	ACT7	actin 7	-		K10355	
+GRMZM2G104538	cl25041_1a	Q2N2K4	Chr2	2,500,510	2,502,357	cl25041_1a		Probable phytol kinase, chloroplastic Precursor (EC 2.7.-.-)	AT5G04490	VTE5	vitamin E pathway gene 5	-	2.7.1.182	K18678	
+GRMZM2G104430	GRMZM2G104430	-	-	-	-	-	-	-	AT1G14570		UBX domain-containing protein	-			GO:GO:0005515
+GRMZM2G324767	umc1196a	NP_001145158	Chr10	143,142,000	143,142,817	umc1196a		hypothetical protein LOC100278392 	AT3G22070		proline-rich family protein	-			
+GRMZM2G179462	pmpm4	B6SPH7	Chr1	43,986,382	43,987,175	pmpm4	proteolipid membrane potential regulator4	Putative uncharacterized protein 	AT2G38905		Low temperature and salt responsive protein family	-			GO:GO:0016021
+GRMZM2G449019	UGT88A1(Ara)	-	-	-	-	-	-	-	AT3G16520	UGT88A1	UDP-glucosyl transferase 88A1	-			GO:GO:0016758,GO:GO:0008152
+GRMZM5G852329	GRMZM5G852329	B4FSS0	-	-	-	-	-	Putative uncharacterized protein 	AT4G31170		Protein kinase superfamily protein	-	2.7.12.1		GO:GO:0006468,GO:GO:0004672
+AC206638.3_FG007	AC206638.3_FG007	NP_001150877	-	-	-	-	-	VQ motif family protein 	AT3G58000		VQ motif-containing protein	-			
+GRMZM2G466835	AtRLP46,RLP46(Ara)	NP_001170171	-	-	-	-	-	hypothetical protein LOC100384111 	AT4G04220	AtRLP46,RLP46	receptor like protein 46	-	2.7.11.1		GO:GO:0005515
+GRMZM2G045070	GRMZM2G045070	NP_001147914	-	-	-	-	-	topoisomerase-like protein 	AT5G63190		MA3 domain-containing protein	-			
+GRMZM2G060183	ATPLT5,ATPMT5,PMT5(Ara)	NP_001146002	-	-	-	-	-	hypothetical protein LOC100279532 	AT3G18830	ATPLT5,ATPMT5,PMT5	polyol/monosaccharide transporter 5	-			GO:GO:0055085,GO:GO:0016021
+GRMZM2G043943	GRMZM2G043943	-	-	-	-	-	-	-	AT5G19730		Pectin lyase-like superfamily protein	-	3.1.1.11	K01051	GO:GO:0042545,GO:GO:0030599,GO:GO:0005618
+GRMZM2G039345	GRMZM2G039345	-	-	-	-	-	-	-	AT1G73110		P-loop containing nucleoside triphosphate hydrolases superfamily protein	-			
+GRMZM2G017429	mterf19	NP_001169079	Chr5	207,948,915	207,950,416	mterf19	mTERF-domain protein19	hypothetical protein LOC100382920 	AT5G07900		Mitochondrial transcription termination factor family protein	-		K15032	GO:GO:0006355,GO:GO:0005739,GO:GO:0003690
+GRMZM2G431309	gras75	NP_001147837	Chr2	208,500,828	208,504,903	gras75	GRAS-transcription factor 75	LOC100281447 	AT1G50600	SCL5	scarecrow-like 5	GRAS			
+GRMZM2G095595	GRMZM2G095595	NP_001159115	-	-	-	-	-	hypothetical protein LOC100304188 				-			
+GRMZM2G463871	ATBETAFRUCT4,VAC-INV(Ara)	-	-	-	-	-	-	-	AT1G12240	ATBETAFRUCT4,VAC-INV	Glycosyl hydrolases family 32 protein	-	3.2.1.26	K01193	GO:GO:0004575,GO:GO:0004564
+GRMZM2G164672	GRMZM2G164672	-	-	-	-	-	-	-				-			
+GRMZM2G120596	ATSEC22,SEC22(Ara)	-	-	-	-	-	-	-	AT1G11890	ATSEC22,SEC22	Synaptobrevin family protein	-			GO:GO:0016192,GO:GO:0016021
+GRMZM2G099745	GRMZM2G099745	NP_001147003	-	-	-	-	-	LOC100280613 	AT2G04410		RPM1-interacting protein 4 (RIN4) family protein	-			
+GRMZM2G035338	GRMZM2G035338	NP_001140315	-	-	-	-	-	hypothetical protein LOC100272360 	AT1G03030		P-loop containing nucleoside triphosphate hydrolases superfamily protein	-	2.7.1.48		GO:GO:0016301,GO:GO:0008152,GO:GO:0005524
+GRMZM2G009510	ATCHS,CHS,TT4(Ara)	-	-	-	-	-	-	-	AT5G13930	ATCHS,CHS,TT4	Chalcone and stilbene synthase family protein	-	2.3.1.211		GO:GO:0016747,GO:GO:0008610,GO:GO:0016020,GO:GO:0006633
+GRMZM2G167103	GRMZM2G167103	NP_001149698	-	-	-	-	-	LOC100283325 	AT3G30340		nodulin MtN21 /EamA-like transporter family protein	-		K02940	GO:GO:0016021,GO:GO:0016020,GO:GO:0019843,GO:GO:0006412,GO:GO:0005840,GO:GO:0003735,GO:GO:0022857
+GRMZM2G386952	AtRLP45,RLP45(Ara)	-	-	-	-	-	-	-	AT3G53240	AtRLP45,RLP45	receptor like protein 45	-	2.7.11.1,2.7.10.1		GO:GO:0005515
+GRMZM2G016259	GRMZM2G016259	NP_001169855	-	-	-	-	-	hypothetical protein LOC100383748 				-			
+GRMZM2G436583	ATCNGC14,CNGC14(Ara)	-	-	-	-	-	-	-	AT2G24610	ATCNGC14,CNGC14	cyclic nucleotide-gated channel 14	-			
+GRMZM5G849091	GRMZM5G849091	-	-	-	-	-	-	-				-			
+GRMZM5G847216	GRMZM5G847216	NP_001144328	-	-	-	-	-	hypothetical protein LOC100277225 	AT3G14760			-			
+GRMZM2G414696	GRMZM2G414696	-	-	-	-	-	-	-				-			
+GRMZM5G832375	GRMZM5G832375	-	-	-	-	-	-	-				-			
+AC196726.2_FG001	AC196726.2_FG001	B6UFR6	-	-	-	-	-	Putative uncharacterized protein 				-			
+GRMZM2G365770	GRMZM2G365770	NM_001176272	-	-	-	-	-	hypothetical protein LOC100383624 (LOC100383624), mRNA	AT3G15040		Protein of unknown function, DUF584	-			
+GRMZM2G020484	ATPTR1,PTR1(Ara)	NP_001131161	-	-	-	-	-	hypothetical protein LOC100192469 	AT3G54140	ATPTR1,PTR1	peptide transporter 1	-	3.6.3.43		GO:GO:0055085,GO:GO:0016021,GO:GO:0016020,GO:GO:0006810,GO:GO:0005215
+GRMZM2G135476	GRMZM2G135476	NP_001140325	-	-	-	-	-	hypothetical protein LOC100272372 	AT4G31600		UDP-N-acetylglucosamine (UAA) transporter family	-			
+GRMZM2G007475	GRMZM2G007475	-	-	-	-	-	-	-	AT2G38480		Uncharacterised protein family (UPF0497)	-			
+GRMZM2G114337	GRMZM2G114337	NP_001143584	-	-	-	-	-	hypothetical protein LOC100276287 	AT4G31350		Core-2/I-branching beta-1,6-N-acetylglucosaminyltransferase family protein	-			GO:GO:0016020,GO:GO:0008375
+GRMZM2G058026	GRMZM2G058026	NP_001146528	-	-	-	-	-	hypothetical protein LOC100280120 	AT1G49050		Eukaryotic aspartyl protease family protein	-	3.4.23.12		GO:GO:0006508,GO:GO:0004190
+GRMZM5G891196	GRMZM5G891196	-	-	-	-	-	-	-				-			
+GRMZM5G857641	GRMZM5G857641	-	-	-	-	-	-	-	AT2G37980		O-fucosyltransferase family protein	-			
+GRMZM2G102639	emb2444(Ara)	NP_001130902	-	-	-	-	-	hypothetical protein LOC100192006 	AT2G18510	emb2444	RNA-binding (RRM/RBD/RNP motifs) family protein	-		K12831	GO:GO:0003676
+AC218998.2_FG003	AC218998.2_FG003	-	-	-	-	-	-	-	AT4G19890		Pentatricopeptide repeat (PPR-like) superfamily protein	-			
+GRMZM2G058244	GRMZM2G058244	NP_001151861	-	-	-	-	-	UDP-glucose 6-dehydrogenase 	AT5G15490		UDP-glucose 6-dehydrogenase family protein	-	1.1.1.22	K00012	GO:GO:0055114,GO:GO:0051287,GO:GO:0016616
+GRMZM2G051174	GRMZM2G051174	NP_001149393	-	-	-	-	-	translation initiation factor eIF-2B beta subunit 	AT3G07300		NagB/RpiA/CoA transferase-like superfamily protein	-		K03754	GO:GO:0044237
+GRMZM2G134073	nactf9	NP_001151274	Chr8	159,967,636	159,969,818	nactf9	NAC-transcription factor 9	NAC domain-containing protein 68 	AT3G04070	anac047,NAC047	NAC domain containing protein 47	NAC			GO:GO:0006355,GO:GO:0003677
+GRMZM2G351232	e2f3	-	Chr1	262,525,868	262,531,447	e2f3	E2F-DP-transcription factor 23	-	AT1G14700	ATPAP3,PAP3	purple acid phosphatase 3	E2F/DP	3.1.3.2,1.11.1.7		GO:GO:0016787,GO:GO:0006355,GO:GO:0005667,GO:GO:0003700
+AC202396.4_FG010	ANAC002,ATAF1(Ara)	-	-	-	-	-	-	-	AT1G01720	ANAC002,ATAF1	NAC (No Apical Meristem) domain transcriptional regulator superfamily protein	-			
+GRMZM2G438524	ppr53	NP_001130291	Chr1	299,484,354	299,486,920	ppr53	pentatricopeptide repeat53	hypothetical protein LOC100191385 	AT5G46580		pentatricopeptide (PPR) repeat-containing protein	-			
+GRMZM2G070389	pco118092	NP_001132105	Chr2	3,082,367	3,086,726	pco118092		hypothetical protein LOC100193521 	AT5G54750		Transport protein particle (TRAPP) component	-			GO:GO:0016192
+GRMZM2G071333	GRMZM2G071333	-	-	-	-	-	-	-	AT1G09620		ATP binding;leucine-tRNA ligases;aminoacyl-tRNA ligases;nucleotide binding;ATP binding;aminoacyl-tRNA ligases	-	6.1.1.4	K01869	GO:GO:0006418,GO:GO:0000166,GO:GO:0005524,GO:GO:0004812
+AC212835.3_FG002	AC212835.3_FG002	NP_001149787	-	-	-	-	-	blue copper protein 	AT5G07475		Cupredoxin superfamily protein	-			GO:GO:0009055
+AC212835.3_FG001	AC212835.3_FG001	-	-	-	-	-	-	-	AT1G74580		Pentatricopeptide repeat (PPR) superfamily protein	-			
+GRMZM2G071339	GRMZM2G071339	-	-	-	-	-	-	-	AT5G19730		Pectin lyase-like superfamily protein	-	3.1.1.11	K01051	GO:GO:0042545,GO:GO:0030599,GO:GO:0005618
+GRMZM2G171395	nactf86	NP_001146534	Chr9	23,290,000	23,294,805	nactf86	NAC-transcription factor 86	hypothetical protein LOC100280128 	AT2G46770	ANAC043,EMB2301,NST1	NAC (No Apical Meristem) domain transcriptional regulator superfamily protein	NAC			GO:GO:0006355,GO:GO:0003677
+GRMZM2G079638	GRMZM2G079638	NP_001158901	-	-	-	-	-	hypothetical protein LOC100303795 				-			
+GRMZM2G152249	GRMZM2G152249	-	-	-	-	-	-	-	AT5G42140		Regulator of chromosome condensation (RCC1) family with FYVE zinc finger domain	-			GO:GO:0046872
+GRMZM2G155686	ga2ox8	NP_001131206	Chr6	164,507,675	164,509,560	ga2ox8	gibberellin 2-oxidase8	hypothetical protein LOC100192514 	AT1G78440	ATGA2OX1,GA2OX1	Arabidopsis thaliana gibberellin 2-oxidase 1	-			
+GRMZM2G058441	PMS1(Ara)	-	-	-	-	-	-	-	AT4G02460	PMS1	DNA mismatch repair protein, putative	-			GO:GO:0006298,GO:GO:0005524,GO:GO:0032300
+GRMZM2G435944	GRMZM2G435944	-	-	-	-	-	-	-				-			
+AC208201.3_FG001	AC208201.3_FG001	NP_001130180	-	-	-	-	-	hypothetical protein LOC100191274 	AT5G01340		Mitochondrial substrate carrier family protein	-		K15100	
+GRMZM2G132373	FAB1A(Ara)	NP_001132050	-	-	-	-	-	hypothetical protein LOC100193462 	AT4G33240	FAB1A	1-phosphatidylinositol-4-phosphate 5-kinases;zinc ion binding;1-phosphatidylinositol-3-phosphate 5-kinases	-	2.7.1.150	K00921	GO:GO:0005524,GO:GO:0046488,GO:GO:0016307
+GRMZM2G053557	GRMZM2G053557	NP_001130917	-	-	-	-	-	hypothetical protein LOC100192021 	AT3G07565		Protein of unknown function (DUF3755)	-			
+GRMZM2G156861	lox1	NP_001105003	Chr3	168,738,873	168,882,335	lox1	lipoxygenase1	lipoxygenase 	AT1G55020	ATLOX1,LOX1	lipoxygenase 1	-	1.13.11.58	K15718	GO:GO:0005515,GO:GO:0055114,GO:GO:0046872,GO:GO:0016702
+GRMZM2G009894	GRMZM2G009894	NP_001148679	-	-	-	-	-	60S ribosomal protein L29 	AT3G06680		Ribosomal L29e protein family	-		K02905	GO:GO:0006412,GO:GO:0005840,GO:GO:0005622,GO:GO:0003735
+GRMZM2G057983	ALMT9,AtALMT9(Ara)	C4JC39	-	-	-	-	-	Putative uncharacterized protein 	AT3G18440	ALMT9,AtALMT9	aluminum-activated malate transporter 9	-			GO:GO:0015743
+GRMZM2G021483	GRMZM2G021483	-	-	-	-	-	-	-	AT2G48160		Tudor/PWWP/MBT domain-containing protein	-			
+GRMZM2G012958	LIP1(Ara)	NP_001132705	-	-	-	-	-	hypothetical protein LOC100194186 	AT5G64813	LIP1	Ras-related small GTP-binding family protein	-		K07933	GO:GO:0007264,GO:GO:0005525
+GRMZM2G050072	GRMZM2G050072	NP_001151172	-	-	-	-	-	10-deacetylbaccatin III 10-O-acetyltransferase 	AT3G62160		HXXXD-type acyl-transferase family protein	-			GO:GO:0016747
+GRMZM2G309995	GRMZM2G309995	NP_001140990	-	-	-	-	-	hypothetical protein LOC100273069 	AT3G63095		Tetratricopeptide repeat (TPR)-like superfamily protein	-	3.4.19.12,3.4.22.69		
+GRMZM2G422836	GRMZM2G422836	-	-	-	-	-	-	-				-			
+GRMZM2G039477	GRMZM2G039477	NP_001152906	-	-	-	-	-	hypothetical protein LOC100275046 	AT5G43150			-			
+GRMZM2G117365	GRMZM2G117365	-	-	-	-	-	-	-	AT5G06730		Peroxidase superfamily protein	-	1.11.1.7	K00430	GO:GO:0055114,GO:GO:0020037,GO:GO:0006979,GO:GO:0004601
+GRMZM2G058703	GRMZM2G058703	-	-	-	-	-	-	-				-			
+GRMZM2G468428	GRMZM2G468428	-	-	-	-	-	-	-				-			
+GRMZM2G092975	PBC1(Ara)	NP_001141963	-	-	-	-	-	hypothetical protein LOC100274112 	AT1G21720	PBC1	proteasome beta subunit C1	-	3.4.25.1	K02735	GO:GO:0051603,GO:GO:0005839,GO:GO:0004298
+GRMZM2G032266	GRMZM2G032266	-	-	-	-	-	-	-	AT1G62780			-			
+GRMZM2G428410	GRMZM2G428410	NP_001142072	-	-	-	-	-	hypothetical protein LOC100274229 	AT3G04020			-			
+GRMZM2G114394	GRMZM2G114394	C0P6H8	-	-	-	-	-	Putative uncharacterized protein 	AT4G30020		PA-domain containing subtilase family protein	-	3.4.21.25		GO:GO:0016020,GO:GO:0005618,GO:GO:0004252,GO:GO:0006508
+GRMZM2G119773	ATFTSZ1-1,CPFTSZ,FTSZ1-1(Ara)	NP_001149695	-	-	-	-	-	LOC100283321 	AT5G55280	ATFTSZ1-1,CPFTSZ,FTSZ1-1	homolog of bacterial cytokinesis Z-ring protein FTSZ 1-1	-	3.6.5.6	K03531	GO:GO:0003924
+GRMZM2G006117	GRMZM2G006117	NP_001151787	-	-	-	-	-	transmembrane 9 superfamily protein member 4 	AT5G10840		Endomembrane protein 70 protein family	-		K17086	GO:GO:0016021
+GRMZM2G130854	wrky116	NP_001168562	Chr2	208,504,961	208,511,327	wrky116	WRKY-transcription factor 116	hypothetical protein LOC100382344 	AT4G26640	AtWRKY20,WRKY20	WRKY family transcription factor family protein	WRKY			GO:GO:0043565,GO:GO:0006355,GO:GO:0003700
+GRMZM2G314882	bhlh128	NP_001142225	Chr4	240,582,530	240,585,487	bhlh128	bHLH-transcription factor 128	hypothetical protein LOC100274393 	AT5G54680	bHLH105,ILR3	basic helix-loop-helix (bHLH) DNA-binding superfamily protein	bHLH			GO:GO:0046983
+GRMZM2G160458	GRMZM2G160458	NP_001150440	-	-	-	-	-	brix domain-containing protein 2 	AT3G15460		Ribosomal RNA processing Brix domain protein	-		K14820	
+GRMZM2G056078	GRMZM2G056078	NP_001143238	-	-	-	-	-	hypothetical protein LOC100275762 	AT5G24165			-			
+GRMZM2G070287	pco118092	-	Chr2	3,077,126	3,077,915	pco118092		-	AT2G21100		Disease resistance-responsive (dirigent-like protein) family protein	-			
+GRMZM2G137968	ATKU80,KU80(Ara)	NP_001147945	-	-	-	-	-	LOC100281554 	AT1G48050	ATKU80,KU80	Ku80 family protein	-	3.6.4.12	K10885	GO:GO:0006303,GO:GO:0004003,GO:GO:0003677,GO:GO:0016817
+GRMZM2G119916	GRMZM2G119916	-	-	-	-	-	-	-	AT1G02160		Cox19 family protein (CHCH motif)	-			
+GRMZM2G087901	sut7	-	Chr9	151,514,437	151,518,716	sut7	sucrose transporter7	-	AT2G02860	ATSUC3,ATSUT2,SUC3,SUT2	sucrose transporter 2	-		K15378	
+GRMZM2G149211	PNC1(Ara)	NP_001149024	-	-	-	-	-	peroxisomal carrier protein 	AT3G05290	PNC1	peroxisomal adenine nucleotide carrier 1	-			
+AC211394.4_FG004	acp1	NP_001147979	Chr9	95,254,430	95,260,811	acp1	acid phosphatase1	purple acid phosphatase 	AT5G34850	ATPAP26,PAP26	purple acid phosphatase 26	-	3.1.3.41,3.1.3.2,3.1.3.60		GO:GO:0016787
+GRMZM2G168506	GRMZM2G168506	NP_001132477	-	-	-	-	-	hypothetical protein LOC100193935 	AT3G28480		Oxoglutarate/iron-dependent oxygenase	-	1.14.11.2	K00472	GO:GO:0055114,GO:GO:0016491
+GRMZM2G015285	hrbp1	NP_001169754	Chr2	228,792,133	228,793,917	hrbp1	harpin binding protein1	hypothetical protein LOC100383635 	AT3G23400	FIB4	Plastid-lipid associated protein PAP / fibrillin family protein	-			
+GRMZM2G007514	ATSCAR2,DIS3,ITB1,SCAR2,WAVE4(Ara)	-	-	-	-	-	-	-	AT2G38440	ATSCAR2,DIS3,ITB1,SCAR2,WAVE4	SCAR homolog 2	-			GO:GO:0030036,GO:GO:0005856
+AC206638.3_FG015	AC206638.3_FG015	-	-	-	-	-	-	-	AT3G48180			-			
+GRMZM2G153887	GRMZM2G153887	NP_001143407	-	-	-	-	-	hypothetical protein LOC100276051 	AT4G16447			-			
+GRMZM2G385021	GRMZM2G385021	-	-	-	-	-	-	-				-			
+GRMZM2G156905	GRMZM2G156905	-	-	-	-	-	-	-	AT3G08680		Leucine-rich repeat protein kinase family protein	-	2.7.11.1		GO:GO:0006468,GO:GO:0005524,GO:GO:0004672,GO:GO:0005515
+GRMZM5G843893	phd20	-	Chr8	1,903,989	1,908,431	phd20	PHD-transcription factor 20	-	AT1G08190	ATVAM2,ATVPS41,VAM2,VPS41,ZIP2	vacuolar protein sorting 41	-			
+GRMZM2G111511	ATNAP13,EMB2751(Ara)	NP_001152143	-	-	-	-	-	cobalt import ATP-binding protein cbiO 2 	AT4G33460	ATNAP13,EMB2751	ABC transporter family protein	-			GO:GO:0016887,GO:GO:0005524
+GRMZM2G156581	APO4(Ara)	NP_001143703	-	-	-	-	-	hypothetical protein LOC100276440 	AT3G21740	APO4	Arabidopsis thaliana protein of unknown function (DUF794)	-			GO:GO:0003723
+GRMZM2G045664	GRMZM2G045664	NP_001142311	-	-	-	-	-	hypothetical protein LOC100274480 	AT2G46140		Late embryogenesis abundant protein	-			
+GRMZM2G377341	ACC1,AT-ACC1,EMB22,GK,PAS3(Ara)	NP_001132207	-	-	-	-	-	hypothetical protein LOC100193636 	AT1G36160	ACC1,AT-ACC1,EMB22,GK,PAS3	acetyl-CoA carboxylase 1	-	6.4.1.2,6.3.4.14	K11262	GO:GO:0006633,GO:GO:0005524,GO:GO:0003989
+GRMZM2G039532	GRMZM2G039532	-	-	-	-	-	-	-	AT2G24530			-			GO:GO:0070461
+GRMZM2G009442	GRMZM2G009442	-	-	-	-	-	-	-				-			
+GRMZM2G035325	GRMZM2G035325	-	-	-	-	-	-	-	AT4G22360		SWIB complex BAF60b domain-containing protein	-		K15223	GO:GO:0005515
+GRMZM2G173763	GRMZM2G173763	-	-	-	-	-	-	-	AT3G45830			-		K11671	GO:GO:0031011
+GRMZM2G166855	HAP6(Ara)	NP_001146350	-	-	-	-	-	hypothetical protein LOC100279928 	AT4G21150	HAP6	ribophorin II (RPN2) family protein	-	2.4.99.18	K12667	GO:GO:0016021,GO:GO:0008250,GO:GO:0006487
+GRMZM2G176638	GRMZM2G176638	-	-	-	-	-	-	-	AT1G67340		HCP-like superfamily protein with MYND-type zinc finger	-			
+GRMZM2G163473	GRMZM2G163473	NP_001141236	-	-	-	-	-	hypothetical protein LOC100273323 	AT3G01790		Ribosomal protein L13 family protein	-		K02871	GO:GO:0006412,GO:GO:0005840,GO:GO:0003735
+GRMZM2G087161	APTX(Ara)	-	-	-	-	-	-	-	AT5G01310	APTX	APRATAXIN-like	-		K10863	GO:GO:0033699,GO:GO:0006281,GO:GO:0003677
+AC234519.1_FG005	AC234519.1_FG005	-	-	-	-	-	-	-	AT3G57030		Calcium-dependent phosphotriesterase superfamily protein	-	4.3.3.2		GO:GO:0016844,GO:GO:0009058
+GRMZM2G124553	ABC1,ATABC1,ATATH10(Ara)	-	-	-	-	-	-	-	AT4G01660	ABC1,ATABC1,ATATH10	ABC transporter 1	-		K08869	
+AC196008.1_FG001	AC196008.1_FG001	-	-	-	-	-	-	-				-			
+GRMZM2G012209	GRMZM2G012209	NP_001131241	-	-	-	-	-	hypothetical protein LOC100192551 	AT5G62290		nucleotide-sensitive chloride conductance regulator (ICln) family protein	-		K05019	GO:GO:0034715,GO:GO:0034709,GO:GO:0006884,GO:GO:0006821,GO:GO:0005886,GO:GO:0005829,GO:GO:0000387
+GRMZM2G124353	AGT2(Ara)	-	-	-	-	-	-	-	AT4G39660	AGT2	alanine:glyoxylate aminotransferase 2	-	2.6.1.44	K00827	GO:GO:0030170,GO:GO:0008483
+GRMZM2G113135	GRMZM2G113135	NP_001130827	-	-	-	-	-	hypothetical protein LOC100191931 	AT2G46690		SAUR-like auxin-responsive protein family 	-		K14488	GO:GO:0009733
+GRMZM2G155580	GRMZM2G155580	NP_001168832	-	-	-	-	-	hypothetical protein LOC100382637 	AT5G13520		peptidase M1 family protein	-	3.3.2.6	K01254	GO:GO:0019370,GO:GO:0008270,GO:GO:0008237,GO:GO:0006508
+GRMZM2G158013	sfp6	NP_001168294	Chr3	202,107,596	202,112,272	sfp6	sulfate transporter6	hypothetical protein LOC100382058 	AT3G51895	AST12,SULTR3;1	sulfate transporter 3;1	-		K17471	GO:GO:0016021,GO:GO:0015116,GO:GO:0008272,GO:GO:0055085,GO:GO:0016020,GO:GO:0008271,GO:GO:1902358
+GRMZM2G456570	SMC3,TTN7(Ara)	-	-	-	-	-	-	-	AT2G27170	SMC3,TTN7	Structural maintenance of chromosomes (SMC) family protein	-		K06669	GO:GO:0005524,GO:GO:0051276,GO:GO:0005694,GO:GO:0005515,GO:GO:0008280,GO:GO:0007064,GO:GO:0006281,GO:GO:0003682
+GRMZM2G163277	GRMZM2G163277	NP_001169387	-	-	-	-	-	hypothetical protein LOC100383255 	AT5G47490		RGPR-related	-			GO:GO:0048208
+AC152495.1_FG002	rp1	Q6PT59	Chr10	3,283,523	3,287,419	rp1	resistance to Puccinia sorghi1	Rust resistance protein 	AT3G14460		LRR and NB-ARC domains-containing disease resistance protein	-			GO:GO:0043531
+GRMZM2G138053	GRMZM2G138053	NP_001131928	-	-	-	-	-	hypothetical protein LOC100193319 	AT1G15370		SNARE-like superfamily protein	-			
+GRMZM2G173868	GRMZM2G173868	NP_001132501	-	-	-	-	-	hypothetical protein LOC100193961 	AT5G43710		Glycosyl hydrolase family 47 protein	-		K10085	GO:GO:0016020,GO:GO:0005509,GO:GO:0004571
+GRMZM2G058057	TOM5(Ara)	B6SPH3	-	-	-	-	-	Putative uncharacterized protein 	AT5G08040	TOM5	mitochondrial import receptor subunit TOM5 homolog	-			
+GRMZM2G445338	GRMZM2G445338	NP_001170608	-	-	-	-	-	hypothetical protein LOC100384648 	AT1G18390		Protein kinase superfamily protein	-			GO:GO:0030247
+GRMZM2G006416	GRMZM2G006416	NP_001168504	-	-	-	-	-	hypothetical protein LOC100382283 	AT4G31860		Protein phosphatase 2C family protein	-	3.1.3.16	K17499	GO:GO:0003824,GO:GO:0006470,GO:GO:0004722
+GRMZM2G144044	GRMZM2G144044	-	-	-	-	-	-	-				-			
+GRMZM2G305856	myb21	Q9S7U6	Chr6	34,889,113	34,891,065	myb21	MYB-transcription factor 21	R2R3MYB-domain protein Fragment 	AT3G46130	ATMYB48,ATMYB48-1,ATMYB48-2,ATMYB48-3,MYB48	myb domain protein 48	MYB		K09422	
+GRMZM2G013196	GRMZM2G013196	NP_001169649	-	-	-	-	-	hypothetical protein LOC100383530 				-			
+GRMZM2G109865	GRMZM2G109865	-	-	-	-	-	-	-	AT1G47670		Transmembrane amino acid transporter family protein	-			
+GRMZM2G163247	GRMZM2G163247	NP_001146882	-	-	-	-	-	nucleic acid binding protein 	AT2G27790		RNA-binding (RRM/RBD/RNP motifs) family protein	-			
+GRMZM2G065804	GRMZM2G065804	-	-	-	-	-	-	-	AT2G25100		Polynucleotidyl transferase, ribonuclease H-like superfamily protein	-	3.1.26.4	K10743	GO:GO:0004523,GO:GO:0003723
+GRMZM2G112072	MAD2(Ara)	NP_001144620	-	-	-	-	-	hypothetical protein LOC100277636 	AT3G25980	MAD2	DNA-binding HORMA family protein	-			GO:GO:0007094
+GRMZM2G009719	GRMZM2G009719	NP_001132550	-	-	-	-	-	hypothetical protein LOC100194015 	AT3G62550		Adenine nucleotide alpha hydrolases-like superfamily protein	-			GO:GO:0006950
+GRMZM2G179411	GRMZM2G179411	-	-	-	-	-	-	-	AT3G45620		Transducin/WD40 repeat-like superfamily protein	-		K11804	GO:GO:0005515
+GRMZM2G019090	gst18	NP_001104984	Chr3	136,292,387	136,351,651	gst18	glutathione transferase18	glutathione S-transferase GST 18 	AT2G02390	ATGSTZ1,GST18,GSTZ1	glutathione S-transferase zeta 1	-	2.5.1.18	K01800	GO:GO:0005515
+GRMZM2G126292	RFC3,RFC5(Ara)	NP_001136580	-	-	-	-	-	hypothetical protein LOC100216703 	AT1G77470	RFC3,RFC5	replication factor C subunit 3	-		K10756	GO:GO:0005524
+GRMZM2G350626	ACYB-1,CYB-1(Ara)	NP_001168255	-	-	-	-	-	hypothetical protein LOC100382018 	AT5G38630	ACYB-1,CYB-1	cytochrome B561-1	-	1.16.5.1		GO:GO:0016021
+GRMZM2G080588	AtAUR1,AUR1(Ara)	NP_001148791	-	-	-	-	-	serine/threonine-protein kinase Eg2-like 	AT4G32830	AtAUR1,AUR1	ataurora1	-	2.7.11.1	K08850	GO:GO:0006468,GO:GO:0005524,GO:GO:0004672,GO:GO:0007049
+GRMZM2G113959	SHM6(Ara)	C0PNK4	-	-	-	-	-	Putative uncharacterized protein 	AT1G22020	SHM6	serine hydroxymethyltransferase 6	-	2.1.2.1		GO:GO:0016740
+GRMZM2G017355	mterf18	NP_001151570	Chr5	207,946,920	207,948,448	mterf18	mTERF domain protein7b	mTERF family protein 	AT5G07900		Mitochondrial transcription termination factor family protein	-		K15032	GO:GO:0006355,GO:GO:0005739,GO:GO:0003690
+GRMZM2G153928	GRMZM2G153928	-	-	-	-	-	-	-	AT1G55930		CBS domain-containing protein / transporter associated domain-containing protein	-			
+GRMZM2G105167	GRMZM2G105167	NM_001150835	-	-	-	-	-	hypothetical protein LOC100277198 (LOC100277198), mRNA	AT2G25310		Protein of unknown function (DUF2012)	-			
+GRMZM2G093065	GRMZM2G093065	NP_001169554	-	-	-	-	-	hypothetical protein LOC100383433 	AT4G32160		Phox (PX) domain-containing protein	-			GO:GO:0035091
+GRMZM2G324540	pco093291	NP_001130751	Chr5	30,760,520	30,770,795	pco093291		hypothetical protein LOC100191855 	AT1G04510	MAC3A	MOS4-associated  complex 3A	-		K10599	GO:GO:0005515
+GRMZM2G058227	GRMZM2G058227	NP_001150176	-	-	-	-	-	LOC100283806 	AT5G08030		PLC-like phosphodiesterases superfamily protein	-	3.1.4.46	K01126	GO:GO:0008081,GO:GO:0006629,GO:GO:0008889
+GRMZM2G144420	GRMZM2G144420	-	-	-	-	-	-	-	AT3G22910		ATPase E1-E2 type family protein / haloacid dehalogenase-like hydrolase family protein	-	3.6.3.8	K01537	GO:GO:0046872,GO:GO:0000166
+GRMZM2G324781	GRMZM2G324781	-	-	-	-	-	-	-	AT1G50410		SNF2 domain-containing protein / helicase domain-containing protein / zinc finger protein-related	-			GO:GO:0005524
+GRMZM2G125494	pza02337	NP_001131816	Chr2	15,582,030	15,592,514	pza02337		hypothetical protein LOC100193189 	AT4G00290		Mechanosensitive ion channel protein	-			GO:GO:0055085,GO:GO:0016020
+GRMZM2G007488	ATFKBP65,FKBP65,ROF2(Ara)	-	-	-	-	-	-	-	AT5G48570	ATFKBP65,FKBP65,ROF2	FKBP-type peptidyl-prolyl cis-trans isomerase family protein	-	5.2.1.8		GO:GO:0006457
+GRMZM2G038669	GRMZM2G038669	-	-	-	-	-	-	-	AT5G03700		D-mannose binding lectin protein with Apple-like carbohydrate-binding domain	-			GO:GO:0048544
+GRMZM2G132804	ATCSN2,COP12,CSN2,FUS12(Ara)	-	-	-	-	-	-	-	AT2G26990	ATCSN2,COP12,CSN2,FUS12	proteasome family protein	-		K12176	GO:GO:0005515
+GRMZM2G491366	GRMZM2G491366	-	-	-	-	-	-	-				-			
+GRMZM2G091487	GRMZM2G091487	NM_001156237	-	-	-	-	-	CF9 (LOC100283336), mRNA	AT1G10150		Carbohydrate-binding protein	-			
+GRMZM5G846097	GRMZM5G846097	-	-	-	-	-	-	-	AT2G43780			-			
+GRMZM2G456123	GRMZM2G456123	-	-	-	-	-	-	-	AT3G22150		Tetratricopeptide repeat (TPR)-like superfamily protein	-			
+GRMZM2G112912	H2B,HTB9(Ara)	NP_001141626	-	-	-	-	-	hypothetical protein LOC100273745 	AT3G45980	H2B,HTB9	Histone superfamily protein	-		K11252	GO:GO:0003677,GO:GO:0000786
+GRMZM2G013456	BAT1(Ara)	-	-	-	-	-	-	-	AT2G01170	BAT1	bidirectional amino acid transporter 1	-			GO:GO:0055085,GO:GO:0016020,GO:GO:0006810,GO:GO:0015171,GO:GO:0003333
+GRMZM2G087186	pdc3	Q05327	Chr1	45,517,324	45,520,500	pdc3	pyruvate decarboxylase3	Pyruvate decarboxylase isozyme 3 Fragment (PDC)(EC 4.1.1.1)	AT4G33070		Thiamine pyrophosphate dependent pyruvate decarboxylase family protein	-	4.1.1.1	K01568	GO:GO:0030976,GO:GO:0003824,GO:GO:0000287
+GRMZM2G059620	GRMZM2G059620	P08416	-	-	-	-	-	Zein-alpha GZ19AB11 Precursor (19 kDa zein GZ19AB11)				-			GO:GO:0045735
+GRMZM2G384755	ARK3,RK3(Ara)	NP_001130378	-	-	-	-	-	hypothetical protein LOC100191473 	AT4G21380	ARK3,RK3	receptor kinase 3	-	2.7.11.1		GO:GO:0048544
+GRMZM2G152189	GRMZM2G152189	NP_001169657	-	-	-	-	-	hypothetical protein LOC100383538 	AT5G09530		hydroxyproline-rich glycoprotein family protein	-			
+GRMZM2G043182	GRMZM2G043182	NP_001149800	-	-	-	-	-	mitochondrial carrier-like protein 	AT1G72820		Mitochondrial substrate carrier family protein	-		K15121	
+GRMZM2G099810	GRMZM2G099810	-	-	-	-	-	-	-	AT5G14050		Transducin/WD40 repeat-like superfamily protein	-			
+GRMZM2G105801	GRMZM2G105801	NP_001142592	-	-	-	-	-	hypothetical protein LOC100274858 	AT4G00525			-			
+GRMZM2G468439	GRMZM2G468439	NP_001132443	-	-	-	-	-	hypothetical protein LOC100193896 	AT2G33590		NAD(P)-binding Rossmann-fold superfamily protein	-	1.2.1.44		GO:GO:0050662,GO:GO:0003824
+GRMZM2G127650	GRMZM2G127650	-	-	-	-	-	-	-	AT2G19130		S-locus lectin protein kinase family protein	-	2.7.11.1		GO:GO:0048544,GO:GO:0006468,GO:GO:0005524,GO:GO:0004672
+GRMZM2G476652	LFR(Ara)	NP_001144242	-	-	-	-	-	hypothetical protein LOC100277110 	AT3G22990	LFR	ARM repeat superfamily protein	-			
+GRMZM2G065125	GRMZM2G065125	NP_001141325	-	-	-	-	-	hypothetical protein LOC100273416 	AT4G38500		Protein of unknown function (DUF616)	-			
+AC195340.3_FG004	iaa20	NP_001168340	Chr5	5,379,304	5,384,290	iaa20	Aux/IAA-transcription factor 20	hypothetical protein LOC100382108 	AT5G42710			-			GO:GO:0006355,GO:GO:0005634
+GRMZM2G105652	GRMZM2G105652	NP_001146072	-	-	-	-	-	hypothetical protein LOC100279604 	AT1G10385		Vps51/Vps67 family (components of vesicular transport) protein	-			
+GRMZM2G075502	GRMZM2G075502	-	-	-	-	-	-	-	AT5G03380		Heavy metal transport/detoxification superfamily protein 	-			GO:GO:0046872,GO:GO:0030001
+GRMZM2G700901	GRMZM2G700901	-	-	-	-	-	-	-	AT2G16660		Major facilitator superfamily protein	-	6.1.1.2		GO:GO:0006418,GO:GO:0005524,GO:GO:0004812,GO:GO:0000166
+GRMZM5G873586	lbd44	C4J2X5	Chr10	3,275,775	3,281,566	lbd44	LBD-transcription factor 44	Putative uncharacterized protein 	AT4G23150	CRK7	cysteine-rich RLK (RECEPTOR-like protein kinase) 7	LBD	2.7.11.1		GO:GO:0006468,GO:GO:0005524,GO:GO:0004672
+GRMZM2G304926	GRMZM2G304926	-	-	-	-	-	-	-				-			
+GRMZM2G534096	GRMZM2G534096	-	-	-	-	-	-	-				-			
+GRMZM2G347174	GRMZM2G347174	-	-	-	-	-	-	-				-			
+AC202181.3_FG010	AtRBP-DR1,RBP-DR1(Ara)	-	-	-	-	-	-	-	AT4G03110	AtRBP-DR1,RBP-DR1	RNA-binding protein-defense related 1	-			
+GRMZM2G156756	sbp17	NP_001140446	Chr1	295,502,079	295,509,029	sbp17	SBP-transcription factor 17	hypothetical protein LOC100272505 	AT3G60030	SPL12	squamosa promoter-binding protein-like 12	SBP			GO:GO:0005634,GO:GO:0003677
+GRMZM2G313448	RIP3(Ara)	B6SL04	-	-	-	-	-	Putative uncharacterized protein 	AT2G37080	RIP3	ROP interactive partner 3	-			
+GRMZM2G067156	GRMZM2G067156	B4FRL6	-	-	-	-	-	Putative uncharacterized protein 	AT5G59050			-			
+GRMZM2G420882	GRMZM2G420882	-	-	-	-	-	-	-	AT2G19130		S-locus lectin protein kinase family protein	-	2.7.11.1		GO:GO:0048544,GO:GO:0006468,GO:GO:0005524,GO:GO:0004672
+GRMZM2G018823	MPB2C(Ara)	NP_001130261	-	-	-	-	-	hypothetical protein LOC100191355 	AT5G08120	MPB2C	movement protein binding protein 2C	-			
+GRMZM2G114046	GRMZM2G114046	NP_001170097	-	-	-	-	-	hypothetical protein LOC100384015 	AT1G22030			-			
+GRMZM2G127687	GRMZM2G127687	NP_001168844	-	-	-	-	-	hypothetical protein LOC100382649 	AT4G23740		Leucine-rich repeat protein kinase family protein	-	2.7.11.1		GO:GO:0005515,GO:GO:0006468,GO:GO:0004672
+GRMZM2G012926	GRMZM2G012926	NM_001149436	-	-	-	-	-	hypothetical protein LOC100275339 (LOC100275339), mRNA	AT3G14470		NB-ARC domain-containing disease resistance protein	-			
+GRMZM2G145280	ATBBC1,BBC1,RSU2(Ara)	NP_001148638	-	-	-	-	-	60S ribosomal protein L13-2 	AT3G49010	ATBBC1,BBC1,RSU2	breast basic conserved 1	-		K02873	GO:GO:0006412,GO:GO:0005840,GO:GO:0005622,GO:GO:0003735
+GRMZM5G802365	GRMZM5G802365	-	-	-	-	-	-	-				-			
+GRMZM2G130953	bif1	NP_001132766	Chr8	18,321,199	18,323,290	bif1	barren inflorescence1	hypothetical protein LOC100194253 	AT2G22670	IAA8	indoleacetic acid-induced protein 8	-			GO:GO:0006355,GO:GO:0005634
+GRMZM2G028500	GRMZM2G028500	NP_001142814	-	-	-	-	-	hypothetical protein LOC100275193 	AT4G39235			-			
+GRMZM2G009438	DAR2(Ara)	-	-	-	-	-	-	-	AT2G39830	DAR2	DA1-related protein 2	-			GO:GO:0008152,GO:GO:0003824
+AC217385.3_FG009	CID11(Ara)	-	-	-	-	-	-	-	AT1G32790	CID11	CTC-interacting domain 11	-			
+GRMZM2G532157
+GRMZM2G068294	EID1(Ara)	NP_001144058	-	-	-	-	-	hypothetical protein LOC100276883 	AT4G02440	EID1	F-box family protein	-			
+GRMZM2G095655	GRMZM2G095655	NP_001144087	-	-	-	-	-	hypothetical protein LOC100276920 	AT3G17020		Adenine nucleotide alpha hydrolases-like superfamily protein	-			GO:GO:0006950
+GRMZM2G030762	bhlh55	C4J948	Chr8	162,106,868	162,110,024	bhlh55	bHLH-transcription factor 55	Putative uncharacterized protein 	AT1G68920		basic helix-loop-helix (bHLH) DNA-binding superfamily protein	bHLH			
+GRMZM2G080354	trpp10	NP_001140586	Chr9	5,654,774	5,657,748	trpp10	trehalose-6-phosphate phosphatase10	hypothetical protein LOC100272656 	AT5G10100		Haloacid dehalogenase-like hydrolase (HAD) superfamily protein	-	3.1.3.12	K01087	GO:GO:0005992,GO:GO:0003824
+GRMZM2G162783	GT72B1,UGT72B1(Ara)	NP_001132650	-	-	-	-	-	hypothetical protein LOC100194125 	AT4G01070	GT72B1,UGT72B1	UDP-Glycosyltransferase superfamily protein	-			GO:GO:0016758,GO:GO:0008152
+GRMZM2G020091	TET3(Ara)	NP_001148981	-	-	-	-	-	LOC100282601 	AT3G45600	TET3	tetraspanin3	-			GO:GO:0016021
+GRMZM2G112865	GRMZM2G112865	NP_001150751	-	-	-	-	-	LOC100284384 	AT5G64650		Ribosomal protein L17 family protein	-		K02879	GO:GO:0006412,GO:GO:0005840,GO:GO:0005622,GO:GO:0003735
+GRMZM2G167149	GRMZM2G167149	NP_001148423	-	-	-	-	-	pectinesterase inhibitor domain containing protein 	AT5G46940		Plant invertase/pectin methylesterase inhibitor superfamily protein	-			GO:GO:0004857
+GRMZM2G009544	HMGA(Ara)	NP_001142866	-	-	-	-	-	hypothetical protein LOC100275265 	AT1G14900	HMGA	high mobility group A	-			GO:GO:0006334,GO:GO:0005634,GO:GO:0003677,GO:GO:0000786
+GRMZM2G396397	FRO1(Ara)	NP_001147419	-	-	-	-	-	LOC100281028 	AT5G67590	FRO1	NADH-ubiquinone oxidoreductase-related	-	1.6.99.3,1.6.5.3	K03937	GO:GO:0022900,GO:GO:0016651
+GRMZM2G466292	arid7	-	Chr5	65,453,074	65,462,393	arid7	ARID-transcription factor 7	-	AT1G30810		Transcription factor jumonji (jmj) family protein / zinc finger (C5HC2 type) family protein	-			GO:GO:0005515,GO:GO:0003677
+GRMZM2G117633	ATFBP7,FBP7(Ara)	NP_001151881	-	-	-	-	-	LOC100285517 	AT1G21760	ATFBP7,FBP7	F-box protein 7	-			GO:GO:0005515
+GRMZM2G015735	GRMZM2G015735	NP_001159108	-	-	-	-	-	hypothetical protein LOC100304181 	AT5G11780			-			
+GRMZM2G158147	APS2,ASA1(Ara)	NP_001147427	-	-	-	-	-	bifunctional 3-phosphoadenosine 5-phosphosulfate synthetase 2 	AT1G19920	APS2,ASA1	Pseudouridine synthase/archaeosine transglycosylase-like family protein	-	2.7.7.4	K13811	GO:GO:0004781
+GRMZM2G132009	SLT1(Ara)	NP_001146238	-	-	-	-	-	hypothetical protein LOC100279810 	AT2G37570	SLT1	HSP20-like chaperones superfamily protein	-			
+GRMZM2G137713	GRMZM2G137713	NM_001148549	-	-	-	-	-	hypothetical protein LOC100274175 (LOC100274175), mRNA	AT5G45560		Pleckstrin homology (PH) domain-containing protein / lipid-binding START domain-containing protein	-			GO:GO:0008289
+GRMZM2G168909	GRMZM2G168909	B6T232	-	-	-	-	-	Putative uncharacterized protein 				-			
+GRMZM2G154864	GRMZM2G154864	-	-	-	-	-	-	-	AT1G29320		Transducin/WD40 repeat-like superfamily protein	-		K14841	
+GRMZM2G114444	bhlh166	NP_001152439	Chr3	218,561,885	218,567,450	bhlh166	bHLH-transcription factor 166	LOC100286079 	AT3G19860	bHLH121	basic helix-loop-helix (bHLH) DNA-binding superfamily protein	bHLH			
+GRMZM2G150242	GRMZM2G150242	-	-	-	-	-	-	-	AT2G26570		Plant protein of unknown function (DUF827)	-			
+AC186309.3_FG006	AC186309.3_FG006	-	-	-	-	-	-	-				-			
+GRMZM2G134597	CYP89A6(Ara)	-	-	-	-	-	-	-	AT1G64940	CYP89A6	cytochrome P450, family 87, subfamily A, polypeptide 6	-			GO:GO:0055114,GO:GO:0020037,GO:GO:0016705,GO:GO:0005506
+GRMZM2G040630	IRX9(Ara)	-	-	-	-	-	-	-	AT2G37090	IRX9	Nucleotide-diphospho-sugar transferases superfamily protein	-	2.4.2.24	K00735	GO:GO:0016020,GO:GO:0015018
+GRMZM2G058133	GRMZM2G058133	NP_001146230	-	-	-	-	-	hypothetical protein LOC100279802 	AT5G15300		Pentatricopeptide repeat (PPR) superfamily protein	-			
+GRMZM2G098859	GRMZM2G098859	-	-	-	-	-	-	-	AT3G14172			-			
+GRMZM2G155123	phd17	NP_001140473	Chr8	131,105,649	131,117,697	phd17	PHD-transcription factor 17	hypothetical protein LOC100272532 	AT5G60410	ATSIZ1,SIZ1	DNA-binding protein with MIZ/SP-RING zinc finger, PHD-finger and SAP domain	-			GO:GO:0005515,GO:GO:0031668,GO:GO:0019789,GO:GO:0016925,GO:GO:0016049,GO:GO:0005634
+GRMZM2G013956	CYP93D1(Ara)	-	-	-	-	-	-	-	AT5G06900	CYP93D1	cytochrome P450, family 93, subfamily D, polypeptide 1	-	1.14.13.28		GO:GO:0055114,GO:GO:0020037,GO:GO:0016705,GO:GO:0005506
+GRMZM2G147603	APC6(Ara)	NP_001141501	-	-	-	-	-	hypothetical protein LOC100273613 	AT1G78770	APC6	anaphase promoting complex 6	-			
+GRMZM2G001764	ATPTR3,PTR3(Ara)	NP_001130733	-	-	-	-	-	hypothetical protein LOC100191837 	AT5G46050	ATPTR3,PTR3	peptide transporter 3	-			GO:GO:0016020,GO:GO:0006810,GO:GO:0005215
+GRMZM2G133895	GRMZM2G133895	NP_001169959	-	-	-	-	-	hypothetical protein LOC100383858 	AT4G35930		F-box family protein	-			
+GRMZM2G009144	GRMZM2G009144	NP_001167880	-	-	-	-	-	hypothetical protein LOC100381587 	AT3G21710			-			
+GRMZM2G363520	GRMZM2G363520	NM_001154042	-	-	-	-	-	RING-H2 finger protein ATL2L (LOC100281123), mRNA	AT4G30370		RING/U-box superfamily protein	-			GO:GO:0008270,GO:GO:0005515
+GRMZM2G026889	GRMZM2G026889	NP_001148114	-	-	-	-	-	transferase, transferring glycosyl groups 	AT4G16600		Nucleotide-diphospho-sugar transferases superfamily protein	-	2.4.1.186		
+GRMZM2G140752	CRK25(Ara)	-	-	-	-	-	-	-	AT4G05200	CRK25	cysteine-rich RLK (RECEPTOR-like protein kinase) 25	-	2.7.11.1		GO:GO:0006468,GO:GO:0005524,GO:GO:0004672
+GRMZM2G060061	GRMZM2G060061	NP_001152461	-	-	-	-	-	xylosyltransferase 1 	AT1G71070		Core-2/I-branching beta-1,6-N-acetylglucosaminyltransferase family protein	-			GO:GO:0016020,GO:GO:0008375
+GRMZM2G177198	GRMZM2G177198	NP_001170253	-	-	-	-	-	hypothetical protein LOC100384210 	AT3G01720			-			
+GRMZM2G159759	GRMZM2G159759	NP_001132319	-	-	-	-	-	hypothetical protein LOC100193761 	AT5G45910		GDSL-like Lipase/Acylhydrolase superfamily protein	-	3.1.1.1		GO:GO:0016788
+GRMZM2G094792	GRMZM2G094792	NP_001170006	-	-	-	-	-	hypothetical protein LOC100383912 	AT5G09670		loricrin-related	-			
+GRMZM2G079889	ATPTR2,ATPTR2-B,NTR1,PTR2,PTR2-B(Ara)	NP_001136757	-	-	-	-	-	hypothetical protein LOC100216898 	AT2G02040	ATPTR2,ATPTR2-B,NTR1,PTR2,PTR2-B	peptide transporter 2	-		K14638	GO:GO:0016020,GO:GO:0006810,GO:GO:0005215
+GRMZM2G136680	GRMZM2G136680	NM_001150797	-	-	-	-	-	hypothetical protein LOC100277146 (LOC100277146), mRNA	AT4G37920			-			
+GRMZM2G100255	GRMZM2G100255	-	-	-	-	-	-	-				-			
+GRMZM2G034197	GRMZM2G034197	NP_001159209	-	-	-	-	-	hypothetical protein LOC100304295 	AT3G61680		alpha/beta-Hydrolases superfamily protein	-			GO:GO:0006629
+GRMZM2G434910	CAT2(Ara)	NP_001131640	-	-	-	-	-	hypothetical protein LOC100192997 	AT1G58030	CAT2	cationic amino acid transporter 2	-			GO:GO:0016020,GO:GO:0015171,GO:GO:0003333
+GRMZM2G060952	GRMZM2G060952	NP_001105931	-	-	-	-	-	deoxymugineic acid synthase1 	AT1G59960		NAD(P)-linked oxidoreductase superfamily protein	-	1.1.1.285		
+GRMZM2G062683	GRMZM2G062683	NP_001147063	-	-	-	-	-	STE20/SPS1-related proline-alanine-rich protein kinase 	AT1G79640		Protein kinase superfamily protein	-	2.7.11.1	K08835	GO:GO:0006468,GO:GO:0005524,GO:GO:0004672
+GRMZM2G000741	GRMZM2G000741	NP_001170259	-	-	-	-	-	hypothetical protein LOC100384216 	AT1G72820		Mitochondrial substrate carrier family protein	-		K15121	
+GRMZM2G026643	ocl1	NP_001105493	Chr3	27,552,061	27,559,751	ocl1	outer cell layer1	outer cell layer1 	AT4G00730	AHDP,ANL2	Homeobox-leucine zipper family protein / lipid-binding START domain-containing protein	HD-ZIP			GO:GO:0003677,GO:GO:0008289
+GRMZM2G013949	GRMZM2G013949	NP_001151838	-	-	-	-	-	LOC100285473 				-			
+GRMZM2G551338	GRMZM2G551338	-	-	-	-	-	-	-	AT5G61240		Leucine-rich repeat (LRR) family protein	-			
+GRMZM2G121826	GRMZM2G121826	NP_001131271	-	-	-	-	-	hypothetical protein LOC100192584 	AT5G59010		Protein kinase protein with tetratricopeptide repeat domain	-	2.7.11.1,2.7.10.2		GO:GO:0006468,GO:GO:0004672
+AC235543.1_FG003	MEE59(Ara)	NP_001143434	-	-	-	-	-	hypothetical protein LOC100276084 	AT4G37300	MEE59	maternal effect embryo arrest 59	-			
+GRMZM2G061795	ADG1,APS1(Ara)	-	-	-	-	-	-	-	AT5G48300	ADG1,APS1	ADP glucose pyrophosphorylase  1	-	2.7.7.27		GO:GO:0016779,GO:GO:0009058
+GRMZM2G440902	GRMZM2G440902	NP_001151875	-	-	-	-	-	indole-3-acetate beta-glucosyltransferase 	AT2G30140		UDP-Glycosyltransferase superfamily protein	-	2.4.1.324		GO:GO:0016758,GO:GO:0008152
+GRMZM2G160541	pal3	-	Chr4	143,404,315	143,408,521	pal3	phenylalanine ammonia lyase3	-	AT3G10340	PAL4	phenylalanine ammonia-lyase 4	-	4.3.1.24		
+GRMZM2G061096	GRMZM2G061096	NP_001148980	-	-	-	-	-	LOC100282600 	AT2G01970		Endomembrane protein 70 protein family	-		K17087	GO:GO:0016021
+GRMZM2G096877	GRMZM2G096877	-	-	-	-	-	-	-	AT1G61150		LisH and RanBPM domains containing protein	-			GO:GO:0005515
+GRMZM2G136662	ARP3,ATARP3,DIS1(Ara)	NM_001154181	-	-	-	-	-	actin-like protein 3 (LOC100281262), mRNA	AT1G13180	ARP3,ATARP3,DIS1	Actin-like ATPase superfamily protein	-			
+GRMZM2G026952	GRMZM2G026952	NP_001140748	-	-	-	-	-	hypothetical protein LOC100272823 				-			
+GRMZM2G046037	GRMZM2G046037	-	-	-	-	-	-	-				-			
+GRMZM2G055107	GRMZM2G055107	-	-	-	-	-	-	-	AT1G13990			-			
+GRMZM2G313649	GRMZM2G313649	NP_001146448	-	-	-	-	-	hypothetical protein LOC100280033 	AT5G26110		Protein kinase superfamily protein	-	2.7.11.1		GO:GO:0004674
+GRMZM2G163709	GRMZM2G163709	NP_001140383	-	-	-	-	-	hypothetical protein LOC100272437 	AT4G36945		PLC-like phosphodiesterases superfamily protein	-			
+GRMZM2G133891	GRMZM2G133891	-	-	-	-	-	-	-				-			
+GRMZM5G805874	GRMZM5G805874	-	-	-	-	-	-	-	AT1G71140		MATE efflux family protein	-			GO:GO:0055085,GO:GO:0016020,GO:GO:0015297,GO:GO:0015238,GO:GO:0006855
+GRMZM2G094955	sweet14a	NP_001132836	Chr2	223,375,329	223,377,937	sweet14a	sugars will eventually be exported transporter14a	hypothetical protein LOC100194326 	AT5G23660	MTN3	homolog of Medicago truncatula MTN3	-		K15382	
+GRMZM2G169182	GRMZM2G169182	-	-	-	-	-	-	-	AT2G01190		Octicosapeptide/Phox/Bem1p family protein	-			GO:GO:0005515
+GRMZM2G303631	ATVSR3,BP80-2;2,VSR2;2,VSR3(Ara)	NP_001130741	-	-	-	-	-	hypothetical protein LOC100191845 	AT2G14740	ATVSR3,BP80-2;2,VSR2;2,VSR3	vaculolar sorting receptor 3	-			
+GRMZM2G157354	GRMZM2G157354	NP_001145726	-	-	-	-	-	hypothetical protein LOC100279232 	AT1G04340		HR-like lesion-inducing protein-related	-			
+GRMZM2G082504	GRMZM2G082504	-	-	-	-	-	-	-	AT1G76600			-			
+GRMZM2G124524	wri1	NP_001137064	Chr2	149,971,656	149,977,527	wri1	WRI1 transcription factor1	hypothetical protein LOC100217237 	AT3G54320	ASML1,ATWRI1,WRI,WRI1	Integrase-type DNA-binding superfamily protein	AP2		K09285	GO:GO:0006355,GO:GO:0003700,GO:GO:0007275
+GRMZM2G426181	GRMZM2G426181	-	-	-	-	-	-	-	AT1G04555			-			
+GRMZM2G150867	UBC5(Ara)	B6UHU0	-	-	-	-	-	Ubiquitin carrier protein (EC 6.3.2.-)	AT1G63800	UBC5	ubiquitin-conjugating enzyme 5	-	6.3.2.19	K10576	
+GRMZM2G131575	ATPD(Ara)	NM_001139099	-	-	-	-	-	hypothetical protein LOC100194038 (LOC100194038), mRNA	AT4G09650	ATPD	ATP synthase delta-subunit gene	-			GO:GO:0046933,GO:GO:0015986
+GRMZM2G024882	GRMZM2G024882	NP_001169971	-	-	-	-	-	hypothetical protein LOC100383871 	AT3G46960		RNA helicase, ATP-dependent, SK12/DOB1 protein	-	3.6.4.13	K12599	GO:GO:0005524,GO:GO:0003676
+GRMZM2G089854	GRMZM2G089854	NP_001170458	-	-	-	-	-	hypothetical protein LOC100384451 	AT5G15740		O-fucosyltransferase family protein	-			
+GRMZM2G150915	GRMZM2G150915	NP_001142516	-	-	-	-	-	hypothetical protein LOC100274752 	AT2G46000			-			
+GRMZM2G003108	GRMZM2G003108	NP_001151588	-	-	-	-	-	CRAL/TRIO domain containing protein 	AT3G46450		SEC14 cytosolic factor family protein / phosphoglyceride transfer family protein	-			
+GRMZM2G041022	GRMZM2G041022	NP_001141181	-	-	-	-	-	hypothetical protein LOC100273268 				-			
+GRMZM2G492915	ASF1B,SGA01,SGA1(Ara)	-	-	-	-	-	-	-	AT5G38110	ASF1B,SGA01,SGA1	anti- silencing function 1b	-			GO:GO:0006333,GO:GO:0005634
+GRMZM2G018558	GRMZM2G018558	-	-	-	-	-	-	-	AT4G30920		Cytosol aminopeptidase family protein	-	3.4.11.1,3.4.11.5	K03010	GO:GO:0006508,GO:GO:0005622,GO:GO:0004177,GO:GO:0008017,GO:GO:0000910,GO:GO:0000226,GO:GO:0006351,GO:GO:0003899,GO:GO:0003677
+GRMZM2G108077	GRMZM2G108077	-	-	-	-	-	-	-	AT1G71695		Peroxidase superfamily protein	-	1.11.1.7	K00430	GO:GO:0055114,GO:GO:0020037,GO:GO:0006979,GO:GO:0004601
+GRMZM2G312806	mterf13	NP_001141758	Chr4	125,520,897	125,522,276	mterf13	mTERF-domain protein13	hypothetical protein LOC100273894 	AT2G03050	EMB93,SOLDAT10	Mitochondrial transcription termination factor family protein	-		K15032	GO:GO:0006355,GO:GO:0005739,GO:GO:0003690
+GRMZM2G089501	bhlh106	NP_001130805	Chr7	130,270,033	130,277,723	bhlh106	bHLH-transcription factor 106	hypothetical protein LOC100191909 	AT5G08130	BIM1	basic helix-loop-helix (bHLH) DNA-binding superfamily protein	bHLH			GO:GO:0046983
+GRMZM2G021331	csu849(atpb)	NP_001151807	Chr8	65,484,575	65,488,309	csu849(atpb)		ATP synthase beta chain 	AT5G08680		ATP synthase alpha/beta family protein	-	3.6.3.14	K02133	GO:GO:0016887,GO:GO:0006754,GO:GO:0005524,GO:GO:0000275,GO:GO:0046034,GO:GO:0015992,GO:GO:0033178,GO:GO:0016820,GO:GO:0015991
+GRMZM2G162020	iqd17(Ara)	-	-	-	-	-	-	-	AT4G00820	iqd17	IQ-domain 17	-			GO:GO:0005515
+GRMZM2G147051	GRMZM2G147051	NP_001146571	-	-	-	-	-	hypothetical protein LOC100280167 	AT4G01330		Protein kinase superfamily protein	-	2.7.11.1		GO:GO:0006468,GO:GO:0005524,GO:GO:0004672
+GRMZM2G155242	lpa1	Q9FPK7	Chr1	25,282,951	25,287,161	lpa1	low phytic acid1	Inositol-3-phosphate synthase (MIP synthase)(EC 5.5.1.4)(Myo-inositol-1-phosphate synthase)(MI-1-P synthase)(IPS)	AT2G22240	ATIPS2,ATMIPS2,MIPS2	myo-inositol-1-phosphate synthase 2	-	5.5.1.4	K01858	GO:GO:0008654,GO:GO:0006021,GO:GO:0004512
+GRMZM2G126972	RTM2(Ara)	NP_001146453	-	-	-	-	-	hypothetical protein LOC100280039 	AT5G04890	RTM2	HSP20-like chaperones superfamily protein	-			
+GRMZM2G013082	CYP86B1(Ara)	-	-	-	-	-	-	-	AT5G23190	CYP86B1	cytochrome P450, family 86, subfamily B, polypeptide 1	-	1.14.15.3	K15402	GO:GO:0055114,GO:GO:0020037,GO:GO:0016705,GO:GO:0005506
+GRMZM2G704021	GRMZM2G704021	NP_001136584	-	-	-	-	-	hypothetical protein LOC100216707 	AT4G13270		Late embryogenesis abundant (LEA) hydroxyproline-rich glycoprotein family	-			
+GRMZM5G879737	GRMZM5G879737	NP_001146003	-	-	-	-	-	hypothetical protein LOC100279533 	AT1G14180		RING/U-box superfamily protein	-			
+GRMZM2G382413	GRMZM2G382413	NP_001148078	-	-	-	-	-	TBC domain containing protein 	AT4G27100		Ypt/Rab-GAP domain of gyp1p superfamily protein	-			
+GRMZM2G427319	GRMZM2G427319	-	-	-	-	-	-	-	AT3G30390		Transmembrane amino acid transporter family protein	-		K14207	GO:GO:0003333
+GRMZM2G059165	SLP2(Ara)	-	-	-	-	-	-	-	AT4G34980	SLP2	subtilisin-like serine protease 2	-	3.4.14.10		GO:GO:0006508,GO:GO:0004252
+GRMZM5G893343	GRMZM5G893343	NP_001136955	-	-	-	-	-	hypothetical protein LOC100217115 	AT2G11890		adenylate cyclases	-	3.6.1.3,3.6.1.25		
+GRMZM2G010474	GRMZM2G010474	NP_001167989	-	-	-	-	-	hypothetical protein LOC100381709 	AT4G39610		Protein of unknown function, DUF617	-			
+GRMZM2G019006	AtRLP46,RLP46(Ara)	-	-	-	-	-	-	-	AT4G04220	AtRLP46,RLP46	receptor like protein 46	-	2.7.11.1		
+GRMZM2G390150	GRMZM2G390150	NP_001144883	-	-	-	-	-	hypothetical protein LOC100277984 	AT2G35850			-			
+GRMZM5G839422	ALB3(Ara)	NP_001150593	-	-	-	-	-	inner membrane protein ALBINO3 	AT2G28800	ALB3	63 kDa inner membrane family protein	-		K03217	GO:GO:0051205,GO:GO:0016021
+GRMZM2G115578	GRMZM2G115578	-	-	-	-	-	-	-	AT3G22790		Kinase interacting (KIP1-like) family protein	-			
+GRMZM2G003068	GRMZM2G003068	C0P3V6	-	-	-	-	-	Putative uncharacterized protein 	AT1G75560		zinc knuckle (CCHC-type) family protein	-		K09250	GO:GO:0008270,GO:GO:0003676
+GRMZM2G136219	GRMZM2G136219	NP_001145194	-	-	-	-	-	hypothetical protein LOC100278444 	AT5G02370		ATP binding microtubule motor family protein	-	3.6.4.5	K10403	GO:GO:0008017,GO:GO:0007018,GO:GO:0005524,GO:GO:0003777,GO:GO:0005871
+GRMZM2G053909	GRMZM2G053909	NP_001132824	-	-	-	-	-	hypothetical protein LOC100194314 	AT5G10650		RING/U-box superfamily protein	-			GO:GO:0008270,GO:GO:0005515
+GRMZM2G163671	GRMZM2G163671	NP_001136995	-	-	-	-	-	hypothetical protein LOC100217158 	AT1G21780		BTB/POZ domain-containing protein	-		K10523	GO:GO:0005515
+GRMZM2G013967	GRMZM2G013967	NM_001152844	-	-	-	-	-	LOC100279892 (si660047h11), mRNA	AT3G44190		FAD/NAD(P)-binding oxidoreductase family protein	-	1.8.1.4		GO:GO:0055114,GO:GO:0016491
+GRMZM2G027958	EVR,SOBIR1(Ara)	NP_001142196	-	-	-	-	-	hypothetical protein LOC100274364 	AT2G31880	EVR,SOBIR1	Leucine-rich repeat protein kinase family protein	-	2.7.11.1,2.7.10.1		GO:GO:0006468,GO:GO:0005524,GO:GO:0004672
+GRMZM2G417454	GRMZM2G417454	-	-	-	-	-	-	-				-			
+GRMZM2G306348	GRMZM2G306348	-	-	-	-	-	-	-	AT1G27880		DEAD/DEAH box RNA helicase family protein 	-	3.6.4.12	K10730	GO:GO:0016787,GO:GO:0005524,GO:GO:0003676
+GRMZM2G017616	lox9	NP_001105977	Chr1	16,573,827	16,580,722	lox9	lipoxygenase9	lipoxygenase9 	AT1G72520		PLAT/LH2 domain-containing lipoxygenase family protein	-	1.13.11.12	K00454	GO:GO:0005515,GO:GO:0055114,GO:GO:0046872,GO:GO:0016702
+GRMZM2G150925	GRMZM2G150925	NP_001136798	-	-	-	-	-	hypothetical protein LOC100216943 	AT3G49070		Protein of unknown function (DUF677)	-			
+GRMZM5G870572	bsdtf3	NP_001132490	Chr4	33,727,744	33,735,419	bsdtf3	BSD-transcription factor 3	hypothetical protein LOC100193949 	AT1G55750		BSD domain (BTF2-like transcription factors, Synapse-associated proteins and DOS2-like proteins)	-			GO:GO:0006351,GO:GO:0006289,GO:GO:0000439
+GRMZM2G011218	GRMZM2G011218	NP_001167909	-	-	-	-	-	hypothetical protein LOC100381621 	AT4G30710		Family of unknown function (DUF566) 	-			
+GRMZM2G090061	UNE16(Ara)	-	-	-	-	-	-	-	AT4G13640	UNE16	Homeodomain-like superfamily protein	-			
+GRMZM2G015418	AtPPa1,PPa1(Ara)	-	-	-	-	-	-	-	AT1G01050	AtPPa1,PPa1	pyrophosphorylase 1	-	3.6.1.1	K01507	GO:GO:0006796,GO:GO:0005737,GO:GO:0004427,GO:GO:0000287
+GRMZM2G018414	grftf4	NP_001106044	Chr1	257,246,035	257,248,752	grftf4	GRF-transcription factor 4	putative growth-regulating factor 13 	AT4G37740	AtGRF2,GRF2	growth-regulating factor 2	GRF			GO:GO:0006355,GO:GO:0005634,GO:GO:0005524,GO:GO:0032502,GO:GO:0006351
+GRMZM2G086637	GRMZM2G086637	NP_001148370	-	-	-	-	-	patellin-5 	AT3G51670		SEC14 cytosolic factor family protein / phosphoglyceride transfer family protein	-			
+GRMZM2G450327	GRMZM2G450327	-	-	-	-	-	-	-				-			
+GRMZM2G016878	GRMZM2G016878	NP_001132076	-	-	-	-	-	hypothetical protein LOC100193490 	AT3G63220		Galactose oxidase/kelch repeat superfamily protein	-			GO:GO:0005515
+GRMZM2G408242	cyc12	NP_001132453	Chr7	137,132,640	137,137,679	cyc12	cyclin12	hypothetical protein LOC100193909 	AT5G48640		Cyclin family protein	-			GO:GO:0019901,GO:GO:0006355,GO:GO:0000079,GO:GO:0016592,GO:GO:0016538
+GRMZM2G388915	UVH3,UVR1(Ara)	-	-	-	-	-	-	-	AT3G28030	UVH3,UVR1	5\'-3\' exonuclease family protein	-	3.1.11.1	K10846	GO:GO:0004518,GO:GO:0006281,GO:GO:0006289,GO:GO:0005634,GO:GO:0004519,GO:GO:0003697
+GRMZM2G119755	PCR2(Ara)	NP_001150718	-	-	-	-	-	cell number regulator 7 	AT1G14870	PCR2	PLANT CADMIUM RESISTANCE 2	-			
+GRMZM2G178102	hb25	NP_001142394	Chr3	123,281,942	123,288,759	hb25	Homeobox-transcription factor 25	hypothetical protein LOC100274567 	AT2G34710	ATHB-14,ATHB14,PHB,PHB-1D	Homeobox-leucine zipper family protein / lipid-binding START domain-containing protein	HD-ZIP		K09338	GO:GO:0003677,GO:GO:0008289
+GRMZM2G035405	arftf18	C4JBX1	Chr5	42,328,068	42,332,365	arftf18	ARF-transcription factor 18	Putative uncharacterized protein 	AT1G30330	ARF6	auxin response factor 6	ARF			GO:GO:0006355,GO:GO:0005634
+GRMZM2G488465	APRR9,PRR9,TL1(Ara)	-	-	-	-	-	-	-	AT2G46790	APRR9,PRR9,TL1	pseudo-response regulator 9	-			GO:GO:0000160
+GRMZM2G701848	GRMZM2G701848	-	-	-	-	-	-	-				-			
+GRMZM2G024150	psad1	B6SKI1	Chr5	3,530,018	3,531,150	psad1	photosystem I subunit d1	Photosystem I reaction center subunit II 	AT1G03130	PSAD-2	photosystem I subunit D-2	-			GO:GO:0015979,GO:GO:0009538,GO:GO:0009522
+GRMZM2G323387	GRMZM2G323387	NP_001145429	-	-	-	-	-	hypothetical protein LOC100278798 	AT3G03280			-			
+GRMZM2G019121	dts1	NP_001149817	Chr5	75,965,462	75,969,666	dts1	aspartyl-tRNA  synthetase1	aspartyl-tRNA synthetase 	AT4G31180		Class II aminoacyl-tRNA and biotin synthetases superfamily protein	-	6.1.1.12	K01876	GO:GO:0003676,GO:GO:0006418,GO:GO:0005524,GO:GO:0004812,GO:GO:0000166
+GRMZM2G024395	GRMZM2G024395	NP_001136833	-	-	-	-	-	hypothetical protein LOC100216982 	AT1G55340		Protein of unknown function (DUF1639)	-			
+GRMZM2G093197	ATDUF3,ATUROS,DUF3,HEMD,UROS(Ara)	NP_001131566	-	-	-	-	-	hypothetical protein LOC100192907 	AT2G26540	ATDUF3,ATUROS,DUF3,HEMD,UROS	uroporphyrinogen-III synthase family protein	-	4.2.1.75	K01719	GO:GO:0033014,GO:GO:0004852
+GRMZM2G056357	GRMZM2G056357	NP_001146688	-	-	-	-	-	hypothetical protein LOC100280288 	AT1G33400		Tetratricopeptide repeat (TPR)-like superfamily protein	-			
+GRMZM2G046909	GRMZM2G046909	NP_001142415	-	-	-	-	-	hypothetical protein LOC100274590 	AT3G50910			-			
+GRMZM2G127548	bsdtf4	B4FWY5	Chr4	164,281,187	164,285,309	bsdtf4	BSD-transcription factor 4	BSD domain containing proteinPutative uncharacterized protein ;	AT1G26300		BSD domain-containing protein	-			
+GRMZM2G006745	ereb22	NP_001105876	Chr8	94,530,861	94,534,207	ereb22	AP2-EREBP-transcription factor 22	ERF/AP2 domain containing transcription factor 	AT2G40340	AtERF48,DREB2C	Integrase-type DNA-binding superfamily protein	ERF			GO:GO:0006355,GO:GO:0003700
+GRMZM2G042593	GRMZM2G042593	NP_001149106	-	-	-	-	-	plant IF-like protein 	AT5G26770			-			
+GRMZM2G121743	TIM10(Ara)	NP_001148705	-	-	-	-	-	LOC100282321 	AT2G29530	TIM10	Tim10/DDP family zinc finger protein	-		K17778	GO:GO:0045039
+GRMZM2G108624	GRMZM2G108624	NP_001142037	-	-	-	-	-	hypothetical protein LOC100274192 	AT1G49740		PLC-like phosphodiesterases superfamily protein	-			
+GRMZM2G017470	dof27	NP_001143068	Chr1	293,405,280	293,407,607	dof27	C2C2-Dof-transcription factor 27	hypothetical protein LOC100275540 	AT3G55370	OBP3	OBF-binding protein 3	Dof			GO:GO:0006355,GO:GO:0003677
+GRMZM5G832149	GRMZM5G832149	NP_001147997	-	-	-	-	-	WAK2 - OsWAK receptor-like cytoplasmic kinase (OsWAK-RLCK) 	AT1G18390		Protein kinase superfamily protein	-			GO:GO:0030247
+GRMZM5G806309	ELF7(Ara)	NP_001141723	-	-	-	-	-	hypothetical protein LOC100273854 	AT1G79730	ELF7	hydroxyproline-rich glycoprotein family protein	-		K15174	GO:GO:0016593,GO:GO:0016570,GO:GO:0006368
+GRMZM2G351582	GRMZM2G351582	NP_001141200	-	-	-	-	-	hypothetical protein LOC100273287 	AT5G37340		ZPR1 zinc-finger domain protein	-		K06874	GO:GO:0008270
+GRMZM2G156848	TIM10(Ara)	NP_001152261	-	-	-	-	-	LOC100285900 	AT2G29530	TIM10	Tim10/DDP family zinc finger protein	-		K17778	GO:GO:0045039
+GRMZM2G425127	CYP76C4(Ara)	-	-	-	-	-	-	-	AT2G45550	CYP76C4	cytochrome P450, family 76, subfamily C, polypeptide 4	-	1.14.13.152		GO:GO:0055114,GO:GO:0020037,GO:GO:0016705,GO:GO:0005506
+GRMZM2G113506	GAUT14(Ara)	NP_001170288	-	-	-	-	-	hypothetical protein LOC100384251 	AT5G15470	GAUT14	galacturonosyltransferase 14	-	2.4.1.43	K13648	GO:GO:0016757,GO:GO:0047262
+GRMZM2G112895	GRMZM2G112895	NP_001131357	-	-	-	-	-	hypothetical protein LOC100192678 				-			
+GRMZM2G002815	RHL41,ZAT12(Ara)	NP_001152566	-	-	-	-	-	zinc finger DNA-binding protein 	AT5G59820	RHL41,ZAT12	C2H2-type zinc finger family protein	-			
+GRMZM2G050512	GRMZM2G050512	-	-	-	-	-	-	-	AT4G33920		Protein phosphatase 2C family protein	-	3.1.3.16	K01102	GO:GO:0003824,GO:GO:0006470,GO:GO:0004722
+GRMZM2G175134	gst14	NP_001104983	Chr1	85,725,085	85,726,426	gst14	glutathione transferase14	glutathione transferase14 	AT3G03190	ATGSTF11,ATGSTF6,GSTF11	glutathione S-transferase F11	-	2.5.1.18	K00799	GO:GO:0005515
+GRMZM2G069542	pep2	NP_001105503	Chr5	144,847,481	144,855,080	pep2	phosphoenolpyruvate carboxylase2	phosphoenolpyruvate carboxylase 	AT3G14940	ATPPC3,PPC3	phosphoenolpyruvate carboxylase 3	-	4.1.1.31	K01595	GO:GO:0015977,GO:GO:0008964,GO:GO:0006099
+GRMZM2G168590	GRMZM2G168590	NP_001144962	-	-	-	-	-	hypothetical protein LOC100278105 	AT1G22630			-			
+GRMZM2G347836	GRMZM2G347836	-	-	-	-	-	-	-	AT5G66450		Phosphatidic acid phosphatase (PAP2) family protein	-	3.1.3.4		
+GRMZM2G036206	GRMZM2G036206	NP_001159311	-	-	-	-	-	hypothetical protein LOC100304403 	AT5G23490			-			
+GRMZM2G004040	FTSH11(Ara)	-	-	-	-	-	-	-	AT5G53170	FTSH11	FTSH protease 11	-		K08955	GO:GO:0016887,GO:GO:0005524,GO:GO:0006508,GO:GO:0004222
+GRMZM2G168898	hb2	NP_001105819	Chr6	159,342,531	159,343,955	hb2	hemoglobin2	hemoglobin 2 	AT2G16060	AHB1,ARATH GLB1,ATGLB1,GLB1,HB1,NSHB1	hemoglobin 1	-			GO:GO:0020037,GO:GO:0019825
+GRMZM2G139550	GRMZM2G139550	NP_001131550	-	-	-	-	-	hypothetical protein LOC100192890 	AT1G12230		Aldolase superfamily protein	-	2.2.1.2		GO:GO:0005975
+GRMZM2G131525	ATSYP111,KN,SYP111(Ara)	NP_001149999	-	-	-	-	-	syntaxin-related protein KNOLLE 	AT1G08560	ATSYP111,KN,SYP111	syntaxin  of plants 111	-			GO:GO:0005515,GO:GO:0055114,GO:GO:0020037,GO:GO:0006979,GO:GO:0004601,GO:GO:0016020
+GRMZM2G040587	GRMZM2G040587	NP_001146932	-	-	-	-	-	mitochondrial import inner membrane translocase subunit TIM14 	AT2G35795		Chaperone DnaJ-domain superfamily protein	-		K09539	
+AC209626.2_FG013	ATDUF3,ATUROS,DUF3,HEMD,UROS(Ara)	-	-	-	-	-	-	-	AT2G26540	ATDUF3,ATUROS,DUF3,HEMD,UROS	uroporphyrinogen-III synthase family protein	-	4.2.1.75		GO:GO:0033014,GO:GO:0004852
+GRMZM2G126988	pzb00869	NP_001108120	Chr5	33,070,313	33,085,769	pzb00869		starch synthase IIc precursor 	AT3G01180	AtSS2,SS2	starch synthase 2	-	2.4.1.21	K00703	
+GRMZM2G006661	WIT1(Ara)	NP_001146772	-	-	-	-	-	hypothetical protein LOC100280374 	AT5G11390	WIT1	WPP domain-interacting protein 1	-			
+GRMZM2G474129	GRMZM2G474129	-	-	-	-	-	-	-				-			
+GRMZM2G060054	AVA-P4(Ara)	-	-	-	-	-	-	-	AT1G75630	AVA-P4	vacuolar H+-pumping ATPase 16 kDa proteolipid subunit 4	-			
+GRMZM2G117940	GRMZM2G117940	-	Chr1	113,743,016	113,743,825	GRMZM2G117940		-	AT1G74670		Gibberellin-regulated family protein	-			
+GRMZM2G044498	GRMZM2G044498	-	-	-	-	-	-	-				-			
+GRMZM2G056594	GRMZM2G056594	NP_001141613	-	-	-	-	-	hypothetical protein LOC100273731 	AT1G55630		Pentatricopeptide repeat (PPR) superfamily protein	-			
+GRMZM2G120579	GRMZM2G120579	NP_001143395	-	-	-	-	-	hypothetical protein LOC100276033 	AT1G16880		uridylyltransferase-related	-			
+GRMZM2G123886	ATMPK4,MPK4(Ara)	-	-	-	-	-	-	-	AT4G01370	ATMPK4,MPK4	MAP kinase 4	-	2.7.11.24	K04371	GO:GO:0006468,GO:GO:0005524,GO:GO:0004672
+GRMZM2G112805	GRMZM2G112805	NP_001144245	-	-	-	-	-	hypothetical protein LOC100277113 	AT2G20760		Clathrin light chain protein	-			GO:GO:0030132,GO:GO:0030130,GO:GO:0016192,GO:GO:0006886,GO:GO:0005198
+GRMZM2G049915	prcw1	NP_001105492	Chr10	36,785,988	36,787,819	prcw1	proline rich cell wall protein1	proline-rich protein 				-			
+AC194112.3_FG001	AC194112.3_FG001	-	-	-	-	-	-	-	AT2G13610		ABC-2 type transporter family protein	-	3.6.3.44		GO:GO:0016020
+GRMZM2G179120	GRMZM2G179120	NP_001145881	-	-	-	-	-	hypothetical protein LOC100279397 	AT2G46210		Fatty acid/sphingolipid desaturase	-	1.14.19.3	K13076	GO:GO:0006629
+GRMZM2G162079	GRMZM2G162079	NP_001146317	-	-	-	-	-	hypothetical protein LOC100279893 	AT2G23093		Major facilitator superfamily protein	-			GO:GO:0016021,GO:GO:0015689,GO:GO:0015098
+GRMZM2G470513	GRMZM2G470513	NP_001152705	-	-	-	-	-	LOC100286346 	AT4G24440		transcription initiation factor IIA gamma chain / TFIIA-gamma (TFIIA-S)	-		K03123	GO:GO:0006367,GO:GO:0005672
+GRMZM2G365160	GRMZM2G365160	C4J284	-	-	-	-	-	Putative uncharacterized protein 	AT1G22410		Class-II DAHP synthetase family protein	-	2.5.1.54	K01626	GO:GO:0009073,GO:GO:0003849
+GRMZM2G106213	agp1	NP_001105178	Chr2	174,023,583	174,034,507	agp1	ADP glucose pyrophosphorylase small subunit embryo 1	ADP-glucose pyrophosphorylase small subunit 	AT5G48300	ADG1,APS1	ADP glucose pyrophosphorylase  1	-	2.7.7.27	K00975	GO:GO:0016779,GO:GO:0009058
+GRMZM2G056431	GRMZM2G056431	NP_001143577	-	-	-	-	-	hypothetical protein LOC100276276 	AT5G23760		Copper transport protein family	-			GO:GO:0046872,GO:GO:0030001
+GRMZM2G099413	GRMZM2G099413	NP_001168499	-	-	-	-	-	hypothetical protein LOC100382278 				-			
+GRMZM2G137541	bhlh151	NP_001169165	Chr2	189,054,253	189,057,549	bhlh151	bHLH-transcription factor 151	hypothetical protein LOC100383015 	AT1G68920		basic helix-loop-helix (bHLH) DNA-binding superfamily protein	bHLH			GO:GO:0046983
+GRMZM2G024657	gpm707	NP_001151244	Chr5	3,535,893	3,539,529	gpm707		LOC100284877 	AT3G62940		Cysteine proteinases superfamily protein	-	3.4.19.12	K18342	
+GRMZM2G137724	GRMZM2G137724	NP_001132566	-	-	-	-	-	hypothetical protein LOC100194033 	AT4G04880		adenosine/AMP deaminase family protein	-	3.5.4.4	K01488	GO:GO:0019239
+GRMZM2G013677	GRMZM2G013677	-	-	-	-	-	-	-	AT5G05360			-			
+GRMZM5G867030	GRMZM5G867030	NP_001142339	-	-	-	-	-	hypothetical protein LOC100274509 	AT1G78750		F-box/RNI-like superfamily protein	-			GO:GO:0005515
+GRMZM2G005052	GRMZM2G005052	-	-	-	-	-	-	-	AT3G49210		O-acyltransferase (WSD1-like) family protein	-			
+GRMZM2G129783	OTP84(Ara)	-	-	-	-	-	-	-	AT3G57430	OTP84	Tetratricopeptide repeat (TPR)-like superfamily protein	-			
+GRMZM2G099255	GRMZM2G099255	C4J2T7	-	-	-	-	-	Putative uncharacterized protein 	AT2G19160		Core-2/I-branching beta-1,6-N-acetylglucosaminyltransferase family protein	-			GO:GO:0016020,GO:GO:0008375
+GRMZM2G022244	ATSRL1(Ara)	-	-	-	-	-	-	-	AT5G37370	ATSRL1	PRP38 family protein	-			
+GRMZM2G065423	ATROPGEF7,ROPGEF7(Ara)	NP_001145729	-	-	-	-	-	hypothetical protein LOC100279236 	AT5G02010	ATROPGEF7,ROPGEF7	RHO guanyl-nucleotide exchange factor 7	-			GO:GO:0005089
+GRMZM5G856436	GRMZM5G856436	NP_001148915	-	-	-	-	-	protein yippee-like 	AT3G11230		Yippee family putative zinc-binding protein	-			
+GRMZM2G044527	ATSYP131,SYP131(Ara)	NP_001152009	-	-	-	-	-	syntaxin 132 	AT3G03800	ATSYP131,SYP131	syntaxin of plants 131	-		K08486	GO:GO:0005515,GO:GO:0016020
+GRMZM2G303118	AY106040	-	Chr2	14,837,139	14,848,360	AY106040		-	AT5G37030		P-loop containing nucleoside triphosphate hydrolases superfamily protein	-		K10706	
+GRMZM2G106604	GRMZM2G106604	NP_001143072	-	-	-	-	-	hypothetical protein LOC100275544 	AT5G06560		Protein of unknown function, DUF593	-			
+GRMZM2G369987	GRMZM2G369987	-	-	-	-	-	-	-	AT3G24200		FAD/NAD(P)-binding oxidoreductase family protein	-			GO:GO:0071949
+GRMZM2G044469	AAO1,AO1,AOalpha,AT-AO1,ATAO,AtAO1(Ara)	-	-	-	-	-	-	-	AT5G20960	AAO1,AO1,AOalpha,AT-AO1,ATAO,AtAO1	aldehyde oxidase 1	-	1.2.3.1,1.2.3.7		GO:GO:0055114,GO:GO:0016491
+GRMZM2G061766	GRMZM2G061766	-	-	-	-	-	-	-				-			GO:GO:0030598,GO:GO:0017148
+GRMZM5G833332	GRMZM5G833332	-	-	-	-	-	-	-	AT5G39530		Protein of unknown function (DUF1997)	-			
+GRMZM2G086403	platz15	NP_001144693	Chr10	135,709,748	135,712,426	platz15	PLATZ-transcription factor 15	hypothetical protein LOC100277728 	AT1G32700		PLATZ transcription factor family protein	-			
+GRMZM2G068510	GRMZM2G068510	-	-	-	-	-	-	-	AT4G01240		S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	-			GO:GO:0008168,GO:GO:0008152
+GRMZM2G137551	GRMZM2G137551	-	-	-	-	-	-	-				-			
+GRMZM2G002825	ADF4,ATADF4(Ara)	NP_001146959	-	-	-	-	-	actin-depolymerizing factor 3 	AT5G59890	ADF4,ATADF4	actin depolymerizing factor 4	-		K05765	GO:GO:0005622,GO:GO:0003779,GO:GO:0030042,GO:GO:0015629
+GRMZM2G343024	GRMZM2G343024	NP_001147736	-	-	-	-	-	pto kinase interactor 1 	AT1G48210		Protein kinase superfamily protein	-	2.7.11.1	K13436	GO:GO:0006468,GO:GO:0004672
+GRMZM2G160151	ATCPSF73-II,CPSF73-II,EDA26(Ara)	-	-	-	-	-	-	-	AT2G01730	ATCPSF73-II,CPSF73-II,EDA26	cleavage and polyadenylation specificity factor 73 kDa subunit-II	-			
+GRMZM2G467695	GRMZM2G467695	NP_001143244	-	-	-	-	-	hypothetical protein LOC100275769 				-			
+GRMZM2G702932	GRMZM2G702932	-	-	-	-	-	-	-				-			
+GRMZM2G095895	GRMZM2G095895	NM_001151969	-	-	-	-	-	hypothetical protein LOC100278819 (LOC100278819), mRNA				-			
+GRMZM2G121715	CRCK2(Ara)	NP_001149420	-	-	-	-	-	LOC100283046 	AT4G00330	CRCK2	calmodulin-binding receptor-like cytoplasmic kinase 2	-	2.7.11.1		GO:GO:0006468,GO:GO:0005524,GO:GO:0004672
+GRMZM2G334628	GRMZM2G334628	NP_001132627	-	-	-	-	-	hypothetical protein LOC100194102 	AT3G08590		Phosphoglycerate mutase, 2,3-bisphosphoglycerate-independent	-	5.4.2.12	K15633	GO:GO:0030145,GO:GO:0006007,GO:GO:0005737,GO:GO:0004619
+GRMZM2G123119	ereb177	NP_001130815	Chr7	52,773,401	52,774,399	ereb177	AP2-EREBP-transcription factor 177	hypothetical protein LOC100191919 	AT3G23240	ATERF1,ERF1	ethylene response factor 1	ERF			GO:GO:0006355,GO:GO:0003700
+GRMZM2G106531	crti2	NM_001154583	Chr2	227,035,811	227,040,800	crti2	carotene isomerase2	carotenoid isomerase 2 (CRTISO2), mRNA	AT1G06820	CCR2,CRTISO	carotenoid isomerase	-	5.2.1.13		GO:GO:0055114,GO:GO:0016491
+GRMZM2G156638	YAK1(Ara)	NP_001159228	-	-	-	-	-	hypothetical protein LOC100304314 	AT5G35980	YAK1	yeast YAK1-related gene 1	-			
+GRMZM2G140763	GRMZM2G140763	NP_001143005	-	-	-	-	-	hypothetical protein LOC100275468 				-			
+GRMZM2G096831	GRMZM2G096831	NP_001149764	-	-	-	-	-	lipase 	AT1G10740		alpha/beta-Hydrolases superfamily protein	-	3.1.1.32,3.1.1.3		
+GRMZM2G119261	mybr114	NP_001145692	Chr2	113,806,626	113,816,795	mybr114	MYB-related-transcription factor 114	hypothetical protein LOC100279196 	AT4G34430	ATSWI3D,CHB3	DNA-binding family protein	-		K11649	GO:GO:0008270,GO:GO:0005515
+GRMZM2G105999	GRMZM2G105999	NM_001155527	-	-	-	-	-	ubiquitin-protein ligase/ zinc ion binding protein (LOC100282619), mRNA	AT3G07200		RING/U-box superfamily protein	-			GO:GO:0008270,GO:GO:0005515
+GRMZM2G056870	umc1222	NP_001149918	Chr1	10,989,939	10,997,425	umc1222		proteasome subunit alpha type 5 	AT1G53850	ATPAE1,PAE1	20S proteasome alpha subunit E1	-	3.4.25.1	K02729	GO:GO:0019773,GO:GO:0006511,GO:GO:0004175,GO:GO:0051603,GO:GO:0005839,GO:GO:0004298
+AC206332.3_FG005	GALT1(Ara)	-	-	-	-	-	-	-	AT1G26810	GALT1	galactosyltransferase1	-	2.4.1.206	K14413	GO:GO:0030246,GO:GO:0016020,GO:GO:0008378,GO:GO:0006486
+GRMZM2G100286	APUM3,PUM3(Ara)	NP_001169459	-	-	-	-	-	hypothetical protein LOC100383330 	AT2G29140	APUM3,PUM3	pumilio 3	-			GO:GO:0003723
+GRMZM2G177220	arr6	NP_001152300	Chr3	165,939,858	165,943,821	arr6	ARR-B-transcription factor 6	two-component response regulator ARR11 	AT1G67710	ARR11	response regulator 11	ARR-B		K14491	GO:GO:0000160
+GRMZM2G086474	bhlh134	NP_001167769	Chr10	135,701,832	135,705,430	bhlh134	bHLH-transcription factor 134	hypothetical protein LOC100381462 	AT3G24140	FMA	basic helix-loop-helix (bHLH) DNA-binding superfamily protein	bHLH			GO:GO:0046983
+GRMZM2G366065	GRMZM2G366065	NP_001168646	-	-	-	-	-	hypothetical protein LOC100382433 	AT1G80530		Major facilitator superfamily protein	-			
+GRMZM2G090105	GRMZM2G090105	NM_001157404	-	-	-	-	-	phosphatidylinositol N-acetylglucosaminyltransferase subunit P (LOC100284509), mRNA	AT2G39445		Phosphatidylinositol N-acetylglucosaminyltransferase, GPI19/PIG-P subunit	-	2.4.1.198	K03861	
+GRMZM2G024437	TIP1(Ara)	-	-	-	-	-	-	-	AT5G20350	TIP1	Ankyrin repeat family protein with DHHC zinc finger domain	-	2.3.1.225	K18932	GO:GO:0008270
+GRMZM2G156937	PTAC13(Ara)	NP_001151355	-	-	-	-	-	transcription termination factor nusG family protein 	AT3G09210	PTAC13	plastid transcriptionally active 13	-			GO:GO:0006355
+GRMZM2G150213	GRMZM2G150213	NP_001152457	-	-	-	-	-	Ca2+/calmodulin-dependent protein kinase phosphatase 	AT1G47380		Protein phosphatase 2C family protein	-	3.1.3.16		GO:GO:0003824,GO:GO:0006470,GO:GO:0004722
+GRMZM2G137174	PLA IIA,PLA2A,PLP2(Ara)	NP_001141843	-	-	-	-	-	hypothetical protein LOC100273985 	AT2G26560	PLA IIA,PLA2A,PLP2	phospholipase A 2A	-	3.1.1.26		GO:GO:0006629
+

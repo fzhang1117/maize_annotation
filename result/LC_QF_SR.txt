@@ -1,0 +1,245 @@
+GeneSymbol	altName	NCBI_Accession	Chr	Start	End	Zma_alias	Zma_fullname	Zma_description	Ara_ortholog	Ara_alias	Annotation	TF	EC	KO	GO
+GRMZM2G174615	GRMZM2G174615	NP_001145314	-	-	-	-	-	hypothetical protein LOC100278628 	AT4G11000		Ankyrin repeat family protein	-			
+GRMZM2G116010	PIP5K4(Ara)	-	-	-	-	-	-	-	AT3G56960	PIP5K4	phosphatidyl inositol monophosphate 5 kinase 4	-	2.7.1.68		GO:GO:0046488,GO:GO:0016307
+GRMZM2G108523	GRMZM2G108523	-	-	-	-	-	-	-				-			
+GRMZM2G577677	MSRB2(Ara)	NP_001148386	-	-	-	-	-	LOC100281999 	AT4G21860	MSRB2	methionine sulfoxide reductase B 2	-	1.8.4.12	K07305	GO:GO:0055114,GO:GO:0033743,GO:GO:0030091,GO:GO:0016671,GO:GO:0006979
+GRMZM2G577677	MSRB2(Ara)	NP_001148386	-	-	-	-	-	LOC100281999 	AT4G21860	MSRB2	methionine sulfoxide reductase B 2	-	1.8.4.12	K07305	GO:GO:0055114,GO:GO:0033743,GO:GO:0030091,GO:GO:0016671,GO:GO:0006979
+GRMZM2G044902	lbd6	NP_001131814	Chr1	77,152,675	77,154,117	lbd6	LBD-transcription factor 6	hypothetical protein LOC100193187 	AT5G67420	ASL39,LBD37	LOB domain-containing protein 37	LBD			
+GRMZM2G428555	myb78	NM_001148280	Chr1	213,582,734	213,586,180	myb78	MYB-transcription factor 78	hypothetical protein LOC100273887 (LOC100273887), mRNA	AT1G69560	ATMYB105,LOF2,MYB105	myb domain protein 105	MYB		K09422	
+GRMZM2G428555	myb78	NM_001148280	Chr1	213,582,734	213,586,180	myb78	MYB-transcription factor 78	hypothetical protein LOC100273887 (LOC100273887), mRNA	AT1G69560	ATMYB105,LOF2,MYB105	myb domain protein 105	MYB		K09422	
+GRMZM2G428555	myb78	NM_001148280	Chr1	213,582,734	213,586,180	myb78	MYB-transcription factor 78	hypothetical protein LOC100273887 (LOC100273887), mRNA	AT1G69560	ATMYB105,LOF2,MYB105	myb domain protein 105	MYB		K09422	
+GRMZM2G428555	myb78	NM_001148280	Chr1	213,582,734	213,586,180	myb78	MYB-transcription factor 78	hypothetical protein LOC100273887 (LOC100273887), mRNA	AT1G69560	ATMYB105,LOF2,MYB105	myb domain protein 105	MYB		K09422	
+GRMZM2G428555	myb78	NM_001148280	Chr1	213,582,734	213,586,180	myb78	MYB-transcription factor 78	hypothetical protein LOC100273887 (LOC100273887), mRNA	AT1G69560	ATMYB105,LOF2,MYB105	myb domain protein 105	MYB		K09422	
+AC217050.4_FG001	AC217050.4_FG001	-	-	-	-	-	-	-	AT5G16040		Regulator of chromosome condensation (RCC1) family protein	-			
+AC217050.4_FG001	AC217050.4_FG001	-	-	-	-	-	-	-	AT5G16040		Regulator of chromosome condensation (RCC1) family protein	-			
+AC217050.4_FG001	AC217050.4_FG001	-	-	-	-	-	-	-	AT5G16040		Regulator of chromosome condensation (RCC1) family protein	-			
+GRMZM2G008607	GRMZM2G008607	NP_001144038	-	-	-	-	-	hypothetical protein LOC100276862 	AT1G07040			-			
+GRMZM2G019806	bhlh137	NP_001132631	Chr1	271,047,086	271,049,436	bhlh137	bHLH-transcription factor 137	hypothetical protein LOC100194106 	AT4G37850		basic helix-loop-helix (bHLH) DNA-binding superfamily protein	bHLH			GO:GO:0046983
+GRMZM2G028926	ATCPK1,CPK1(Ara)	-	-	-	-	-	-	-	AT5G04870	ATCPK1,CPK1	calcium dependent protein kinase 1	-	2.7.11.1	K13412	GO:GO:0006468,GO:GO:0004672
+GRMZM2G009598	ereb159	NP_001148576	Chr1	292,178,941	292,180,261	ereb159	AP2-EREBP-transcription factor 159	DNA binding protein 	AT4G27950	CRF4	cytokinin response factor 4	ERF			GO:GO:0006355,GO:GO:0003700
+GRMZM2G009598	ereb159	NP_001148576	Chr1	292,178,941	292,180,261	ereb159	AP2-EREBP-transcription factor 159	DNA binding protein 	AT4G27950	CRF4	cytokinin response factor 4	ERF			GO:GO:0006355,GO:GO:0003700
+GRMZM2G009598	ereb159	NP_001148576	Chr1	292,178,941	292,180,261	ereb159	AP2-EREBP-transcription factor 159	DNA binding protein 	AT4G27950	CRF4	cytokinin response factor 4	ERF			GO:GO:0006355,GO:GO:0003700
+GRMZM2G072584	GRMZM2G072584	-	-	-	-	-	-	-	AT5G01850		Protein kinase superfamily protein	-	2.7.12.1		
+GRMZM2G072584	GRMZM2G072584	-	-	-	-	-	-	-	AT5G01850		Protein kinase superfamily protein	-	2.7.12.1		
+GRMZM2G072584	GRMZM2G072584	-	-	-	-	-	-	-	AT5G01850		Protein kinase superfamily protein	-	2.7.12.1		
+GRMZM2G072584	GRMZM2G072584	-	-	-	-	-	-	-	AT5G01850		Protein kinase superfamily protein	-	2.7.12.1		
+GRMZM2G072584	GRMZM2G072584	-	-	-	-	-	-	-	AT5G01850		Protein kinase superfamily protein	-	2.7.12.1		
+GRMZM2G072850	ABCB19,ATABCB19,ATMDR1,ATMDR11,ATPGP19,MDR1,MDR11,PGP19(Ara)	-	-	-	-	-	-	-	AT3G28860	ABCB19,ATABCB19,ATMDR1,ATMDR11,ATPGP19,MDR1,MDR11,PGP19	ATP binding cassette subfamily B19	-	3.6.3.44	K05658	GO:GO:0016887,GO:GO:0005524,GO:GO:0055085,GO:GO:0042626,GO:GO:0016021,GO:GO:0006810
+GRMZM2G156365	GRMZM2G156365	NP_001146615	-	-	-	-	-	hypothetical protein LOC100280212 	AT5G45280		Pectinacetylesterase family protein	-			GO:GO:0016787
+GRMZM2G421256	mybr20	NP_001145595	Chr2	14,726,120	14,728,827	mybr20	MYB-related-transcription factor 20	hypothetical protein LOC100279070 				MYB_related			
+GRMZM2G036708	ARATH;BSAS3;1,ATCYSC1,CYSC1(Ara)	NP_001136599	-	-	-	-	-	hypothetical protein LOC100216722 	AT3G61440	ARATH;BSAS3;1,ATCYSC1,CYSC1	cysteine synthase C1	-	2.5.1.47	K13034	GO:GO:0050017,GO:GO:0019499,GO:GO:0005739,GO:GO:0004124
+GRMZM2G142502	GRMZM2G142502	NP_001167928	-	-	-	-	-	hypothetical protein LOC100381642 				C2H2			
+GRMZM2G142502	GRMZM2G142502	NP_001167928	-	-	-	-	-	hypothetical protein LOC100381642 				C2H2			
+GRMZM2G102878	AtFaTA,FaTA(Ara)	NP_001150707	-	-	-	-	-	LOC100284340 	AT3G25110	AtFaTA,FaTA	fatA acyl-ACP thioesterase	-	3.1.2.14		GO:GO:0016790,GO:GO:0006633
+GRMZM2G113794	UGT71B1(Ara)	NP_001131537	-	-	-	-	-	hypothetical protein LOC100192877 	AT3G21750	UGT71B1	UDP-glucosyl transferase 71B1	-			GO:GO:0016758,GO:GO:0008152
+GRMZM2G022242	UGT78D2(Ara)	NP_001137065	-	-	-	-	-	hypothetical protein LOC100217238 	AT5G17050	UGT78D2	UDP-glucosyl transferase 78D2	-	2.4.1.115		GO:GO:0016758,GO:GO:0008152
+GRMZM2G017351	gpm863	-	Chr2	210,584,713	210,592,622	gpm863		-	AT5G19010	MPK16	mitogen-activated protein kinase 16	-	2.7.11.24		
+GRMZM2G156127	GRMZM2G156127	NP_001149878	-	-	-	-	-	cytokinin-N-glucosyltransferase 1 	AT3G55700		UDP-Glycosyltransferase superfamily protein	-	2.4.1.202		GO:GO:0016758,GO:GO:0008152
+GRMZM2G156127	GRMZM2G156127	NP_001149878	-	-	-	-	-	cytokinin-N-glucosyltransferase 1 	AT3G55700		UDP-Glycosyltransferase superfamily protein	-	2.4.1.202		GO:GO:0016758,GO:GO:0008152
+GRMZM2G156127	GRMZM2G156127	NP_001149878	-	-	-	-	-	cytokinin-N-glucosyltransferase 1 	AT3G55700		UDP-Glycosyltransferase superfamily protein	-	2.4.1.202		GO:GO:0016758,GO:GO:0008152
+GRMZM2G156127	GRMZM2G156127	NP_001149878	-	-	-	-	-	cytokinin-N-glucosyltransferase 1 	AT3G55700		UDP-Glycosyltransferase superfamily protein	-	2.4.1.202		GO:GO:0016758,GO:GO:0008152
+GRMZM2G156127	GRMZM2G156127	NP_001149878	-	-	-	-	-	cytokinin-N-glucosyltransferase 1 	AT3G55700		UDP-Glycosyltransferase superfamily protein	-	2.4.1.202		GO:GO:0016758,GO:GO:0008152
+GRMZM2G036034	GRMZM2G036034	NP_001132662	-	-	-	-	-	hypothetical protein LOC100194138 	AT4G34450		coatomer gamma-2 subunit, putative / gamma-2 coat protein, putative / gamma-2 COP, putative	-		K17267	GO:GO:0030126,GO:GO:0016192,GO:GO:0006886,GO:GO:0005198,GO:GO:0030117
+GRMZM2G036034	GRMZM2G036034	NP_001132662	-	-	-	-	-	hypothetical protein LOC100194138 	AT4G34450		coatomer gamma-2 subunit, putative / gamma-2 coat protein, putative / gamma-2 COP, putative	-		K17267	GO:GO:0030126,GO:GO:0016192,GO:GO:0006886,GO:GO:0005198,GO:GO:0030117
+GRMZM2G036034	GRMZM2G036034	NP_001132662	-	-	-	-	-	hypothetical protein LOC100194138 	AT4G34450		coatomer gamma-2 subunit, putative / gamma-2 coat protein, putative / gamma-2 COP, putative	-		K17267	GO:GO:0030126,GO:GO:0016192,GO:GO:0006886,GO:GO:0005198,GO:GO:0030117
+GRMZM2G036034	GRMZM2G036034	NP_001132662	-	-	-	-	-	hypothetical protein LOC100194138 	AT4G34450		coatomer gamma-2 subunit, putative / gamma-2 coat protein, putative / gamma-2 COP, putative	-		K17267	GO:GO:0030126,GO:GO:0016192,GO:GO:0006886,GO:GO:0005198,GO:GO:0030117
+GRMZM2G055313	GRMZM2G055313	NP_001148073	-	-	-	-	-	xylosyltransferase oxt 	AT3G15350		Core-2/I-branching beta-1,6-N-acetylglucosaminyltransferase family protein	-		K00771	GO:GO:0016020,GO:GO:0008375
+GRMZM2G069177	atg18c	C4J4S6	Chr3	13,319,540	13,323,979	atg18c	autophagy18c	Putative uncharacterized protein 	AT3G56440	ATATG18D,ATG18D	homolog of yeast autophagy 18 (ATG18) D	-			
+GRMZM2G044697	ATEGY2,EGY2(Ara)	NP_001131703	-	-	-	-	-	hypothetical protein LOC100193065 	AT5G05740	ATEGY2,EGY2	ethylene-dependent gravitropism-deficient and yellow-green-like 2	-			GO:GO:0006508,GO:GO:0004222
+GRMZM2G044697	ATEGY2,EGY2(Ara)	NP_001131703	-	-	-	-	-	hypothetical protein LOC100193065 	AT5G05740	ATEGY2,EGY2	ethylene-dependent gravitropism-deficient and yellow-green-like 2	-			GO:GO:0006508,GO:GO:0004222
+GRMZM5G835235	ATSK13,SK13(Ara)	NP_001150105	-	-	-	-	-	LOC100283734 	AT5G14640	ATSK13,SK13	shaggy-like kinase 13	-	2.7.11.1,2.7.11.26	K00924,K03083	GO:GO:0006468,GO:GO:0004672
+GRMZM2G161658	GRMZM2G161658	NP_001148885	-	-	-	-	-	epoxide hydrolase 2 	AT4G02340		alpha/beta-Hydrolases superfamily protein	-	3.3.2.10		
+AC212709.3_FG001	AC212709.3_FG001	-	-	-	-	-	-	-				-			
+GRMZM2G105991	UGT88A1(Ara)	NP_001146271	-	-	-	-	-	hypothetical protein LOC100279846 	AT3G16520	UGT88A1	UDP-glucosyl transferase 88A1	-			GO:GO:0016758,GO:GO:0008152
+GRMZM2G082203	rte2	NP_001167745	Chr3	128,114,749	128,119,422	rte2	rotten ear2	hypothetical protein LOC100381433 	AT3G62270		HCO3- transporter family	-			GO:GO:0016021,GO:GO:0006820,GO:GO:0016020,GO:GO:0005452
+GRMZM2G701738	GRMZM2G701738	-	-	-	-	-	-	-				-			
+GRMZM2G349187	CYP71A19(Ara)	NP_001170770	-	-	-	-	-	hypothetical protein LOC100384864 	AT4G13290	CYP71A19	cytochrome P450, family 71, subfamily A, polypeptide 19	-	1.14.13.121		GO:GO:0055114,GO:GO:0020037,GO:GO:0016705,GO:GO:0005506
+GRMZM2G124658	GRMZM2G124658	-	-	-	-	-	-	-	AT3G12180		Cornichon family protein	-			GO:GO:0035556,GO:GO:0016020
+GRMZM2G135713	PUB23(Ara)	-	-	-	-	-	-	-	AT2G35930	PUB23	plant U-box 23	-	6.3.2.19		GO:GO:0016567,GO:GO:0004842
+GRMZM2G135713	PUB23(Ara)	-	-	-	-	-	-	-	AT2G35930	PUB23	plant U-box 23	-	6.3.2.19		GO:GO:0016567,GO:GO:0004842
+GRMZM2G135722	GRMZM2G135722	NP_001147674	-	-	-	-	-	anthocyanidin 3-O-glucosyltransferase 	AT5G49690		UDP-Glycosyltransferase superfamily protein	-	2.4.1.273		GO:GO:0016758,GO:GO:0008152
+GRMZM2G135722	GRMZM2G135722	NP_001147674	-	-	-	-	-	anthocyanidin 3-O-glucosyltransferase 	AT5G49690		UDP-Glycosyltransferase superfamily protein	-	2.4.1.273		GO:GO:0016758,GO:GO:0008152
+GRMZM2G135722	GRMZM2G135722	NP_001147674	-	-	-	-	-	anthocyanidin 3-O-glucosyltransferase 	AT5G49690		UDP-Glycosyltransferase superfamily protein	-	2.4.1.273		GO:GO:0016758,GO:GO:0008152
+GRMZM2G061289	GRMZM2G061289	-	-	-	-	-	-	-	AT5G49690		UDP-Glycosyltransferase superfamily protein	-	2.4.1.273		GO:GO:0016758,GO:GO:0008152
+GRMZM2G061289	GRMZM2G061289	-	-	-	-	-	-	-	AT5G49690		UDP-Glycosyltransferase superfamily protein	-	2.4.1.273		GO:GO:0016758,GO:GO:0008152
+GRMZM5G885529	GRMZM5G885529	NP_001167960	-	-	-	-	-	hypothetical protein LOC100381676 	AT5G18440			-		K14404	
+GRMZM5G885529	GRMZM5G885529	NP_001167960	-	-	-	-	-	hypothetical protein LOC100381676 	AT5G18440			-		K14404	
+GRMZM5G885529	GRMZM5G885529	NP_001167960	-	-	-	-	-	hypothetical protein LOC100381676 	AT5G18440			-		K14404	
+GRMZM5G885529	GRMZM5G885529	NP_001167960	-	-	-	-	-	hypothetical protein LOC100381676 	AT5G18440			-		K14404	
+GRMZM5G885529	GRMZM5G885529	NP_001167960	-	-	-	-	-	hypothetical protein LOC100381676 	AT5G18440			-		K14404	
+GRMZM5G885529	GRMZM5G885529	NP_001167960	-	-	-	-	-	hypothetical protein LOC100381676 	AT5G18440			-		K14404	
+GRMZM5G885529	GRMZM5G885529	NP_001167960	-	-	-	-	-	hypothetical protein LOC100381676 	AT5G18440			-		K14404	
+GRMZM5G885529	GRMZM5G885529	NP_001167960	-	-	-	-	-	hypothetical protein LOC100381676 	AT5G18440			-		K14404	
+GRMZM5G885529	GRMZM5G885529	NP_001167960	-	-	-	-	-	hypothetical protein LOC100381676 	AT5G18440			-		K14404	
+GRMZM5G885529	GRMZM5G885529	NP_001167960	-	-	-	-	-	hypothetical protein LOC100381676 	AT5G18440			-		K14404	
+GRMZM5G885529	GRMZM5G885529	NP_001167960	-	-	-	-	-	hypothetical protein LOC100381676 	AT5G18440			-		K14404	
+GRMZM5G885529	GRMZM5G885529	NP_001167960	-	-	-	-	-	hypothetical protein LOC100381676 	AT5G18440			-		K14404	
+GRMZM5G885529	GRMZM5G885529	NP_001167960	-	-	-	-	-	hypothetical protein LOC100381676 	AT5G18440			-		K14404	
+GRMZM5G885529	GRMZM5G885529	NP_001167960	-	-	-	-	-	hypothetical protein LOC100381676 	AT5G18440			-		K14404	
+GRMZM5G885529	GRMZM5G885529	NP_001167960	-	-	-	-	-	hypothetical protein LOC100381676 	AT5G18440			-		K14404	
+GRMZM5G885529	GRMZM5G885529	NP_001167960	-	-	-	-	-	hypothetical protein LOC100381676 	AT5G18440			-		K14404	
+GRMZM5G885529	GRMZM5G885529	NP_001167960	-	-	-	-	-	hypothetical protein LOC100381676 	AT5G18440			-		K14404	
+GRMZM5G885529	GRMZM5G885529	NP_001167960	-	-	-	-	-	hypothetical protein LOC100381676 	AT5G18440			-		K14404	
+GRMZM2G054821	AGD14,ZIGA4(Ara)	NM_001152680	-	-	-	-	-	hypothetical protein LOC100279721 (LOC100279721), mRNA	AT1G08680	AGD14,ZIGA4	ARF GAP-like zinc finger-containing protein ZIGA4	-			GO:GO:0005096
+GRMZM2G054821	AGD14,ZIGA4(Ara)	NM_001152680	-	-	-	-	-	hypothetical protein LOC100279721 (LOC100279721), mRNA	AT1G08680	AGD14,ZIGA4	ARF GAP-like zinc finger-containing protein ZIGA4	-			GO:GO:0005096
+GRMZM2G054821	AGD14,ZIGA4(Ara)	NM_001152680	-	-	-	-	-	hypothetical protein LOC100279721 (LOC100279721), mRNA	AT1G08680	AGD14,ZIGA4	ARF GAP-like zinc finger-containing protein ZIGA4	-			GO:GO:0005096
+GRMZM2G054821	AGD14,ZIGA4(Ara)	NM_001152680	-	-	-	-	-	hypothetical protein LOC100279721 (LOC100279721), mRNA	AT1G08680	AGD14,ZIGA4	ARF GAP-like zinc finger-containing protein ZIGA4	-			GO:GO:0005096
+GRMZM2G054821	AGD14,ZIGA4(Ara)	NM_001152680	-	-	-	-	-	hypothetical protein LOC100279721 (LOC100279721), mRNA	AT1G08680	AGD14,ZIGA4	ARF GAP-like zinc finger-containing protein ZIGA4	-			GO:GO:0005096
+GRMZM2G054821	AGD14,ZIGA4(Ara)	NM_001152680	-	-	-	-	-	hypothetical protein LOC100279721 (LOC100279721), mRNA	AT1G08680	AGD14,ZIGA4	ARF GAP-like zinc finger-containing protein ZIGA4	-			GO:GO:0005096
+GRMZM2G054821	AGD14,ZIGA4(Ara)	NM_001152680	-	-	-	-	-	hypothetical protein LOC100279721 (LOC100279721), mRNA	AT1G08680	AGD14,ZIGA4	ARF GAP-like zinc finger-containing protein ZIGA4	-			GO:GO:0005096
+GRMZM2G054821	AGD14,ZIGA4(Ara)	NM_001152680	-	-	-	-	-	hypothetical protein LOC100279721 (LOC100279721), mRNA	AT1G08680	AGD14,ZIGA4	ARF GAP-like zinc finger-containing protein ZIGA4	-			GO:GO:0005096
+GRMZM2G054821	AGD14,ZIGA4(Ara)	NM_001152680	-	-	-	-	-	hypothetical protein LOC100279721 (LOC100279721), mRNA	AT1G08680	AGD14,ZIGA4	ARF GAP-like zinc finger-containing protein ZIGA4	-			GO:GO:0005096
+GRMZM2G054821	AGD14,ZIGA4(Ara)	NM_001152680	-	-	-	-	-	hypothetical protein LOC100279721 (LOC100279721), mRNA	AT1G08680	AGD14,ZIGA4	ARF GAP-like zinc finger-containing protein ZIGA4	-			GO:GO:0005096
+GRMZM2G054821	AGD14,ZIGA4(Ara)	NM_001152680	-	-	-	-	-	hypothetical protein LOC100279721 (LOC100279721), mRNA	AT1G08680	AGD14,ZIGA4	ARF GAP-like zinc finger-containing protein ZIGA4	-			GO:GO:0005096
+GRMZM2G054821	AGD14,ZIGA4(Ara)	NM_001152680	-	-	-	-	-	hypothetical protein LOC100279721 (LOC100279721), mRNA	AT1G08680	AGD14,ZIGA4	ARF GAP-like zinc finger-containing protein ZIGA4	-			GO:GO:0005096
+GRMZM2G054821	AGD14,ZIGA4(Ara)	NM_001152680	-	-	-	-	-	hypothetical protein LOC100279721 (LOC100279721), mRNA	AT1G08680	AGD14,ZIGA4	ARF GAP-like zinc finger-containing protein ZIGA4	-			GO:GO:0005096
+GRMZM2G054821	AGD14,ZIGA4(Ara)	NM_001152680	-	-	-	-	-	hypothetical protein LOC100279721 (LOC100279721), mRNA	AT1G08680	AGD14,ZIGA4	ARF GAP-like zinc finger-containing protein ZIGA4	-			GO:GO:0005096
+GRMZM2G054821	AGD14,ZIGA4(Ara)	NM_001152680	-	-	-	-	-	hypothetical protein LOC100279721 (LOC100279721), mRNA	AT1G08680	AGD14,ZIGA4	ARF GAP-like zinc finger-containing protein ZIGA4	-			GO:GO:0005096
+GRMZM2G054821	AGD14,ZIGA4(Ara)	NM_001152680	-	-	-	-	-	hypothetical protein LOC100279721 (LOC100279721), mRNA	AT1G08680	AGD14,ZIGA4	ARF GAP-like zinc finger-containing protein ZIGA4	-			GO:GO:0005096
+GRMZM2G054821	AGD14,ZIGA4(Ara)	NM_001152680	-	-	-	-	-	hypothetical protein LOC100279721 (LOC100279721), mRNA	AT1G08680	AGD14,ZIGA4	ARF GAP-like zinc finger-containing protein ZIGA4	-			GO:GO:0005096
+GRMZM2G054821	AGD14,ZIGA4(Ara)	NM_001152680	-	-	-	-	-	hypothetical protein LOC100279721 (LOC100279721), mRNA	AT1G08680	AGD14,ZIGA4	ARF GAP-like zinc finger-containing protein ZIGA4	-			GO:GO:0005096
+GRMZM2G054821	AGD14,ZIGA4(Ara)	NM_001152680	-	-	-	-	-	hypothetical protein LOC100279721 (LOC100279721), mRNA	AT1G08680	AGD14,ZIGA4	ARF GAP-like zinc finger-containing protein ZIGA4	-			GO:GO:0005096
+GRMZM2G054821	AGD14,ZIGA4(Ara)	NM_001152680	-	-	-	-	-	hypothetical protein LOC100279721 (LOC100279721), mRNA	AT1G08680	AGD14,ZIGA4	ARF GAP-like zinc finger-containing protein ZIGA4	-			GO:GO:0005096
+GRMZM2G054821	AGD14,ZIGA4(Ara)	NM_001152680	-	-	-	-	-	hypothetical protein LOC100279721 (LOC100279721), mRNA	AT1G08680	AGD14,ZIGA4	ARF GAP-like zinc finger-containing protein ZIGA4	-			GO:GO:0005096
+GRMZM2G054821	AGD14,ZIGA4(Ara)	NM_001152680	-	-	-	-	-	hypothetical protein LOC100279721 (LOC100279721), mRNA	AT1G08680	AGD14,ZIGA4	ARF GAP-like zinc finger-containing protein ZIGA4	-			GO:GO:0005096
+GRMZM2G054821	AGD14,ZIGA4(Ara)	NM_001152680	-	-	-	-	-	hypothetical protein LOC100279721 (LOC100279721), mRNA	AT1G08680	AGD14,ZIGA4	ARF GAP-like zinc finger-containing protein ZIGA4	-			GO:GO:0005096
+GRMZM2G054821	AGD14,ZIGA4(Ara)	NM_001152680	-	-	-	-	-	hypothetical protein LOC100279721 (LOC100279721), mRNA	AT1G08680	AGD14,ZIGA4	ARF GAP-like zinc finger-containing protein ZIGA4	-			GO:GO:0005096
+GRMZM2G054821	AGD14,ZIGA4(Ara)	NM_001152680	-	-	-	-	-	hypothetical protein LOC100279721 (LOC100279721), mRNA	AT1G08680	AGD14,ZIGA4	ARF GAP-like zinc finger-containing protein ZIGA4	-			GO:GO:0005096
+GRMZM2G054821	AGD14,ZIGA4(Ara)	NM_001152680	-	-	-	-	-	hypothetical protein LOC100279721 (LOC100279721), mRNA	AT1G08680	AGD14,ZIGA4	ARF GAP-like zinc finger-containing protein ZIGA4	-			GO:GO:0005096
+GRMZM2G069024	BGLU11(Ara)	NP_001136681	-	-	-	-	-	hypothetical protein LOC100216811 	AT1G02850	BGLU11	beta glucosidase 11	-	3.2.1.21	K01188	GO:GO:0005975,GO:GO:0004553
+GRMZM2G069024	BGLU11(Ara)	NP_001136681	-	-	-	-	-	hypothetical protein LOC100216811 	AT1G02850	BGLU11	beta glucosidase 11	-	3.2.1.21	K01188	GO:GO:0005975,GO:GO:0004553
+GRMZM2G069024	BGLU11(Ara)	NP_001136681	-	-	-	-	-	hypothetical protein LOC100216811 	AT1G02850	BGLU11	beta glucosidase 11	-	3.2.1.21	K01188	GO:GO:0005975,GO:GO:0004553
+GRMZM2G069024	BGLU11(Ara)	NP_001136681	-	-	-	-	-	hypothetical protein LOC100216811 	AT1G02850	BGLU11	beta glucosidase 11	-	3.2.1.21	K01188	GO:GO:0005975,GO:GO:0004553
+GRMZM2G069024	BGLU11(Ara)	NP_001136681	-	-	-	-	-	hypothetical protein LOC100216811 	AT1G02850	BGLU11	beta glucosidase 11	-	3.2.1.21	K01188	GO:GO:0005975,GO:GO:0004553
+GRMZM2G069024	BGLU11(Ara)	NP_001136681	-	-	-	-	-	hypothetical protein LOC100216811 	AT1G02850	BGLU11	beta glucosidase 11	-	3.2.1.21	K01188	GO:GO:0005975,GO:GO:0004553
+GRMZM2G069024	BGLU11(Ara)	NP_001136681	-	-	-	-	-	hypothetical protein LOC100216811 	AT1G02850	BGLU11	beta glucosidase 11	-	3.2.1.21	K01188	GO:GO:0005975,GO:GO:0004553
+GRMZM2G069024	BGLU11(Ara)	NP_001136681	-	-	-	-	-	hypothetical protein LOC100216811 	AT1G02850	BGLU11	beta glucosidase 11	-	3.2.1.21	K01188	GO:GO:0005975,GO:GO:0004553
+GRMZM2G069024	BGLU11(Ara)	NP_001136681	-	-	-	-	-	hypothetical protein LOC100216811 	AT1G02850	BGLU11	beta glucosidase 11	-	3.2.1.21	K01188	GO:GO:0005975,GO:GO:0004553
+GRMZM2G069024	BGLU11(Ara)	NP_001136681	-	-	-	-	-	hypothetical protein LOC100216811 	AT1G02850	BGLU11	beta glucosidase 11	-	3.2.1.21	K01188	GO:GO:0005975,GO:GO:0004553
+GRMZM2G069024	BGLU11(Ara)	NP_001136681	-	-	-	-	-	hypothetical protein LOC100216811 	AT1G02850	BGLU11	beta glucosidase 11	-	3.2.1.21	K01188	GO:GO:0005975,GO:GO:0004553
+GRMZM2G069024	BGLU11(Ara)	NP_001136681	-	-	-	-	-	hypothetical protein LOC100216811 	AT1G02850	BGLU11	beta glucosidase 11	-	3.2.1.21	K01188	GO:GO:0005975,GO:GO:0004553
+GRMZM2G069024	BGLU11(Ara)	NP_001136681	-	-	-	-	-	hypothetical protein LOC100216811 	AT1G02850	BGLU11	beta glucosidase 11	-	3.2.1.21	K01188	GO:GO:0005975,GO:GO:0004553
+GRMZM2G069024	BGLU11(Ara)	NP_001136681	-	-	-	-	-	hypothetical protein LOC100216811 	AT1G02850	BGLU11	beta glucosidase 11	-	3.2.1.21	K01188	GO:GO:0005975,GO:GO:0004553
+GRMZM2G069024	BGLU11(Ara)	NP_001136681	-	-	-	-	-	hypothetical protein LOC100216811 	AT1G02850	BGLU11	beta glucosidase 11	-	3.2.1.21	K01188	GO:GO:0005975,GO:GO:0004553
+GRMZM2G069024	BGLU11(Ara)	NP_001136681	-	-	-	-	-	hypothetical protein LOC100216811 	AT1G02850	BGLU11	beta glucosidase 11	-	3.2.1.21	K01188	GO:GO:0005975,GO:GO:0004553
+GRMZM2G069024	BGLU11(Ara)	NP_001136681	-	-	-	-	-	hypothetical protein LOC100216811 	AT1G02850	BGLU11	beta glucosidase 11	-	3.2.1.21	K01188	GO:GO:0005975,GO:GO:0004553
+GRMZM2G117022	GRMZM2G117022	-	-	-	-	-	-	-	AT5G04920		EAP30/Vps36 family protein	-		K12190	
+GRMZM2G117022	GRMZM2G117022	-	-	-	-	-	-	-	AT5G04920		EAP30/Vps36 family protein	-		K12190	
+GRMZM2G357399	ARFA1E,ATARFA1E(Ara)	NP_001149117	-	-	-	-	-	ADP-ribosylation factor 	AT3G62290	ARFA1E,ATARFA1E	ADP-ribosylation factor A1E	-		K07977,K07937	
+GRMZM2G092474	ATOSM34,OSM34(Ara)	NP_001143894	-	-	-	-	-	hypothetical protein LOC100276695 	AT4G11650	ATOSM34,OSM34	osmotin 34	-			
+GRMZM2G073003	CYC1BAT,CYCB1;2(Ara)	NM_001156461	-	-	-	-	-	cyclin IaZm (LOC100283561), mRNA	AT5G06150	CYC1BAT,CYCB1;2	Cyclin family protein	-		K05868	GO:GO:0005634
+GRMZM2G073003	CYC1BAT,CYCB1;2(Ara)	NM_001156461	-	-	-	-	-	cyclin IaZm (LOC100283561), mRNA	AT5G06150	CYC1BAT,CYCB1;2	Cyclin family protein	-		K05868	GO:GO:0005634
+GRMZM2G073376	GRMZM2G073376	NP_001148167	-	-	-	-	-	indole-3-acetate beta-glucosyltransferase 	AT2G30150		UDP-Glycosyltransferase superfamily protein	-			GO:GO:0016758,GO:GO:0008152
+GRMZM2G073376	GRMZM2G073376	NP_001148167	-	-	-	-	-	indole-3-acetate beta-glucosyltransferase 	AT2G30150		UDP-Glycosyltransferase superfamily protein	-			GO:GO:0016758,GO:GO:0008152
+GRMZM2G073376	GRMZM2G073376	NP_001148167	-	-	-	-	-	indole-3-acetate beta-glucosyltransferase 	AT2G30150		UDP-Glycosyltransferase superfamily protein	-			GO:GO:0016758,GO:GO:0008152
+GRMZM2G073376	GRMZM2G073376	NP_001148167	-	-	-	-	-	indole-3-acetate beta-glucosyltransferase 	AT2G30150		UDP-Glycosyltransferase superfamily protein	-			GO:GO:0016758,GO:GO:0008152
+GRMZM2G073376	GRMZM2G073376	NP_001148167	-	-	-	-	-	indole-3-acetate beta-glucosyltransferase 	AT2G30150		UDP-Glycosyltransferase superfamily protein	-			GO:GO:0016758,GO:GO:0008152
+GRMZM2G073376	GRMZM2G073376	NP_001148167	-	-	-	-	-	indole-3-acetate beta-glucosyltransferase 	AT2G30150		UDP-Glycosyltransferase superfamily protein	-			GO:GO:0016758,GO:GO:0008152
+GRMZM2G073376	GRMZM2G073376	NP_001148167	-	-	-	-	-	indole-3-acetate beta-glucosyltransferase 	AT2G30150		UDP-Glycosyltransferase superfamily protein	-			GO:GO:0016758,GO:GO:0008152
+GRMZM2G085392	AtENODL9,ENODL9(Ara)	NP_001147242	-	-	-	-	-	early nodulin-like protein 3 	AT3G20570	AtENODL9,ENODL9	early nodulin-like protein 9	-			GO:GO:0009055
+GRMZM2G087150	GRMZM2G087150	NP_001149094	-	-	-	-	-	LOC100282715 	AT1G28590		GDSL-like Lipase/Acylhydrolase superfamily protein	-	3.1.1.49		GO:GO:0016788
+GRMZM2G087150	GRMZM2G087150	NP_001149094	-	-	-	-	-	LOC100282715 	AT1G28590		GDSL-like Lipase/Acylhydrolase superfamily protein	-	3.1.1.49		GO:GO:0016788
+GRMZM2G104226	BE639338	-	Chr3	214,143,658	214,147,325	BE639338		-	AT1G28600		GDSL-like Lipase/Acylhydrolase superfamily protein	-	3.1.1.49		GO:GO:0016788
+GRMZM2G104226	BE639338	-	Chr3	214,143,658	214,147,325	BE639338		-	AT1G28600		GDSL-like Lipase/Acylhydrolase superfamily protein	-	3.1.1.49		GO:GO:0016788
+GRMZM2G069672	GRMZM2G069672	-	-	-	-	-	-	-				-			
+GRMZM2G064145	ddt2	NP_001130568	Chr4	117,286,975	117,292,108	ddt2	DDT-transcription factor 2	hypothetical protein LOC100191667 	AT5G08630		DDT domain-containing protein	-			
+GRMZM2G064145	ddt2	NP_001130568	Chr4	117,286,975	117,292,108	ddt2	DDT-transcription factor 2	hypothetical protein LOC100191667 	AT5G08630		DDT domain-containing protein	-			
+GRMZM2G138936	GRMZM2G138936	-	-	-	-	-	-	-	AT3G56250			-			
+GRMZM2G138936	GRMZM2G138936	-	-	-	-	-	-	-	AT3G56250			-			
+GRMZM2G347541	ATELP,ATELP1,ATVSR1,BP-80,BP80,BP80-1;1,BP80B,GFS1,VSR1,VSR1;1(Ara)	NP_001169650	-	-	-	-	-	hypothetical protein LOC100383531 	AT3G52850	ATELP,ATELP1,ATVSR1,BP-80,BP80,BP80-1;1,BP80B,GFS1,VSR1,VSR1;1	vacuolar sorting receptor homolog 1	-			
+GRMZM2G055507	IMS1,IPMS2,MAML-3(Ara)	NP_001146593	-	-	-	-	-	hypothetical protein LOC100280189 	AT1G74040	IMS1,IPMS2,MAML-3	2-isopropylmalate synthase 1	-	2.3.3.13	K01649	GO:GO:0009098,GO:GO:0003852,GO:GO:0003824
+GRMZM2G015709	GRMZM2G015709	NM_001137537	-	-	-	-	-	hypothetical protein LOC100192114 (LOC100192114), mRNA	AT1G64920		UDP-Glycosyltransferase superfamily protein	-	2.4.1.115		GO:GO:0016758,GO:GO:0008152
+GRMZM2G119219	AILP1,ATAILP1(Ara)	NP_001150359	-	-	-	-	-	stem-specific protein TSJT1 	AT5G19140	AILP1,ATAILP1	Aluminium induced protein with YGL and LRDR motifs	-			
+GRMZM2G119219	AILP1,ATAILP1(Ara)	NP_001150359	-	-	-	-	-	stem-specific protein TSJT1 	AT5G19140	AILP1,ATAILP1	Aluminium induced protein with YGL and LRDR motifs	-			
+GRMZM2G119219	AILP1,ATAILP1(Ara)	NP_001150359	-	-	-	-	-	stem-specific protein TSJT1 	AT5G19140	AILP1,ATAILP1	Aluminium induced protein with YGL and LRDR motifs	-			
+GRMZM2G132956	GRMZM2G132956	-	-	-	-	-	-	-	AT1G22960		Pentatricopeptide repeat (PPR) superfamily protein	-			
+GRMZM2G132956	GRMZM2G132956	-	-	-	-	-	-	-	AT1G22960		Pentatricopeptide repeat (PPR) superfamily protein	-			
+GRMZM2G132956	GRMZM2G132956	-	-	-	-	-	-	-	AT1G22960		Pentatricopeptide repeat (PPR) superfamily protein	-			
+GRMZM2G132956	GRMZM2G132956	-	-	-	-	-	-	-	AT1G22960		Pentatricopeptide repeat (PPR) superfamily protein	-			
+GRMZM2G132956	GRMZM2G132956	-	-	-	-	-	-	-	AT1G22960		Pentatricopeptide repeat (PPR) superfamily protein	-			
+GRMZM2G132956	GRMZM2G132956	-	-	-	-	-	-	-	AT1G22960		Pentatricopeptide repeat (PPR) superfamily protein	-			
+GRMZM2G132956	GRMZM2G132956	-	-	-	-	-	-	-	AT1G22960		Pentatricopeptide repeat (PPR) superfamily protein	-			
+GRMZM2G132956	GRMZM2G132956	-	-	-	-	-	-	-	AT1G22960		Pentatricopeptide repeat (PPR) superfamily protein	-			
+GRMZM2G132956	GRMZM2G132956	-	-	-	-	-	-	-	AT1G22960		Pentatricopeptide repeat (PPR) superfamily protein	-			
+GRMZM2G132956	GRMZM2G132956	-	-	-	-	-	-	-	AT1G22960		Pentatricopeptide repeat (PPR) superfamily protein	-			
+GRMZM2G132956	GRMZM2G132956	-	-	-	-	-	-	-	AT1G22960		Pentatricopeptide repeat (PPR) superfamily protein	-			
+GRMZM2G031094	GRMZM2G031094	NP_001149367	-	-	-	-	-	membrane-associated phospholipid phosphatase 				-			
+GRMZM5G821551	GRMZM5G821551	NP_001169639	-	-	-	-	-	hypothetical protein LOC100383520 	AT1G29880		glycyl-tRNA synthetase / glycine--tRNA ligase	-	6.1.1.14		GO:GO:0006418,GO:GO:0005524,GO:GO:0004812
+GRMZM2G002220	AtHsp90.5,CR88,EMB1956,Hsp88.1,HSP90.5(Ara)	NP_001169899	-	-	-	-	-	hypothetical protein LOC100383793 	AT2G04030	AtHsp90.5,CR88,EMB1956,Hsp88.1,HSP90.5	Chaperone protein htpG family protein	-		K09487	GO:GO:0051082,GO:GO:0006950,GO:GO:0006457,GO:GO:0005524
+GRMZM2G035779	GRMZM2G035779	NP_001148330	-	-	-	-	-	Ser/Thr protein phosphatase family 				-			GO:GO:0016787
+GRMZM2G324540	pco093291	NP_001130751	Chr5	30,760,520	30,770,795	pco093291		hypothetical protein LOC100191855 	AT1G04510	MAC3A	MOS4-associated  complex 3A	-		K10599	GO:GO:0005515
+GRMZM2G324540	pco093291	NP_001130751	Chr5	30,760,520	30,770,795	pco093291		hypothetical protein LOC100191855 	AT1G04510	MAC3A	MOS4-associated  complex 3A	-		K10599	GO:GO:0005515
+GRMZM2G324540	pco093291	NP_001130751	Chr5	30,760,520	30,770,795	pco093291		hypothetical protein LOC100191855 	AT1G04510	MAC3A	MOS4-associated  complex 3A	-		K10599	GO:GO:0005515
+GRMZM2G324540	pco093291	NP_001130751	Chr5	30,760,520	30,770,795	pco093291		hypothetical protein LOC100191855 	AT1G04510	MAC3A	MOS4-associated  complex 3A	-		K10599	GO:GO:0005515
+GRMZM2G324540	pco093291	NP_001130751	Chr5	30,760,520	30,770,795	pco093291		hypothetical protein LOC100191855 	AT1G04510	MAC3A	MOS4-associated  complex 3A	-		K10599	GO:GO:0005515
+GRMZM2G324540	pco093291	NP_001130751	Chr5	30,760,520	30,770,795	pco093291		hypothetical protein LOC100191855 	AT1G04510	MAC3A	MOS4-associated  complex 3A	-		K10599	GO:GO:0005515
+GRMZM2G324540	pco093291	NP_001130751	Chr5	30,760,520	30,770,795	pco093291		hypothetical protein LOC100191855 	AT1G04510	MAC3A	MOS4-associated  complex 3A	-		K10599	GO:GO:0005515
+GRMZM2G027232	MRPL11(Ara)	NP_001141601	-	-	-	-	-	hypothetical protein LOC100273719 	AT4G35490	MRPL11	mitochondrial ribosomal protein L11	-		K02867	GO:GO:0006412,GO:GO:0005840,GO:GO:0003735
+GRMZM2G374574	pco125096	B2RFH4	Chr5	66,460,326	66,470,597	pco125096		Putative hect E3 ubiquitin ligase Fragment 	AT4G38600	KAK,UPL3	HEAT repeat ;HECT-domain (ubiquitin-transferase)	-	6.3.2.19	K10590	GO:GO:0004842
+GRMZM2G023638	GRMZM2G023638	NP_001169357	-	-	-	-	-	hypothetical protein LOC100383224 	AT1G10095		Protein prenylyltransferase superfamily protein	-	2.5.1.58,2.5.1.59	K14137	GO:GO:0018342,GO:GO:0008318
+GRMZM2G023638	GRMZM2G023638	NP_001169357	-	-	-	-	-	hypothetical protein LOC100383224 	AT1G10095		Protein prenylyltransferase superfamily protein	-	2.5.1.58,2.5.1.59	K14137	GO:GO:0018342,GO:GO:0008318
+GRMZM2G074957	GRMZM2G074957	NP_001130723	-	-	-	-	-	hypothetical protein LOC100191827 	AT4G10840		Tetratricopeptide repeat (TPR)-like superfamily protein	-			
+GRMZM2G029879	CYCP4;1(Ara)	NP_001146520	-	-	-	-	-	hypothetical protein LOC100280111 	AT2G44740	CYCP4;1	cyclin p4;1	-			GO:GO:0019901,GO:GO:0000079
+GRMZM2G039683	ATRECQ3,RecQl3(Ara)	NP_001146640	-	-	-	-	-	hypothetical protein LOC100280239 	AT4G35740	ATRECQ3,RecQl3	DEAD/DEAH box RNA helicase family protein 	-	3.6.4.12		
+GRMZM2G162755	ugt1	NP_001147999	Chr6	120,058,984	120,060,863	ugt1	UDP-glucosyl transferase1	anthocyanidin 3-O-glucosyltransferase 	AT2G18570		UDP-Glycosyltransferase superfamily protein	-			GO:GO:0016758,GO:GO:0008152
+GRMZM2G383404	AY107053	NP_001148936	Chr6	120,201,718	120,203,603	AY107053		anthocyanidin 3-O-glucosyltransferase 	AT4G15280	UGT71B5	UDP-glucosyl transferase 71B5	-			GO:GO:0016758,GO:GO:0008152
+GRMZM2G383404	AY107053	NP_001148936	Chr6	120,201,718	120,203,603	AY107053		anthocyanidin 3-O-glucosyltransferase 	AT4G15280	UGT71B5	UDP-glucosyl transferase 71B5	-			GO:GO:0016758,GO:GO:0008152
+GRMZM2G383404	AY107053	NP_001148936	Chr6	120,201,718	120,203,603	AY107053		anthocyanidin 3-O-glucosyltransferase 	AT4G15280	UGT71B5	UDP-glucosyl transferase 71B5	-			GO:GO:0016758,GO:GO:0008152
+GRMZM2G383404	AY107053	NP_001148936	Chr6	120,201,718	120,203,603	AY107053		anthocyanidin 3-O-glucosyltransferase 	AT4G15280	UGT71B5	UDP-glucosyl transferase 71B5	-			GO:GO:0016758,GO:GO:0008152
+GRMZM2G383404	AY107053	NP_001148936	Chr6	120,201,718	120,203,603	AY107053		anthocyanidin 3-O-glucosyltransferase 	AT4G15280	UGT71B5	UDP-glucosyl transferase 71B5	-			GO:GO:0016758,GO:GO:0008152
+GRMZM2G148167	AtGUS3,GUS3(Ara)	NP_001132339	-	-	-	-	-	hypothetical protein LOC100193781 	AT5G34940	AtGUS3,GUS3	glucuronidase 3	-	3.2.1.31,3.2.1.167	K07964	GO:GO:0016798,GO:GO:0016020
+GRMZM2G079440	dhn1	P12950	Chr6	137,332,062	137,333,893	dhn1	dehydrin1	Dehydrin DHN1 (M3)(RAB-17 protein)	AT5G66400	ATDI8,RAB18	Dehydrin family protein	-			GO:GO:0009415,GO:GO:0006950
+GRMZM2G079440	dhn1	P12950	Chr6	137,332,062	137,333,893	dhn1	dehydrin1	Dehydrin DHN1 (M3)(RAB-17 protein)	AT5G66400	ATDI8,RAB18	Dehydrin family protein	-			GO:GO:0009415,GO:GO:0006950
+GRMZM2G079440	dhn1	P12950	Chr6	137,332,062	137,333,893	dhn1	dehydrin1	Dehydrin DHN1 (M3)(RAB-17 protein)	AT5G66400	ATDI8,RAB18	Dehydrin family protein	-			GO:GO:0009415,GO:GO:0006950
+GRMZM2G079440	dhn1	P12950	Chr6	137,332,062	137,333,893	dhn1	dehydrin1	Dehydrin DHN1 (M3)(RAB-17 protein)	AT5G66400	ATDI8,RAB18	Dehydrin family protein	-			GO:GO:0009415,GO:GO:0006950
+GRMZM2G079440	dhn1	P12950	Chr6	137,332,062	137,333,893	dhn1	dehydrin1	Dehydrin DHN1 (M3)(RAB-17 protein)	AT5G66400	ATDI8,RAB18	Dehydrin family protein	-			GO:GO:0009415,GO:GO:0006950
+GRMZM2G142645	GRMZM2G142645	NM_001151615	-	-	-	-	-	hypothetical protein LOC100278297 (LOC100278297), mRNA	AT3G06180		Ribosomal protein L34e superfamily protein	-			GO:GO:0006412,GO:GO:0005840,GO:GO:0005622,GO:GO:0003735
+AC208337.2_FG003	AC208337.2_FG003	-	-	-	-	-	-	-	AT5G02960		Ribosomal protein S12/S23 family protein	-			GO:GO:0006412,GO:GO:0005840,GO:GO:0005622,GO:GO:0003735
+GRMZM2G125867	GRMZM2G125867	NP_001147119	-	-	-	-	-	ubiquitin-protein ligase/ zinc ion binding protein 	AT3G53690		RING/U-box superfamily protein	-	6.3.2.19	K11975	GO:GO:0016567,GO:GO:0004842
+GRMZM2G034917	GRMZM2G034917	NP_001146161	-	-	-	-	-	hypothetical protein LOC100279730 	AT1G49640		alpha/beta-Hydrolases superfamily protein	-	4.2.99.22		
+GRMZM2G366977	GRMZM2G366977	-	-	-	-	-	-	-				-			
+GRMZM2G434301	BRD4(Ara)	NP_001140306	-	-	-	-	-	hypothetical protein LOC100272351 	AT1G61215	BRD4	bromodomain 4	-			
+GRMZM2G072054	GRMZM2G072054	NP_001136494	-	-	-	-	-	hypothetical protein LOC100216609 	AT5G23250		Succinyl-CoA ligase, alpha subunit	-	6.2.1.5	K01899	GO:GO:0008152,GO:GO:0003824,GO:GO:0048037
+GRMZM2G072054	GRMZM2G072054	NP_001136494	-	-	-	-	-	hypothetical protein LOC100216609 	AT5G23250		Succinyl-CoA ligase, alpha subunit	-	6.2.1.5	K01899	GO:GO:0008152,GO:GO:0003824,GO:GO:0048037
+GRMZM2G072054	GRMZM2G072054	NP_001136494	-	-	-	-	-	hypothetical protein LOC100216609 	AT5G23250		Succinyl-CoA ligase, alpha subunit	-	6.2.1.5	K01899	GO:GO:0008152,GO:GO:0003824,GO:GO:0048037
+GRMZM2G155232	SCPL27(Ara)	NP_001140896	-	-	-	-	-	hypothetical protein LOC100272973 	AT3G07990	SCPL27	serine carboxypeptidase-like 27	-	3.4.16.6	K16297	GO:GO:0006508,GO:GO:0004185
+GRMZM2G055684	ARA12(Ara)	NP_001145972	-	-	-	-	-	hypothetical protein LOC100279499 	AT5G67360	ARA12	Subtilase family protein	-	3.4.21.25		GO:GO:0006508,GO:GO:0004252
+GRMZM2G062555	GRMZM2G062555	NP_001159001	-	-	-	-	-	plastidic phosphate translocator-like protein1 	AT5G25400		Nucleotide-sugar transporter family protein	-			
+GRMZM2G033230	bzip108	NP_001130683	Chr8	120,135,941	120,137,704	bzip108	bZIP-transcription factor 108	hypothetical protein LOC100191786 	AT4G35040	bZIP19	Basic-leucine zipper (bZIP) transcription factor family protein	bZIP			GO:GO:0043565,GO:GO:0006355,GO:GO:0003700,GO:GO:0006351
+GRMZM2G319747	GRMZM2G319747	NP_001132008	-	-	-	-	-	hypothetical protein LOC100193413 	AT1G67250		Proteasome maturation factor UMP1	-			
+AC205471.4_FG003	hsftf16	-	Chr8	124,710,390	124,712,153	hsftf16	HSF-transcription factor 16	-	AT4G18880	AT-HSFA4A,HSF A4A	heat shock transcription factor  A4A	HSF		K09419	GO:GO:0043565,GO:GO:0006355,GO:GO:0005634,GO:GO:0003700
+GRMZM2G050803	GRMZM2G050803	NP_001144191	-	-	-	-	-	hypothetical protein LOC100277051 	AT1G57680			-			
+GRMZM2G099363	omt2	Q9XGD5	Chr9	16,325,170	16,327,546	omt2	Caffeoyl CoA O-methyltransferase2	Caffeoyl-CoA O-methyltransferase 2 (EC 2.1.1.104)(Trans-caffeoyl-CoA 3-O-methyltransferase 2)(CCoAOMT-2)(CCoAMT-2)	AT4G34050	CCoAOMT1	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	-	2.1.1.104		GO:GO:0008171
+GRMZM2G105167	GRMZM2G105167	NM_001150835	-	-	-	-	-	hypothetical protein LOC100277198 (LOC100277198), mRNA	AT2G25310		Protein of unknown function (DUF2012)	-			
+GRMZM2G105167	GRMZM2G105167	NM_001150835	-	-	-	-	-	hypothetical protein LOC100277198 (LOC100277198), mRNA	AT2G25310		Protein of unknown function (DUF2012)	-			
+GRMZM2G105167	GRMZM2G105167	NM_001150835	-	-	-	-	-	hypothetical protein LOC100277198 (LOC100277198), mRNA	AT2G25310		Protein of unknown function (DUF2012)	-			
+AC211394.4_FG004	acp1	NP_001147979	Chr9	95,254,430	95,260,811	acp1	acid phosphatase1	purple acid phosphatase 	AT5G34850	ATPAP26,PAP26	purple acid phosphatase 26	-	3.1.3.41,3.1.3.2,3.1.3.60		GO:GO:0016787
+AC211394.4_FG004	acp1	NP_001147979	Chr9	95,254,430	95,260,811	acp1	acid phosphatase1	purple acid phosphatase 	AT5G34850	ATPAP26,PAP26	purple acid phosphatase 26	-	3.1.3.41,3.1.3.2,3.1.3.60		GO:GO:0016787
+AC211394.4_FG004	acp1	NP_001147979	Chr9	95,254,430	95,260,811	acp1	acid phosphatase1	purple acid phosphatase 	AT5G34850	ATPAP26,PAP26	purple acid phosphatase 26	-	3.1.3.41,3.1.3.2,3.1.3.60		GO:GO:0016787
+AC211394.4_FG004	acp1	NP_001147979	Chr9	95,254,430	95,260,811	acp1	acid phosphatase1	purple acid phosphatase 	AT5G34850	ATPAP26,PAP26	purple acid phosphatase 26	-	3.1.3.41,3.1.3.2,3.1.3.60		GO:GO:0016787
+AC211394.4_FG004	acp1	NP_001147979	Chr9	95,254,430	95,260,811	acp1	acid phosphatase1	purple acid phosphatase 	AT5G34850	ATPAP26,PAP26	purple acid phosphatase 26	-	3.1.3.41,3.1.3.2,3.1.3.60		GO:GO:0016787
+GRMZM2G033480	AHL29,SOB3(Ara)	-	-	-	-	-	-	-	AT1G76500	AHL29,SOB3	Predicted AT-hook DNA-binding family protein	-			
+GRMZM2G105523	GRMZM2G105523	NP_001143732	-	-	-	-	-	hypothetical protein LOC100276484 	AT1G56700		Peptidase C15, pyroglutamyl peptidase I-like	-	3.4.19.3	K01304	
+GRMZM2G398288	ALA1(Ara)	NP_001159185	-	-	-	-	-	hypothetical protein LOC100304270 	AT5G04930	ALA1	aminophospholipid ATPase 1	-	3.6.3.1	K14802	GO:GO:0046872,GO:GO:0000166,GO:GO:0016021,GO:GO:0015914,GO:GO:0005524,GO:GO:0004012,GO:GO:0000287
+GRMZM2G177878	SRO1(Ara)	NP_001146014	-	-	-	-	-	hypothetical protein LOC100279545 	AT2G35510	SRO1	similar to RCD one 1	-	2.4.2.30		GO:GO:0003950
+GRMZM2G010017	GRMZM2G010017	NP_001130554	-	-	-	-	-	hypothetical protein LOC100191653 	AT4G38520		Protein phosphatase 2C family protein	-	3.1.3.16	K01102	GO:GO:0003824,GO:GO:0006470,GO:GO:0004722
+GRMZM2G129775	GRMZM2G129775	NP_001145741	-	-	-	-	-	hypothetical protein LOC100279248 	AT1G28120			-	3.4.19.12		
+GRMZM2G129775	GRMZM2G129775	NP_001145741	-	-	-	-	-	hypothetical protein LOC100279248 	AT1G28120			-	3.4.19.12		
+GRMZM2G048175	GRMZM2G048175	NP_001144736	-	-	-	-	-	hypothetical protein LOC100277782 	AT5G13140		Pollen Ole e 1 allergen and extensin family protein	-			
+GRMZM2G079908	acb1	B4FER8	Chr10	76,415,905	76,418,574	acb1	Acyl-CoA-binding protein1	Acyl-CoA-binding proteinPutative uncharacterized protein ;	AT1G31812	ACBP,ACBP6	acyl-CoA-binding protein 6	-			GO:GO:0000062
+GRMZM2G319138	ATPDR6,PDR6(Ara)	-	-	-	-	-	-	-	AT2G36380	ATPDR6,PDR6	pleiotropic drug resistance 6	-	3.6.3.34		GO:GO:0016887,GO:GO:0005524,GO:GO:0016020
+GRMZM2G319138	ATPDR6,PDR6(Ara)	-	-	-	-	-	-	-	AT2G36380	ATPDR6,PDR6	pleiotropic drug resistance 6	-	3.6.3.34		GO:GO:0016887,GO:GO:0005524,GO:GO:0016020
+GRMZM2G319138	ATPDR6,PDR6(Ara)	-	-	-	-	-	-	-	AT2G36380	ATPDR6,PDR6	pleiotropic drug resistance 6	-	3.6.3.34		GO:GO:0016887,GO:GO:0005524,GO:GO:0016020
+GRMZM2G443776	GRMZM2G443776	-	-	-	-	-	-	-	AT3G26540		Tetratricopeptide repeat (TPR)-like superfamily protein	-			
+GRMZM2G443776	GRMZM2G443776	-	-	-	-	-	-	-	AT3G26540		Tetratricopeptide repeat (TPR)-like superfamily protein	-			
+GRMZM2G392176	GRMZM2G392176	-	-	-	-	-	-	-	AT4G29990		Leucine-rich repeat transmembrane protein kinase protein	-	2.7.11.1		GO:GO:0006468,GO:GO:0005524,GO:GO:0004672
+GRMZM2G392176	GRMZM2G392176	-	-	-	-	-	-	-	AT4G29990		Leucine-rich repeat transmembrane protein kinase protein	-	2.7.11.1		GO:GO:0006468,GO:GO:0005524,GO:GO:0004672
+GRMZM2G135470	ALDH10A9(Ara)	NP_001157804	-	-	-	-	-	betaine aldehyde dehydrogenase 	AT3G48170	ALDH10A9	aldehyde dehydrogenase 10A9	-	1.2.1.8	K00130	GO:GO:0055114,GO:GO:0016491,GO:GO:0008152
+GRMZM2G146809	pco090777	NP_001149230	Chr10	131,067,129	131,068,014	pco090777		LOC100282852 	AT2G02120	LCR70,PDF2.1	Scorpion toxin-like knottin superfamily protein	-			
+GRMZM2G116538	GRMZM2G116538	NP_001147227	-	-	-	-	-	remorin 				-			
+GRMZM2G125585	GRMZM2G125585	-	-	-	-	-	-	-	AT4G11670		Protein of unknown function (DUF810)	-			
+GRMZM2G085236	ABCB19,ATABCB19,ATMDR1,ATMDR11,ATPGP19,MDR1,MDR11,PGP19(Ara)	-	-	-	-	-	-	-	AT3G28860	ABCB19,ATABCB19,ATMDR1,ATMDR11,ATPGP19,MDR1,MDR11,PGP19	ATP binding cassette subfamily B19	-	3.6.3.44	K05658	GO:GO:0016887,GO:GO:0005524,GO:GO:0055085,GO:GO:0042626,GO:GO:0016021,GO:GO:0006810
+GRMZM2G085236	ABCB19,ATABCB19,ATMDR1,ATMDR11,ATPGP19,MDR1,MDR11,PGP19(Ara)	-	-	-	-	-	-	-	AT3G28860	ABCB19,ATABCB19,ATMDR1,ATMDR11,ATPGP19,MDR1,MDR11,PGP19	ATP binding cassette subfamily B19	-	3.6.3.44	K05658	GO:GO:0016887,GO:GO:0005524,GO:GO:0055085,GO:GO:0042626,GO:GO:0016021,GO:GO:0006810
+GRMZM2G085236	ABCB19,ATABCB19,ATMDR1,ATMDR11,ATPGP19,MDR1,MDR11,PGP19(Ara)	-	-	-	-	-	-	-	AT3G28860	ABCB19,ATABCB19,ATMDR1,ATMDR11,ATPGP19,MDR1,MDR11,PGP19	ATP binding cassette subfamily B19	-	3.6.3.44	K05658	GO:GO:0016887,GO:GO:0005524,GO:GO:0055085,GO:GO:0042626,GO:GO:0016021,GO:GO:0006810
+GRMZM2G085236	ABCB19,ATABCB19,ATMDR1,ATMDR11,ATPGP19,MDR1,MDR11,PGP19(Ara)	-	-	-	-	-	-	-	AT3G28860	ABCB19,ATABCB19,ATMDR1,ATMDR11,ATPGP19,MDR1,MDR11,PGP19	ATP binding cassette subfamily B19	-	3.6.3.44	K05658	GO:GO:0016887,GO:GO:0005524,GO:GO:0055085,GO:GO:0042626,GO:GO:0016021,GO:GO:0006810
+GRMZM2G085236	ABCB19,ATABCB19,ATMDR1,ATMDR11,ATPGP19,MDR1,MDR11,PGP19(Ara)	-	-	-	-	-	-	-	AT3G28860	ABCB19,ATABCB19,ATMDR1,ATMDR11,ATPGP19,MDR1,MDR11,PGP19	ATP binding cassette subfamily B19	-	3.6.3.44	K05658	GO:GO:0016887,GO:GO:0005524,GO:GO:0055085,GO:GO:0042626,GO:GO:0016021,GO:GO:0006810

@@ -1,0 +1,12 @@
+GeneSymbol	altName	NCBI_Accession	Chr	Start	End	Zma_alias	Zma_fullname	Zma_description	Ara_ortholog	Ara_alias	Annotation	TF	EC	KO	GO
+GRMZM2G135782	MEE21(Ara)	NP_001140441	-	-	-	-	-	hypothetical protein LOC100272500 	AT2G34570	MEE21	PIN domain-like family protein	-			GO:GO:0032040
+GRMZM5G853183	ARP3,ATARP3,DIS1(Ara)	-	-	-	-	-	-	-	AT1G13180	ARP3,ATARP3,DIS1	Actin-like ATPase superfamily protein	-			GO:GO:0034314,GO:GO:0007015,GO:GO:0005885,GO:GO:0005524
+GRMZM2G528717	PDE319,SCA3(Ara)	-	-	-	-	-	-	-	AT2G24120	PDE319,SCA3	DNA/RNA polymerases superfamily protein	-	2.7.7.6		GO:GO:0006351,GO:GO:0003899,GO:GO:0003677
+GRMZM2G475647	ARP3,ATARP3,DIS1(Ara)	-	-	-	-	-	-	-	AT1G13180	ARP3,ATARP3,DIS1	Actin-like ATPase superfamily protein	-			
+GRMZM2G139620	ARP3,ATARP3,DIS1(Ara)	-	-	-	-	-	-	-	AT1G13180	ARP3,ATARP3,DIS1	Actin-like ATPase superfamily protein	-			GO:GO:0034314,GO:GO:0007015,GO:GO:0005885,GO:GO:0005524
+GRMZM2G136662	ARP3,ATARP3,DIS1(Ara)	NM_001154181	-	-	-	-	-	actin-like protein 3 (LOC100281262), mRNA	AT1G13180	ARP3,ATARP3,DIS1	Actin-like ATPase superfamily protein	-			
+GRMZM2G136662	ARP3,ATARP3,DIS1(Ara)	NM_001154181	-	-	-	-	-	actin-like protein 3 (LOC100281262), mRNA	AT1G13180	ARP3,ATARP3,DIS1	Actin-like ATPase superfamily protein	-			
+GRMZM2G305332	ARP3,ATARP3,DIS1(Ara)	NP_001131158	-	-	-	-	-	hypothetical protein LOC100192466 	AT1G13180	ARP3,ATARP3,DIS1	Actin-like ATPase superfamily protein	-			
+GRMZM2G106513	ARP3,ATARP3,DIS1(Ara)	-	-	-	-	-	-	-	AT1G13180	ARP3,ATARP3,DIS1	Actin-like ATPase superfamily protein	-		K18584	GO:GO:0034314,GO:GO:0007015,GO:GO:0005885,GO:GO:0005524
+GRMZM2G504293	ARP3,ATARP3,DIS1(Ara)	-	-	-	-	-	-	-	AT1G13180	ARP3,ATARP3,DIS1	Actin-like ATPase superfamily protein	-		K18584	GO:GO:0034314,GO:GO:0007015,GO:GO:0005885,GO:GO:0005524
+GRMZM2G409203	MGP3(Ara)	-	-	-	-	-	-	-	AT1G68990	MGP3	male gametophyte defective 3	-	2.7.7.6		GO:GO:0006351,GO:GO:0003899,GO:GO:0003677

@@ -1,0 +1,56 @@
+GeneSymbol	altName	NCBI_Accession	Chr	Start	End	Zma_alias	Zma_fullname	Zma_description	Ara_ortholog	Ara_alias	Annotation	TF	EC	KO	GO
+GRMZM2G350626	ACYB-1,CYB-1(Ara)	NP_001168255	-	-	-	-	-	hypothetical protein LOC100382018 	AT5G38630	ACYB-1,CYB-1	cytochrome B561-1	-	1.16.5.1		GO:GO:0016021
+GRMZM2G105167	GRMZM2G105167	NM_001150835	-	-	-	-	-	hypothetical protein LOC100277198 (LOC100277198), mRNA	AT2G25310		Protein of unknown function (DUF2012)	-			
+GRMZM2G079638	GRMZM2G079638	NP_001158901	-	-	-	-	-	hypothetical protein LOC100303795 				-			
+GRMZM2G176638	GRMZM2G176638	-	-	-	-	-	-	-	AT1G67340		HCP-like superfamily protein with MYND-type zinc finger	-			
+GRMZM2G158147	APS2,ASA1(Ara)	NP_001147427	-	-	-	-	-	bifunctional 3-phosphoadenosine 5-phosphosulfate synthetase 2 	AT1G19920	APS2,ASA1	Pseudouridine synthase/archaeosine transglycosylase-like family protein	-	2.7.7.4	K13811	GO:GO:0004781
+GRMZM2G324540	pco093291	NP_001130751	Chr5	30,760,520	30,770,795	pco093291		hypothetical protein LOC100191855 	AT1G04510	MAC3A	MOS4-associated  complex 3A	-		K10599	GO:GO:0005515
+AC212835.3_FG002	AC212835.3_FG002	NP_001149787	-	-	-	-	-	blue copper protein 	AT5G07475		Cupredoxin superfamily protein	-			GO:GO:0009055
+GRMZM2G166855	HAP6(Ara)	NP_001146350	-	-	-	-	-	hypothetical protein LOC100279928 	AT4G21150	HAP6	ribophorin II (RPN2) family protein	-	2.4.99.18	K12667	GO:GO:0016021,GO:GO:0008250,GO:GO:0006487
+GRMZM2G112072	MAD2(Ara)	NP_001144620	-	-	-	-	-	hypothetical protein LOC100277636 	AT3G25980	MAD2	DNA-binding HORMA family protein	-			GO:GO:0007094
+GRMZM2G119261	mybr114	NP_001145692	Chr2	113,806,626	113,816,795	mybr114	MYB-related-transcription factor 114	hypothetical protein LOC100279196 	AT4G34430	ATSWI3D,CHB3	DNA-binding family protein	-		K11649	GO:GO:0008270,GO:GO:0005515
+GRMZM2G102000	GRMZM2G102000	-	-	-	-	-	-	-	AT2G32730		26S proteasome regulatory complex, non-ATPase subcomplex, Rpn2/Psmd1 subunit	-		K03032	
+AC233850.1_FG002	AC233850.1_FG002	NP_001152694	-	-	-	-	-	pectinesterase inhibitor domain containing protein 	AT5G46960		Plant invertase/pectin methylesterase inhibitor superfamily protein	-	2.5.1.78		GO:GO:0004857
+GRMZM5G813206	GRMZM5G813206	NP_001146145	-	-	-	-	-	hypothetical protein LOC100279714 	AT1G05960		ARM repeat superfamily protein	-			
+GRMZM2G133308	GRMZM2G133308	-	-	-	-	-	-	-	AT5G25060		RNA recognition motif (RRM)-containing protein	-			GO:GO:0003676,GO:GO:0006396,GO:GO:0003723
+GRMZM2G020098	GRMZM2G020098	NP_001141886	-	-	-	-	-	hypothetical protein LOC100274029 	AT1G03610		Protein of unknown function (DUF789)	-			
+GRMZM2G166701	GRMZM2G166701	NP_001144311	-	-	-	-	-	hypothetical protein LOC100277203 	AT3G08780			-			
+GRMZM2G027135	GRMZM2G027135	NP_001141690	-	-	-	-	-	hypothetical protein LOC100273819 	AT3G23255			-			
+GRMZM5G847216	GRMZM5G847216	NP_001144328	-	-	-	-	-	hypothetical protein LOC100277225 	AT3G14760			-			
+GRMZM2G012933	GRMZM2G012933	-	-	-	-	-	-	-	AT3G14470		NB-ARC domain-containing disease resistance protein	-			GO:GO:0043531
+GRMZM2G060161	GRMZM2G060161	-	-	-	-	-	-	-				-			
+GRMZM2G171395	nactf86	NP_001146534	Chr9	23,290,000	23,294,805	nactf86	NAC-transcription factor 86	hypothetical protein LOC100280128 	AT2G46770	ANAC043,EMB2301,NST1	NAC (No Apical Meristem) domain transcriptional regulator superfamily protein	NAC			GO:GO:0006355,GO:GO:0003677
+GRMZM2G163996	GRMZM2G163996	NP_001148392	-	-	-	-	-	HESB-like domain-containing protein 2 	AT2G16710		Iron-sulphur cluster biosynthesis family protein	-		K13628	
+GRMZM2G048140	GRMZM2G048140	-	-	-	-	-	-	-	AT3G19540		Protein of unknown function (DUF620)	-			
+GRMZM2G063462	GRMZM2G063462	NP_001136951	-	-	-	-	-	hypothetical protein LOC100217110 	AT3G13700		RNA-binding (RRM/RBD/RNP motifs) family protein	-			GO:GO:0003676
+GRMZM2G137174	PLA IIA,PLA2A,PLP2(Ara)	NP_001141843	-	-	-	-	-	hypothetical protein LOC100273985 	AT2G26560	PLA IIA,PLA2A,PLP2	phospholipase A 2A	-	3.1.1.26		GO:GO:0006629
+GRMZM5G830983	HSR8,MUR4,UXE1(Ara)	NP_001169423	-	-	-	-	-	hypothetical protein LOC100383292 	AT1G30620	HSR8,MUR4,UXE1	NAD(P)-binding Rossmann-fold superfamily protein	-	5.1.3.5		GO:GO:0055114,GO:GO:0016616,GO:GO:0006694,GO:GO:0003854
+GRMZM2G077960	GRMZM2G077960	NP_001170543	-	-	-	-	-	hypothetical protein LOC100384560 	AT1G47380		Protein phosphatase 2C family protein	-	3.1.3.16		GO:GO:0003824,GO:GO:0006470,GO:GO:0004722
+GRMZM2G416817	GRMZM2G416817	-	-	-	-	-	-	-	AT1G02660		alpha/beta-Hydrolases superfamily protein	-			
+GRMZM2G470862	GRMZM2G470862	NP_001130982	-	-	-	-	-	hypothetical protein LOC100192087 	AT3G08000		RNA-binding (RRM/RBD/RNP motifs) family protein	-			GO:GO:0003676
+GRMZM2G400156	GRMZM2G400156	NP_001159042	-	-	-	-	-	SAUR33 - auxin-responsive SAUR family member 	AT5G20820		SAUR-like auxin-responsive protein family 	-			GO:GO:0009733
+GRMZM2G160458	GRMZM2G160458	NP_001150440	-	-	-	-	-	brix domain-containing protein 2 	AT3G15460		Ribosomal RNA processing Brix domain protein	-		K14820	
+GRMZM2G151195	GRMZM2G151195	-	-	-	-	-	-	-	AT3G58050			-			
+GRMZM2G031001	nactf11	-	Chr1	53,419,144	53,421,347	nactf11	NAC-transcription factor 11	-	AT5G18270	ANAC087	Arabidopsis NAC domain containing protein 87	NAC			GO:GO:0006355,GO:GO:0003677
+GRMZM2G109429	umc1539	NP_001148701	Chr3	168,533,377	168,536,519	umc1539		LOC100282317 	AT1G05720		selenoprotein family protein	-			
+GRMZM2G366150	GRMZM2G366150	NP_001141453	-	-	-	-	-	hypothetical protein LOC100273563 	AT1G15740		Leucine-rich repeat family protein	-			GO:GO:0005515
+GRMZM2G000380	GRMZM2G000380	-	-	-	-	-	-	-	AT4G40020		Myosin heavy chain-related protein	-			
+GRMZM2G095969	GRMZM2G095969	NP_001149350	-	-	-	-	-	LOC100282974 	AT3G52390		TatD related DNase	-		K03424	GO:GO:0016888
+GRMZM2G156206	GRMZM2G156206	NP_001141557	-	-	-	-	-	hypothetical protein LOC100273673 	AT5G64090			-			
+GRMZM2G110107	AtIDD14,IDD14(Ara)	-	-	-	-	-	-	-	AT1G68130	AtIDD14,IDD14	indeterminate(ID)-domain 14	C2H2			
+GRMZM2G353076	zhd9	NP_001152541	Chr3	230,480,803	230,481,862	zhd9	ZF-HD-transcription factor 9	zinc finger homeodomain protein 1 	AT3G28917	MIF2	mini zinc finger 2	ZF-HD			
+GRMZM2G013677	GRMZM2G013677	-	-	-	-	-	-	-	AT5G05360			-			
+GRMZM2G101613	cki5	NP_001149832	Chr5	209,770,434	209,772,179	cki5	cyclin-dependent kinase inhibitor5	cyclin-dependent kinase inhibitor 2 	AT5G48820	ICK6,KRP3	inhibitor/interactor with cyclin-dependent kinase	-			GO:GO:0007050,GO:GO:0005634,GO:GO:0004861
+GRMZM2G043489	GRMZM2G043489	NP_001146572	-	-	-	-	-	hypothetical protein LOC100280168 	AT1G74160			-			
+GRMZM2G476699	GRMZM2G476699	NP_001130300	-	-	-	-	-	hypothetical protein LOC100191394 	AT3G18180		Glycosyltransferase family 61 protein	-	2.4.1.255		GO:GO:0016757
+GRMZM2G448633	GRMZM2G448633	NP_001148168	-	-	-	-	-	ATP binding protein 	AT2G40120		Protein kinase superfamily protein	-	2.7.12.1		GO:GO:0006468,GO:GO:0004672
+GRMZM2G170412	atx5	-	Chr8	147,255,919	147,262,824	atx5	arabidopsis trithorax homolog5	-	AT4G27910	ATX4,SDG16	SET domain protein 16	-	2.1.1.43		
+GRMZM5G862565	GRMZM5G862565	-	-	-	-	-	-	-	AT3G02890		RING/FYVE/PHD zinc finger superfamily protein	-			
+GRMZM2G168506	GRMZM2G168506	NP_001132477	-	-	-	-	-	hypothetical protein LOC100193935 	AT3G28480		Oxoglutarate/iron-dependent oxygenase	-	1.14.11.2	K00472	GO:GO:0055114,GO:GO:0016491
+AC208201.3_FG001	AC208201.3_FG001	NP_001130180	-	-	-	-	-	hypothetical protein LOC100191274 	AT5G01340		Mitochondrial substrate carrier family protein	-		K15100	
+GRMZM2G024005	GIK(Ara)	-	-	-	-	-	-	-	AT2G35270	GIK	Predicted AT-hook DNA-binding family protein	-			
+GRMZM2G158647	GRMZM2G158647	-	-	-	-	-	-	-	AT5G52870			-			
+GRMZM2G162814	umc115	NP_001142642	Chr1	14,939,938	14,942,616	umc115		hypothetical protein LOC100274922 	AT5G64850			-			
+AC207628.4_FG010	AC207628.4_FG010	NP_001130612	-	-	-	-	-	hypothetical protein LOC100191711 	AT4G22530		S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	-	2.1.1.145		GO:GO:0008168,GO:GO:0008152
+GRMZM2G001304	trps12	NP_001168032	Chr6	159,446,662	159,451,841	trps12	trehalose-6-phosphate synthase12	hypothetical protein LOC100381759 	AT1G78580	ATTPS1,TPS1	trehalose-6-phosphate synthase	-	2.4.1.15		GO:GO:0005992,GO:GO:0003824
+GRMZM2G029690	GRMZM2G029690	NP_001145446	-	-	-	-	-	hypothetical protein LOC100278825 	AT1G78420		RING/U-box superfamily protein	-			

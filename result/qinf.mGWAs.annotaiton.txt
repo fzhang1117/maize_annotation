@@ -1,0 +1,105 @@
+GeneSymbol	altName	NCBI_Accession	Chr	Start	End	Zma_alias	Zma_fullname	Zma_description	Ara_ortholog	Ara_alias	Annotation	TF	EC	KO	GO
+GRMZM2G087186	pdc3	Q05327	Chr1	45,517,324	45,520,500	pdc3	pyruvate decarboxylase3	Pyruvate decarboxylase isozyme 3 Fragment (PDC)(EC 4.1.1.1)	AT4G33070		Thiamine pyrophosphate dependent pyruvate decarboxylase family protein	-	4.1.1.1	K01568	GO:GO:0030976,GO:GO:0003824,GO:GO:0000287
+GRMZM2G087186	pdc3	Q05327	Chr1	45,517,324	45,520,500	pdc3	pyruvate decarboxylase3	Pyruvate decarboxylase isozyme 3 Fragment (PDC)(EC 4.1.1.1)	AT4G33070		Thiamine pyrophosphate dependent pyruvate decarboxylase family protein	-	4.1.1.1	K01568	GO:GO:0030976,GO:GO:0003824,GO:GO:0000287
+GRMZM2G075502	GRMZM2G075502	-	-	-	-	-	-	-	AT5G03380		Heavy metal transport/detoxification superfamily protein 	-			GO:GO:0046872,GO:GO:0030001
+GRMZM2G075502	GRMZM2G075502	-	-	-	-	-	-	-	AT5G03380		Heavy metal transport/detoxification superfamily protein 	-			GO:GO:0046872,GO:GO:0030001
+GRMZM2G075502	GRMZM2G075502	-	-	-	-	-	-	-	AT5G03380		Heavy metal transport/detoxification superfamily protein 	-			GO:GO:0046872,GO:GO:0030001
+GRMZM2G075042	GRMZM2G075042	NP_001145605	-	-	-	-	-	hypothetical protein LOC100279083 				-			
+GRMZM2G131723	GRMZM2G131723	NP_001137053	-	-	-	-	-	hypothetical protein LOC100217225 	AT2G45530		RING/U-box superfamily protein	-			GO:GO:0008270
+GRMZM2G028500	GRMZM2G028500	NP_001142814	-	-	-	-	-	hypothetical protein LOC100275193 	AT4G39235			-			
+GRMZM2G073508	GRMZM2G073508	B6UCB4	-	-	-	-	-	Putative uncharacterized protein 				-			
+GRMZM2G073508	GRMZM2G073508	B6UCB4	-	-	-	-	-	Putative uncharacterized protein 				-			
+GRMZM2G081943	GRMZM2G081943	NP_001131986	-	-	-	-	-	hypothetical protein LOC100193385 	AT1G55340		Protein of unknown function (DUF1639)	-			
+GRMZM2G156937	PTAC13(Ara)	NP_001151355	-	-	-	-	-	transcription termination factor nusG family protein 	AT3G09210	PTAC13	plastid transcriptionally active 13	-			GO:GO:0006355
+GRMZM2G167428	GRMZM2G167428	-	-	-	-	-	-	-	AT5G08720			-			
+GRMZM2G167428	GRMZM2G167428	-	-	-	-	-	-	-	AT5G08720			-			
+GRMZM2G016738	GRMZM2G016738	-	-	-	-	-	-	-				-			
+GRMZM2G102000	GRMZM2G102000	-	-	-	-	-	-	-	AT2G32730		26S proteasome regulatory complex, non-ATPase subcomplex, Rpn2/Psmd1 subunit	-		K03032	
+GRMZM2G040920	GRMZM2G040920	-	-	-	-	-	-	-	AT4G31350		Core-2/I-branching beta-1,6-N-acetylglucosaminyltransferase family protein	-			GO:GO:0016020,GO:GO:0008375
+GRMZM5G851032	GRMZM5G851032	-	-	-	-	-	-	-	AT5G43150			-			
+GRMZM2G076204	GAMMA-SNAP,GSNAP(Ara)	-	-	-	-	-	-	-	AT4G20410	GAMMA-SNAP,GSNAP	gamma-soluble NSF attachment protein	-			GO:GO:0006886
+GRMZM2G366150	GRMZM2G366150	NP_001141453	-	-	-	-	-	hypothetical protein LOC100273563 	AT1G15740		Leucine-rich repeat family protein	-			GO:GO:0005515
+GRMZM2G112072	MAD2(Ara)	NP_001144620	-	-	-	-	-	hypothetical protein LOC100277636 	AT3G25980	MAD2	DNA-binding HORMA family protein	-			GO:GO:0007094
+GRMZM2G065157	GRMZM2G065157	NP_001142653	-	-	-	-	-	hypothetical protein LOC100274938 				-			
+GRMZM2G106213	agp1	NP_001105178	Chr2	174,023,583	174,034,507	agp1	ADP glucose pyrophosphorylase small subunit embryo 1	ADP-glucose pyrophosphorylase small subunit 	AT5G48300	ADG1,APS1	ADP glucose pyrophosphorylase  1	-	2.7.7.27	K00975	GO:GO:0016779,GO:GO:0009058
+GRMZM2G106213	agp1	NP_001105178	Chr2	174,023,583	174,034,507	agp1	ADP glucose pyrophosphorylase small subunit embryo 1	ADP-glucose pyrophosphorylase small subunit 	AT5G48300	ADG1,APS1	ADP glucose pyrophosphorylase  1	-	2.7.7.27	K00975	GO:GO:0016779,GO:GO:0009058
+GRMZM2G060161	GRMZM2G060161	-	-	-	-	-	-	-				-			
+GRMZM2G098859	GRMZM2G098859	-	-	-	-	-	-	-	AT3G14172			-			
+GRMZM2G098859	GRMZM2G098859	-	-	-	-	-	-	-	AT3G14172			-			
+GRMZM2G163996	GRMZM2G163996	NP_001148392	-	-	-	-	-	HESB-like domain-containing protein 2 	AT2G16710		Iron-sulphur cluster biosynthesis family protein	-		K13628	
+GRMZM2G106906	GRMZM2G106906	NP_001143919	-	-	-	-	-	hypothetical protein LOC100276729 	AT3G62580		Late embryogenesis abundant protein (LEA) family protein	-			
+GRMZM2G137174	PLA IIA,PLA2A,PLP2(Ara)	NP_001141843	-	-	-	-	-	hypothetical protein LOC100273985 	AT2G26560	PLA IIA,PLA2A,PLP2	phospholipase A 2A	-	3.1.1.26		GO:GO:0006629
+GRMZM2G137174	PLA IIA,PLA2A,PLP2(Ara)	NP_001141843	-	-	-	-	-	hypothetical protein LOC100273985 	AT2G26560	PLA IIA,PLA2A,PLP2	phospholipase A 2A	-	3.1.1.26		GO:GO:0006629
+GRMZM5G817173	cko4	NP_001140730	Chr3	191,899,705	191,903,570	cko4	cytokinin oxidase 4	hypothetical protein LOC100272805 				-			
+GRMZM2G160151	ATCPSF73-II,CPSF73-II,EDA26(Ara)	-	-	-	-	-	-	-	AT2G01730	ATCPSF73-II,CPSF73-II,EDA26	cleavage and polyadenylation specificity factor 73 kDa subunit-II	-			
+GRMZM2G166701	GRMZM2G166701	NP_001144311	-	-	-	-	-	hypothetical protein LOC100277203 	AT3G08780			-			
+GRMZM2G353076	zhd9	NP_001152541	Chr3	230,480,803	230,481,862	zhd9	ZF-HD-transcription factor 9	zinc finger homeodomain protein 1 	AT3G28917	MIF2	mini zinc finger 2	ZF-HD			
+GRMZM2G160458	GRMZM2G160458	NP_001150440	-	-	-	-	-	brix domain-containing protein 2 	AT3G15460		Ribosomal RNA processing Brix domain protein	-		K14820	
+GRMZM2G063850	GRMZM2G063850	C4J4W3	-	-	-	-	-	Putative uncharacterized protein 	AT1G62740		stress-inducible protein, putative	-		K09553	GO:GO:0005515
+GRMZM2G012814	SCN1(Ara)	-	-	-	-	-	-	-	AT3G07880	SCN1	Immunoglobulin E-set superfamily protein	-		K12462	GO:GO:0005737,GO:GO:0005094
+GRMZM2G163277	GRMZM2G163277	NP_001169387	-	-	-	-	-	hypothetical protein LOC100383255 	AT5G47490		RGPR-related	-			GO:GO:0048208
+GRMZM2G163277	GRMZM2G163277	NP_001169387	-	-	-	-	-	hypothetical protein LOC100383255 	AT5G47490		RGPR-related	-			GO:GO:0048208
+GRMZM2G054350	GRMZM2G054350	-	-	-	-	-	-	-	AT5G62620		Galactosyltransferase family protein	-	2.4.1.134		GO:GO:0016757,GO:GO:0016020,GO:GO:0030246,GO:GO:0008378,GO:GO:0006486
+GRMZM2G376743	LTI65,RD29B(Ara)	-	-	-	-	-	-	-	AT5G52300	LTI65,RD29B	CAP160 protein	-			
+GRMZM2G376743	LTI65,RD29B(Ara)	-	-	-	-	-	-	-	AT5G52300	LTI65,RD29B	CAP160 protein	-			
+GRMZM2G020098	GRMZM2G020098	NP_001141886	-	-	-	-	-	hypothetical protein LOC100274029 	AT1G03610		Protein of unknown function (DUF789)	-			
+GRMZM2G324540	pco093291	NP_001130751	Chr5	30,760,520	30,770,795	pco093291		hypothetical protein LOC100191855 	AT1G04510	MAC3A	MOS4-associated  complex 3A	-		K10599	GO:GO:0005515
+GRMZM2G324540	pco093291	NP_001130751	Chr5	30,760,520	30,770,795	pco093291		hypothetical protein LOC100191855 	AT1G04510	MAC3A	MOS4-associated  complex 3A	-		K10599	GO:GO:0005515
+GRMZM2G027135	GRMZM2G027135	NP_001141690	-	-	-	-	-	hypothetical protein LOC100273819 	AT3G23255			-			
+GRMZM2G133308	GRMZM2G133308	-	-	-	-	-	-	-	AT5G25060		RNA recognition motif (RRM)-containing protein	-			GO:GO:0003676,GO:GO:0006396,GO:GO:0003723
+AC233850.1_FG002	AC233850.1_FG002	NP_001152694	-	-	-	-	-	pectinesterase inhibitor domain containing protein 	AT5G46960		Plant invertase/pectin methylesterase inhibitor superfamily protein	-	2.5.1.78		GO:GO:0004857
+GRMZM2G075260	GRMZM2G075260	NP_001168100	-	-	-	-	-	hypothetical protein LOC100381837 	AT1G70280		NHL domain-containing protein	-			
+GRMZM2G117984	GRMZM2G117984	-	-	-	-	-	-	-	AT1G08480			-			
+GRMZM2G074850	rcp1	-	Chr6	68,972,623	68,974,546	rcp1	root cap protein1	-	AT3G51160	GMD2,MUR1,MUR_1	NAD(P)-binding Rossmann-fold superfamily protein	-	4.2.1.47		GO:GO:0050662,GO:GO:0003824
+GRMZM2G063462	GRMZM2G063462	NP_001136951	-	-	-	-	-	hypothetical protein LOC100217110 	AT3G13700		RNA-binding (RRM/RBD/RNP motifs) family protein	-			GO:GO:0003676
+GRMZM2G018823	MPB2C(Ara)	NP_001130261	-	-	-	-	-	hypothetical protein LOC100191355 	AT5G08120	MPB2C	movement protein binding protein 2C	-			
+GRMZM2G013677	GRMZM2G013677	-	-	-	-	-	-	-	AT5G05360			-			
+GRMZM2G013677	GRMZM2G013677	-	-	-	-	-	-	-	AT5G05360			-			
+GRMZM2G001652	GRMZM2G001652	-	-	-	-	-	-	-	AT2G25800		Protein of unknown function (DUF810)	-			
+GRMZM2G158162	abi32	NP_001168259	Chr7	173,216,702	173,223,537	abi32	ABI3-VP1-transcription factor 32	hypothetical protein LOC100382023 	AT4G32010	HSI2-L1,HSL1,VAL2	HSI2-like 1	B3			GO:GO:0008270,GO:GO:0003677
+GRMZM2G416817	GRMZM2G416817	-	-	-	-	-	-	-	AT1G02660		alpha/beta-Hydrolases superfamily protein	-			
+GRMZM2G073884	GRMZM2G073884	NP_001146150	-	-	-	-	-	hypothetical protein LOC100279719 	AT3G47570		Leucine-rich repeat protein kinase family protein	-	2.7.11.1		GO:GO:0005515,GO:GO:0006468,GO:GO:0005524,GO:GO:0004672
+GRMZM2G144028	GRMZM2G144028	NP_001141425	-	-	-	-	-	hypothetical protein LOC100273535 	AT1G18390		Protein kinase superfamily protein	-	2.7.11.1		GO:GO:0006468,GO:GO:0005524,GO:GO:0004672
+GRMZM2G002304	GRMZM2G002304	NP_001151188	-	-	-	-	-	tropinone reductase 2 	AT5G06060		NAD(P)-binding Rossmann-fold superfamily protein	-	1.1.1.206,1.1.1.236	K08081	
+GRMZM2G002304	GRMZM2G002304	NP_001151188	-	-	-	-	-	tropinone reductase 2 	AT5G06060		NAD(P)-binding Rossmann-fold superfamily protein	-	1.1.1.206,1.1.1.236	K08081	
+GRMZM2G176638	GRMZM2G176638	-	-	-	-	-	-	-	AT1G67340		HCP-like superfamily protein with MYND-type zinc finger	-			
+GRMZM2G176638	GRMZM2G176638	-	-	-	-	-	-	-	AT1G67340		HCP-like superfamily protein with MYND-type zinc finger	-			
+GRMZM2G176638	GRMZM2G176638	-	-	-	-	-	-	-	AT1G67340		HCP-like superfamily protein with MYND-type zinc finger	-			
+GRMZM2G470862	GRMZM2G470862	NP_001130982	-	-	-	-	-	hypothetical protein LOC100192087 	AT3G08000		RNA-binding (RRM/RBD/RNP motifs) family protein	-			GO:GO:0003676
+GRMZM2G166855	HAP6(Ara)	NP_001146350	-	-	-	-	-	hypothetical protein LOC100279928 	AT4G21150	HAP6	ribophorin II (RPN2) family protein	-	2.4.99.18	K12667	GO:GO:0016021,GO:GO:0008250,GO:GO:0006487
+GRMZM2G166855	HAP6(Ara)	NP_001146350	-	-	-	-	-	hypothetical protein LOC100279928 	AT4G21150	HAP6	ribophorin II (RPN2) family protein	-	2.4.99.18	K12667	GO:GO:0016021,GO:GO:0008250,GO:GO:0006487
+GRMZM2G118303	GRMZM2G118303	-	-	-	-	-	-	-				-			
+GRMZM2G118303	GRMZM2G118303	-	-	-	-	-	-	-				-			
+GRMZM2G105167	GRMZM2G105167	NM_001150835	-	-	-	-	-	hypothetical protein LOC100277198 (LOC100277198), mRNA	AT2G25310		Protein of unknown function (DUF2012)	-			
+GRMZM2G105167	GRMZM2G105167	NM_001150835	-	-	-	-	-	hypothetical protein LOC100277198 (LOC100277198), mRNA	AT2G25310		Protein of unknown function (DUF2012)	-			
+GRMZM2G105167	GRMZM2G105167	NM_001150835	-	-	-	-	-	hypothetical protein LOC100277198 (LOC100277198), mRNA	AT2G25310		Protein of unknown function (DUF2012)	-			
+GRMZM2G105167	GRMZM2G105167	NM_001150835	-	-	-	-	-	hypothetical protein LOC100277198 (LOC100277198), mRNA	AT2G25310		Protein of unknown function (DUF2012)	-			
+GRMZM2G105167	GRMZM2G105167	NM_001150835	-	-	-	-	-	hypothetical protein LOC100277198 (LOC100277198), mRNA	AT2G25310		Protein of unknown function (DUF2012)	-			
+GRMZM2G105167	GRMZM2G105167	NM_001150835	-	-	-	-	-	hypothetical protein LOC100277198 (LOC100277198), mRNA	AT2G25310		Protein of unknown function (DUF2012)	-			
+GRMZM2G105167	GRMZM2G105167	NM_001150835	-	-	-	-	-	hypothetical protein LOC100277198 (LOC100277198), mRNA	AT2G25310		Protein of unknown function (DUF2012)	-			
+GRMZM2G105167	GRMZM2G105167	NM_001150835	-	-	-	-	-	hypothetical protein LOC100277198 (LOC100277198), mRNA	AT2G25310		Protein of unknown function (DUF2012)	-			
+GRMZM2G105167	GRMZM2G105167	NM_001150835	-	-	-	-	-	hypothetical protein LOC100277198 (LOC100277198), mRNA	AT2G25310		Protein of unknown function (DUF2012)	-			
+GRMZM2G105167	GRMZM2G105167	NM_001150835	-	-	-	-	-	hypothetical protein LOC100277198 (LOC100277198), mRNA	AT2G25310		Protein of unknown function (DUF2012)	-			
+GRMZM2G105167	GRMZM2G105167	NM_001150835	-	-	-	-	-	hypothetical protein LOC100277198 (LOC100277198), mRNA	AT2G25310		Protein of unknown function (DUF2012)	-			
+GRMZM2G105167	GRMZM2G105167	NM_001150835	-	-	-	-	-	hypothetical protein LOC100277198 (LOC100277198), mRNA	AT2G25310		Protein of unknown function (DUF2012)	-			
+GRMZM2G105167	GRMZM2G105167	NM_001150835	-	-	-	-	-	hypothetical protein LOC100277198 (LOC100277198), mRNA	AT2G25310		Protein of unknown function (DUF2012)	-			
+GRMZM2G105167	GRMZM2G105167	NM_001150835	-	-	-	-	-	hypothetical protein LOC100277198 (LOC100277198), mRNA	AT2G25310		Protein of unknown function (DUF2012)	-			
+GRMZM2G105167	GRMZM2G105167	NM_001150835	-	-	-	-	-	hypothetical protein LOC100277198 (LOC100277198), mRNA	AT2G25310		Protein of unknown function (DUF2012)	-			
+GRMZM2G105167	GRMZM2G105167	NM_001150835	-	-	-	-	-	hypothetical protein LOC100277198 (LOC100277198), mRNA	AT2G25310		Protein of unknown function (DUF2012)	-			
+GRMZM2G105167	GRMZM2G105167	NM_001150835	-	-	-	-	-	hypothetical protein LOC100277198 (LOC100277198), mRNA	AT2G25310		Protein of unknown function (DUF2012)	-			
+GRMZM2G105167	GRMZM2G105167	NM_001150835	-	-	-	-	-	hypothetical protein LOC100277198 (LOC100277198), mRNA	AT2G25310		Protein of unknown function (DUF2012)	-			
+GRMZM2G105167	GRMZM2G105167	NM_001150835	-	-	-	-	-	hypothetical protein LOC100277198 (LOC100277198), mRNA	AT2G25310		Protein of unknown function (DUF2012)	-			
+GRMZM2G105167	GRMZM2G105167	NM_001150835	-	-	-	-	-	hypothetical protein LOC100277198 (LOC100277198), mRNA	AT2G25310		Protein of unknown function (DUF2012)	-			
+GRMZM2G105167	GRMZM2G105167	NM_001150835	-	-	-	-	-	hypothetical protein LOC100277198 (LOC100277198), mRNA	AT2G25310		Protein of unknown function (DUF2012)	-			
+GRMZM2G105167	GRMZM2G105167	NM_001150835	-	-	-	-	-	hypothetical protein LOC100277198 (LOC100277198), mRNA	AT2G25310		Protein of unknown function (DUF2012)	-			
+GRMZM2G105167	GRMZM2G105167	NM_001150835	-	-	-	-	-	hypothetical protein LOC100277198 (LOC100277198), mRNA	AT2G25310		Protein of unknown function (DUF2012)	-			
+GRMZM2G105167	GRMZM2G105167	NM_001150835	-	-	-	-	-	hypothetical protein LOC100277198 (LOC100277198), mRNA	AT2G25310		Protein of unknown function (DUF2012)	-			
+GRMZM2G105167	GRMZM2G105167	NM_001150835	-	-	-	-	-	hypothetical protein LOC100277198 (LOC100277198), mRNA	AT2G25310		Protein of unknown function (DUF2012)	-			
+AC211394.4_FG004	acp1	NP_001147979	Chr9	95,254,430	95,260,811	acp1	acid phosphatase1	purple acid phosphatase 	AT5G34850	ATPAP26,PAP26	purple acid phosphatase 26	-	3.1.3.41,3.1.3.2,3.1.3.60		GO:GO:0016787
+AC211394.4_FG004	acp1	NP_001147979	Chr9	95,254,430	95,260,811	acp1	acid phosphatase1	purple acid phosphatase 	AT5G34850	ATPAP26,PAP26	purple acid phosphatase 26	-	3.1.3.41,3.1.3.2,3.1.3.60		GO:GO:0016787
+AC211394.4_FG004	acp1	NP_001147979	Chr9	95,254,430	95,260,811	acp1	acid phosphatase1	purple acid phosphatase 	AT5G34850	ATPAP26,PAP26	purple acid phosphatase 26	-	3.1.3.41,3.1.3.2,3.1.3.60		GO:GO:0016787
+AC211394.4_FG004	acp1	NP_001147979	Chr9	95,254,430	95,260,811	acp1	acid phosphatase1	purple acid phosphatase 	AT5G34850	ATPAP26,PAP26	purple acid phosphatase 26	-	3.1.3.41,3.1.3.2,3.1.3.60		GO:GO:0016787
+AC211394.4_FG004	acp1	NP_001147979	Chr9	95,254,430	95,260,811	acp1	acid phosphatase1	purple acid phosphatase 	AT5G34850	ATPAP26,PAP26	purple acid phosphatase 26	-	3.1.3.41,3.1.3.2,3.1.3.60		GO:GO:0016787
+GRMZM2G092975	PBC1(Ara)	NP_001141963	-	-	-	-	-	hypothetical protein LOC100274112 	AT1G21720	PBC1	proteasome beta subunit C1	-	3.4.25.1	K02735	GO:GO:0051603,GO:GO:0005839,GO:GO:0004298
+GRMZM2G092975	PBC1(Ara)	NP_001141963	-	-	-	-	-	hypothetical protein LOC100274112 	AT1G21720	PBC1	proteasome beta subunit C1	-	3.4.25.1	K02735	GO:GO:0051603,GO:GO:0005839,GO:GO:0004298
+GRMZM5G846548	RUS3(Ara)	NP_001130544	-	-	-	-	-	hypothetical protein LOC100191643 	AT1G13770	RUS3	Protein of unknown function, DUF647	-			

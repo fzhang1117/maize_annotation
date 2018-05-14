@@ -12,10 +12,10 @@
 import sys
 
 ## Part1: load library and dic build ##
-FH_anno = open("./library/Zmays_284_5b+.annotation_info.txt", 'r')
-FH_TF = open("./library/Zma_TF_list", 'r')
-FH_zma = open("./library/ZmB73_5a_gene_descriptiors.txt", 'r')
-FH_zma2 = open("./library/zma_function.txt", 'r')
+FH_anno = open("~/tools/maize_annotation/library/Zmays_284_5b+.annotation_info.txt", 'r')
+FH_TF = open("~/tools/maize_annotation/library/Zma_TF_list", 'r')
+FH_zma = open("~/tools/maize_annotation/library/ZmB73_5a_gene_descriptiors.txt", 'r')
+FH_zma2 = open("~/tools/maize_annotation/library/zma_function.txt", 'r')
 
 FH_query = open(sys.argv[1], 'r')
 FH_output = open(sys.argv[2], 'a')
